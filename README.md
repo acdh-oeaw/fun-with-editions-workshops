@@ -26,3 +26,8 @@ collections of useful things to discuss/teach in our team
 * [baserow-dump-cookiecutter](https://github.com/acdh-oeaw/baserow-dump-cookiecutter)
 * how to enrich/denormalize via GH-Actions
   
+## ARCHE
+* what is it
+* how to generate ARCHE-MD
+* set up arche locally
+* ingest data
