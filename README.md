@@ -25,6 +25,10 @@ collections of useful things to discuss/teach in our team
 * [acdh-baserow-pyutils](https://github.com/acdh-oeaw/acdh-baserow-pyutils)
 * [baserow-dump-cookiecutter](https://github.com/acdh-oeaw/baserow-dump-cookiecutter)
 * how to enrich/denormalize via GH-Actions
+
+## dse-static-cookiecutter
+
+## [de-micro-editor](https://github.com/acdh-oeaw/de-micro-editor)
   
 ## ARCHE
 * what is it
