@@ -30,7 +30,8 @@ collections of useful things to discuss/teach in our team
 
 ## [de-micro-editor](https://github.com/acdh-oeaw/de-micro-editor)
   
-## ARCHE
+## [ARCHE](arche-localhost.md)
+
 * what is it
 * how to generate ARCHE-MD
 * set up arche locally
