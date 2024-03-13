@@ -50,3 +50,7 @@ have look at [build_index.ipynb](build_index.ipynb)
 
 ## special guests
 Stephan Kurz from the IHB who currently works on transforming https://maechtekongresse.acdh.oeaw.ac.at/pages/index.html (eXist-db) into a cookiecutter based version
+
+## super surprise
+
+well, its a surprise
