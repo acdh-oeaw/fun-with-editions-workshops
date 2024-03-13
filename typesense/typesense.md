@@ -44,12 +44,12 @@ have look at [build_index.ipynb](build_index.ipynb)
 * create a search token (via the Typesense Dashboard) and add it to `app/search.js`
 * start a server in the `app` directory: e.g. `python -m http.server`
 
-## AIMS
+## aims
 
-* At the end you should be able have Typesense and Typesense Dashboard running locally, create a collection, populate it and build a search interface
+At the end you should be able have Typesense and Typesense Dashboard running locally, create a collection, populate it and build a search interface
 
 ## special guests
-Stephan Kurz from the IHB who currently works on transforming https://maechtekongresse.acdh.oeaw.ac.at/pages/index.html (eXist-db) into a cookiecutter based version
+[Stephan Kurz](https://www.oeaw.ac.at/ihb/personen/kurz-stephan) from the IHB who currently works on transforming https://maechtekongresse.acdh.oeaw.ac.at/pages/index.html (eXist-db) into a cookiecutter based version
 
 ## super surprise
 
