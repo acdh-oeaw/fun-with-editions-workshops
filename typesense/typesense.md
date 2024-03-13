@@ -39,3 +39,6 @@
 have look at [build_index.ipynb](build_index.ipynb)
 
 ### build a search interface
+
+* have a look into the `app` folder
+* create a search token (via the Typesense Dashboard) and add it to `app/search.js`
