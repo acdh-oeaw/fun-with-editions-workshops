@@ -21,7 +21,7 @@
 
 * a very **fast**, **easy** to set up/maintain and **easy** to work with **search engine**
 
-* comes with a very robust [JavaScript library]() to build search interfaces
+* comes with a very robust JavaScript library [InstantSearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) to build search interfaces
 
 * used in several (digital-edition) projects
   * https://thun-korrespondenz.acdh.oeaw.ac.at/search.html
@@ -32,6 +32,10 @@
 
 ### check local setup
 
+`docker container ps` should show at least two containers running
+
 ### build and populate an index
+
+have look at [build_index.ipynb](build_index.ipynb)
 
 ### build a search interface

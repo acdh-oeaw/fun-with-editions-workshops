@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/maechtekongresse/editions" xml:id="Verona_I_8.xml" prev="https://id.acdh.oeaw.ac.at/maechtekongresse/editions/Verona_I_7.xml" next="https://id.acdh.oeaw.ac.at/maechtekongresse/editions/Verona_I_9.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+<title type="main">Kongress von Verona</title> 
+            <title type="main">I. Affaires d’Espagne</title>
+            <title type="main">Entgegnung Montmorencys auf die Memoranden der Bevollmächtigten </title>
+            <title type="sub">Digitale Edition</title>
+            <editor>
+               <persName>
+                        <surname>Schneider</surname> <forename>Karin</forename></persName>
+                </editor>
+         <editor role="Technical_Editor">
+    <persName ref="http://d-nb.info/gnd/13281899X">
+        <surname>Kurz</surname>
+        <forename>Stephan</forename></persName>
+</editor>
+<respStmt>
+    <resp>Transkription</resp>
+    <name ref="#KS">Karin Schneider</name>
+</respStmt>
+<respStmt>
+    <resp>Wissenschaftliche Edition</resp>
+    <name ref="#KS">Karin Schneider</name>
+</respStmt>
+<respStmt>
+    <resp>Technical Editor</resp>
+    <name ref="#SK">Stephan Kurz</name>
+</respStmt>
+<respStmt>
+    <resp>Korrekturen</resp>
+<name ref="#KS">Karin Schneider</name>
+    <name ref="#SK">Stephan Kurz</name>
+</respStmt>
+<respStmt>
+    <resp>Beratung Kodierung</resp>
+    <name>Daniel Schopper</name>
+</respStmt>
+<respStmt>
+    <resp>Beratung Kodierung</resp>
+    <name>Peter Andorfer</name>
+</respStmt>
+</titleStmt>
+         <editionStmt>
+            <edition>
+                    <date>2017-03-13</date>
+                </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Österreichische Akademie der Wissenschaften, Institut für Neuzeit- und
+               Zeitgeschichtsforschung</publisher>
+            <pubPlace>Wien</pubPlace>
+<date when="2018-09-23" change="#initial">2018-09-23</date>
+            <idno>V_I_08</idno>
+                <idno type="ISBN" n="9783950478303">978-3-9504783-0-3</idno>
+                 <availability>           <licence target="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">https://creativecommons.org/licenses/by-sa/4.0/legalcode.de</licence>         </availability> <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000C-1F01-1</tei:idno>
+            </publicationStmt>
+            <notesStmt>
+    <note>Vergleiche auch die Projektbeschreibung in der <ref type="URI" target="../meta/Einleitung.xml">Einleitung</ref> sowie die Dokumentation der Applikation unter <ref type="URI" target="../meta/about.xml">„Über diese Webseite“</ref>.</note>
+</notesStmt>
+         <sourceDesc>
+            <msDesc xml:id="m.1" type="Ausfertigung">
+               <msIdentifier>
+                  <settlement>Wien</settlement>
+                  <institution>ÖStA</institution>
+                  <collection>HHStA, Staatskanzlei, Kongressakten</collection>
+                  <idno>
+                     <idno type="Karton">Kart. 23</idno>
+                     <idno type="Faszikel"> Fasz. 43 (alt)</idno>
+                     <idno type="Folia">189-190</idno>
+                  </idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title>Entgegnung Montmorencys auf die Memoranden der Bevollmächtigten </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>Ausfertigung</p>
+                  <p>Dokument liegt in einem Umschlag mit der Aufschrift von der Hand <persName ref="#p.8">
+                                <surname>Metternich</surname></persName>: <q>No 8. Projets des
+                     réponses des Cabinets à la proposition autrichienne</q>.</p>
+
+                  <handDesc>
+                     <handNote xml:id="A">Anonyme Hand</handNote>
+                     <handNote xml:id="A1">Weitere anonyme Hand</handNote>
+                     <handNote xml:id="G">Friedrich Gentz</handNote>
+                     <handNote xml:id="W">Nikolaus Wacken</handNote>
+                     <handNote xml:id="AmB">Anonyme Hand mit Bleistift</handNote>
+                     <handNote xml:id="AmR">Anonyme Hand mit Rotstift</handNote>
+                     <handNote xml:id="M">Metternich</handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                            <placeName ref="#loc.68">Verona</placeName>
+                     <date>o.D.</date>
+                        </origin>
+               </history>
+            </msDesc>
+
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+         <styleDefDecl scheme="css"/>
+         <tagsDecl>
+            <rendition xml:id="su" scheme="css">vertical-align:super; font-size:.7em;</rendition>
+            <rendition xml:id="s" scheme="css">text-decoration:line-through;</rendition>
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            <rendition xml:id="ow" scheme="css">text-decoration:line-through;text-decoration-style:double;</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p>Der französische Außenminister <persName ref="#p.174">
+                        <surname>Montmorency</surname></persName> begrüßt die Unterstützung der <rs ref="#p.8 #p.12 #p.175 #p.13" type="multi-person">Vertreter Österreichs, Preußens und Russlands</rs>
+               und bedauert, dass die Regierung Großbritanniens einer Intervention in
+                  <country>Spanien</country> ablehnend gegenübersteht.</p>
+         </abstract>
+      </profileDesc>
+        <revisionDesc>
+    <change xml:id="initial" when="2018-09-23" who="#SK">initial version for public beta release</change>
+    <change notAfter="2018-09-23" who="#SK #KS">changetracking on ACDH git repository</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div decls="#m.1" hand="#A">
+            <pb n="189r"/>
+            <p>Le <rs ref="#p.174" type="person">Ministre des Affaires Etrangères de France</rs> se félicite
+               d’avoir à remercier Messieurs les <rs ref="#p.8 #p.12 #p.175 #p.13" type="multi-person">Ministres
+                  d’<ref target="Verona_I_3.xml">Autriche</ref>, de <ref target="Verona_I_5.xml">Prusse</ref> et de <ref target="Verona_I_4.xml">Russie</ref></rs> des réponses que, d’après les ordres
+               de leurs Cours, ils ont faites à la <ref target="Verona_I_2.xml">communication qu’il
+                  avait eu l’honneur de placer sous leurs yeux</ref>. Elles justifient la confiance
+               qu’avait <rs xml:id="n.1" ref="#p.15" type="person">Sa Majesté Très Chrétienne</rs>
+                    <note type="editorial" target="#n.1">Ehrentitel des Königs von Frankreich.</note> dans
+               l’intérêt de Ses Alliés pour la <country>France</country> et dans leur constant
+               attachement aux principes de l’Alliance.</p>
+            <p>Le <rs ref="#p.174" type="person">Ministre des Affaires Etrangères</rs>, tout en rendant la même
+               justice aux <ref target="Verona_I_6.xml">sentimens exprimés par le <rs ref="#p.10" type="person">Plénipotentiaire de la Grande-Bretagne</rs>,<pb n="189v"/>
+                    </ref> ne peut que
+               regretter de ne l’avoir pas rencontré sur la ligne suivie par les Cours d’Autriche,
+               de Prusse et de Russie. Parfaitement d’accord avec Monsieur le <rs ref="#p.10" type="person">Plénipotentiaire de la Grande-Bretagne</rs> sur les principes qui dérivent de la
+               nature à peu près semblable des deux Gouvernemens, il croit ne s’en être pas écarté
+               en établissant des hypothèses qui ne touchent en rien à ces principes, hypothèses
+               repoussées par Monsieur le <persName ref="#p.10">
+                        <roleName>Duc</roleName>
+                  <surname>de Wellington</surname></persName> et qui seules cependant pouvaient
+               faire naître les questions qui ont été proposées par la
+               <country>France</country>.</p>
+            <p>Il a également vu avec peine que Monsieur le <persName ref="#p.10">
+                        <roleName>Duc</roleName>
+                        <pb n="190r"/>
+                  <surname>de Wellington</surname></persName> fondait à quelques égards son opinion
+               sur l’ignorance où se trouvait la Cour de <placeName ref="#loc.8">Londres</placeName>
+               de ce qui s’est passé depuis 1820 entre la <country>France</country> et
+                  l’<country>Espagne</country>. Les faits sur ce point sont malheureusement de
+               notoriété publique. La <country>France</country>, fidèlle aux principes de l’Union
+               consacrée par le <rs ref="#t.42" type="treaties">Protocole d’<placeName ref="#loc.1">Aix-La-Chapelle</placeName></rs>, n’a jamais laissé ignorer à ses Alliés ses
+               relations avec le <choice>
+                  <abbr>Gouv<hi rendition="#su">t</hi>
+                        </abbr>
+                  <expan>Gouvernement</expan>
+               </choice> Espagnol. Le <rs ref="#p.174" type="person">Ministre des Affaires Etrangères</rs> croit
+               d’ailleurs avoir exposé assez clairement aux <rs ref="#p.8 #p.12 #p.175 #p.13 #p.10" type="multi-person">Ministres des quatre Cours</rs> le détail des circonstances qui ont amené entre
+               la <country>France</country> et l’<country>Espagne</country> l’état<pb n="190v"/>
+               présent des choses pour qu’il ne reste aucun doute sur le soin que le Gouvernement du
+                  <rs ref="#p.15" type="person">Roi</rs> a mis à conserver la Paix et à éviter, de son côté, tout
+               motif légitime de rupture.</p>
+         </div>
+      </body>
+      
+   
+    <back>
+            <listPerson>
+                <person xml:id="p.8">
+                    <persName>
+                        <surname>Metternich</surname>
+                        <forename>Clemens Wenzel Lothar</forename>
+                        <roleName>Fürst</roleName></persName>
+                    <birth>1773</birth>
+                    <death>1859</death>
+                    <note>Österreichischer Außenminister, ab 1821 österreichischer Haus-, Hof- und
+                        Staatskanzler; vgl. zu seiner Person Siemann, Metternich; Šedivý,
+                        Metternich; Srbik, Metternich; Schneider, Werner, Europa in Wien, S.
+                        237–239.</note>
+                    <idno type="URI">https://viaf.org/viaf/49258230/</idno>
+                <idno type="GND">http://d-nb.info/gnd/118581465/</idno></person>
+                <person xml:id="p.174">
+                    <persName>
+                        <forename>Mathieu Jean Félicité</forename>
+                        <roleName>Vicomte</roleName>
+                        <surname>de Montmorency-Laval</surname></persName>
+                    <birth>1766</birth>
+                    <death>1826</death>
+                    <note>1821/22 französischer Außenminister, Vertreter Frankreichs auf dem
+                        Kongress von Verona; vgl. zu seiner Person Michaud, Biographie universelle,
+                        Bd. 29, S. 181-183.</note>
+                    <idno type="URI">https://viaf.org/viaf/66610110/</idno>
+                <idno type="GND">http://d-nb.info/gnd/104256060/</idno></person>
+                <person xml:id="p.12">
+                    <persName>
+                        <forename>Christian Günther</forename>
+                        <roleName>Graf</roleName>
+                        <surname>von Bernstorff</surname></persName>
+                    <birth>1769</birth>
+                    <death>1835</death>
+                    <note>Preußischer Außenminister, Bevollmächtigter Preußens; vgl. zu seiner
+                        Person Kellenbenz, Bernstorff, Christian Graf von. In: NDB, Bd. 2, S.
+                        139–140; Schneider, Werner, Europa in Wien, S. 116–117.</note>
+                    <idno type="URI">https://viaf.org/viaf/49969175/</idno>
+                <idno type="GND">http://d-nb.info/gnd/116147695/</idno></person>
+                <person xml:id="p.175">
+                    <persName>
+                        <forename>Franz Ludwig</forename>
+                        <roleName>Graf</roleName>
+                        <surname>von Hatzfeldt</surname></persName>
+                    <birth>1756</birth>
+                    <death>1827</death>
+                    <note>1822 preußischer Gesandter in Wien und den Niederlanden; vgl. Bringmann,
+                        Handbuch der Diplomatie, S. 312 und S. 334, zu seiner Person Wurzbach,
+                        Biographisches Lexikon, Bd. 8, S. 52; Priesdorff, Soldatisches Führertum,
+                        Bd. 2, S. 446–449.</note>
+                    <idno type="URI">http://viaf.org/viaf/8166997/</idno>
+                <idno type="GND">http://d-nb.info/gnd/11750369/</idno></person>
+                <person xml:id="p.13">
+                    <persName>
+                        <forename>Karl Robert</forename>
+                        <roleName>Graf</roleName>
+                        <surname>von Nesselrode</surname></persName>
+                    <birth>1780</birth>
+                    <death>1862</death>
+                    <note>Russischer Außenminister, Bevollmächtigter Russlands; vgl. zu seiner
+                        Person Eich, Nesselrode, Robert Graf von. In: NDB, Bd. 19, S. 74–75;
+                        Grimsted, The Foreign Ministers, S. 194–225, 269–286; Schneider, Werner,
+                        Europa in Wien, S. 248–249.</note>
+                    <idno type="URI">https://viaf.org/viaf/49992065/</idno>
+                <idno type="GND">http://d-nb.info/gnd/117016462/</idno></person>
+                <person xml:id="p.15">
+                    <persName>
+                        <surname>Ludwig/Louis XVIII.</surname>
+                        <roleName> König von Frankreich</roleName></persName>
+                    <birth>1755</birth>
+                    <death>1824</death>
+                    <note>Vgl. Malettke, Die Bourbonen; Thamer, Ludwig XVIII.; Mansel, Louis
+                        XVIII.</note>
+                    <idno type="URI">https://viaf.org/viaf/84035484/</idno>
+                <idno type="GND">http://d-nb.info/gnd/118780743/</idno></person>
+                <person xml:id="p.10">
+                    <persName>
+                        <forename>Arthur</forename>
+                        <surname>Wellesley</surname>, <roleName>1<hi rendition="#su">st</hi> duke of
+                            Wellington</roleName></persName>
+                    <birth>1769</birth>
+                    <death>1852</death>
+                    <note>Bevollmächtigter Großbritanniens; vgl. zu seiner Person zuletzt Muir,
+                        Wellington; Gash, Wellesley, Arthur, first duke of Wellington. In: ODNB, Bd.
+                        58, S. 1–29.</note>
+                    <idno type="URI">https://viaf.org/viaf/2465308/</idno>
+                <idno type="GND">http://d-nb.info/gnd/118806645/</idno></person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="loc.68">
+               <placeName>Verona</placeName>
+                <placeName>Vérone</placeName>
+               <location>
+                        <geo>45.4299 10.98444</geo>
+                    </location>
+                    <idno type="URI">https://www.geonames.org/3164527</idno>
+            </place>
+                <place xml:id="loc.8">
+                <placeName>London</placeName>
+               <placeName>Londres</placeName>
+               
+               <location>
+                        <geo>51.50853 -0.12574</geo>
+                    </location>
+                    <idno type="URI">https://www.geonames.org/2643743</idno>
+            </place>
+                <place xml:id="loc.1">
+                <placeName>Aachen</placeName>
+               <placeName>Aix-la-Chapelle</placeName>
+               
+               <location>
+                        <geo>50.77664 6.08342</geo>
+                    </location>
+                    <idno type="URI">https://www.geonames.org/3247449</idno>
+            </place>
+            </listPlace>
+            <listBibl>
+                <bibl xml:id="t.42">Protokoll, Aachen 15. November 1818, mit welchem Frankreich wieder
+               in das Konzert der Mächte aufgenommen wird, sowie die entsprechende Deklaration;
+               vgl. für das Protokoll Meyer, Staats-Acten, S. 275–276; Grewe, Fontes, Bd. 3/1, S.
+               104–106; de Clercq, Recueil, Bd. 3, S. 175–176; BFSP Bd. 6 (1818/19), S. 14–15;
+               Angeberg, Congrès, Bd. 3, S. 1755–1756; Näf (Hg.) Europapolitik, S. 22–23, Bertier de
+               Sauvigny, Sainte-Alliance, S. 148–150, für die Deklaration BFSP Bd. 6 (1818/19), S.
+               18–20; de Clercq, Recueil, Bd. 3, S. 179–181; Angeberg, Congrès, Bd. 3, S. 1760–1761;
+               Meyer, Staats-Acten, S. 276–278; Näf (Hg.) Europapolitik, S. 23–25, Bertier de
+               Sauvigny, Sainte-Alliance, S. 163–164.</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
