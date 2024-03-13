@@ -12,7 +12,7 @@ collections of useful things to discuss/teach in our team
 * schema/odd
 * TEI-Completer
 
-## Typesense
+## [Typesense](typesense.md)
 * what is it
 * how to set it up locally
 * typesens dashboard
