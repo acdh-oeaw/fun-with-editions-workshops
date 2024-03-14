@@ -1,6 +1,6 @@
 # ARCHE-LOCALHOST-UTILS & and ARCHE-MD with Baserow
 
-2024-03-14, 13:30-15:00 D3
+2024-03-14, 13:30-15:00 E3
 
 ## What to bring
 
