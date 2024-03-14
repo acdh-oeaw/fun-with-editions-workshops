@@ -1,4 +1,4 @@
-# ARCHE-LOCALHOST-UTILS & and ARCHE-MD with Baserow
+# Typesense
 
 2024-03-14, 13:30-15:00 E3
 
