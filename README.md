@@ -1,9 +1,8 @@
 # fun-with-editions-workshops
 collections of useful things to discuss/teach in our team
 
-## acdh-tei-pyutils
-* [Docu](https://acdh-oeaw.github.io/acdh-tei-pyutils/)
-
+## [acdh-tei-pyutils](acdh-tei-pyutils/README.md)
+2024-03-21
 
 ## Oxygen I
 * work with projects
@@ -17,6 +16,7 @@ collections of useful things to discuss/teach in our team
 * TEI-Completer
 
 ## [Typesense](typesense/typesense.md)
+2024-03-14
 * what is it
 * how to set it up locally
 * typesens dashboard
@@ -34,8 +34,8 @@ collections of useful things to discuss/teach in our team
 
 ## [de-micro-editor](https://github.com/acdh-oeaw/de-micro-editor)
   
-## [ARCHE](typesense/typesense.md)
-
+## [ARCHE](arche-localhost.md)
+2024-03-07
 * what is it
 * how to generate ARCHE-MD
 * set up arche locally
