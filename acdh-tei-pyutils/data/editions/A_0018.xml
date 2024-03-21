@@ -1,0 +1,980 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A_0018.xml" xml:base="https://id.acdh.oeaw.ac.at/akademieprotokolle" prev="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0017.xml" next="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0019.xml">
+	<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">A_0018</title>
+                <meeting>Gesamtsitzung am
+        <date when="1848-12-23">23. December 1848</date>
+                </meeting>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>tranScriptorium</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Gesamtakademie</title>
+            </seriesStmt>
+            <sourceDesc>
+          <p rendition="#" xml:id="p1">TRP document creator: stefan.sienell@oeaw.ac.at</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+	<facsimile>
+		<surface xml:id="facs_1" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_01" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485685972_1" points="36,151 317,151 317,271 36,271">
+				<zone rendition="Line" xml:id="facs_1_r1001" points="31,155 299,155 299,278 31,278"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485689389_2" points="420,387 2135,387 2135,489 420,489">
+				<zone rendition="Line" xml:id="facs_1_r1003" points="428,292 2129,292 2129,511 428,511"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485694100_3" points="1010,747 1566,747 1566,902 1010,902">
+				<zone rendition="Line" xml:id="facs_1_line_1501485858620_13" points="1018,718 1557,718 1557,909 1018,909"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485706736_4" points="654,886 2068,886 2068,1059 654,1059">
+				<zone rendition="Line" xml:id="facs_1_r1008" points="686,889 2036,889 2036,1111 686,1111"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485718343_5" points="451,1251 2478,1251 2478,1422 451,1422">
+				<zone rendition="Line" xml:id="facs_1_r1011" points="469,1268 2469,1268 2469,1447 469,1447"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485725644_6" points="747,1412 2242,1412 2242,1726 747,1726">
+				<zone rendition="Line" xml:id="facs_1_line_1501485903455_16" points="764,1404 1803,1404 1803,1540 764,1540"/>
+				<zone rendition="Line" xml:id="facs_1_line_1501485876810_14" points="757,1502 2247,1502 2247,1652 757,1652"/>
+				<zone rendition="Line" xml:id="facs_1_line_1501485882660_15" points="757,1603 1659,1603 1659,1744 757,1744"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485731026_7" points="526,1706 1868,1706 1868,1821 526,1821">
+				<zone rendition="Line" xml:id="facs_1_r1017" points="528,1660 1862,1660 1862,1863 528,1863"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485742196_8" points="1486,1817 2018,1817 2018,3116 1486,3116">
+				<zone rendition="Line" xml:id="facs_1_r1019" points="1524,1823 1870,1823 1870,1949 1524,1949"/>
+				<zone rendition="Line" xml:id="facs_1_r1020" points="1555,1925 1848,1925 1848,2064 1555,2064"/>
+				<zone rendition="Line" xml:id="facs_1_r1021" points="1526,2024 1874,2024 1874,2141 1526,2141"/>
+				<zone rendition="Line" xml:id="facs_1_r1022" points="1515,2127 1816,2127 1816,2283 1515,2283"/>
+				<zone rendition="Line" xml:id="facs_1_r1023" points="1531,2254 1807,2254 1807,2359 1531,2359"/>
+				<zone rendition="Line" xml:id="facs_1_r1024" points="1516,2366 2000,2366 2000,2486 1516,2486"/>
+				<zone rendition="Line" xml:id="facs_1_line_1501485841210_12" points="1529,2466 1810,2466 1810,2573 1529,2573"/>
+				<zone rendition="Line" xml:id="facs_1_r1025" points="1525,2553 1816,2553 1816,2697 1525,2697"/>
+				<zone rendition="Line" xml:id="facs_1_r1026" points="1522,2681 1984,2681 1984,2815 1522,2815"/>
+				<zone rendition="Line" xml:id="facs_1_line_1501485835172_11" points="1520,2771 1894,2771 1894,2891 1520,2891"/>
+				<zone rendition="Line" xml:id="facs_1_r1027" points="1526,2891 1878,2891 1878,2989 1526,2989"/>
+				<zone rendition="Line" xml:id="facs_1_r1028" points="1518,2971 1927,2971 1927,3146 1518,3146"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485744755_9" points="899,3142 1782,3142 1782,3316 899,3316">
+				<zone rendition="Line" xml:id="facs_1_r1030" points="893,3152 1753,3152 1753,3357 893,3357"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_1_region_1501485754677_10" points="1263,3352 2605,3352 2605,3972 1263,3972">
+				<zone rendition="Line" xml:id="facs_1_r1032" points="1295,3370 2606,3370 2606,3557 1295,3557"/>
+				<zone rendition="Line" xml:id="facs_1_r1033" points="1293,3518 2591,3518 2591,3690 1293,3690"/>
+				<zone rendition="Line" xml:id="facs_1_r1034" points="1291,3616 2528,3616 2528,3778 1291,3778"/>
+				<zone rendition="Line" xml:id="facs_1_r1035" points="1252,3744 2560,3744 2560,3895 1252,3895"/>
+				<zone rendition="Line" xml:id="facs_1_r1036" points="1298,3851 2499,3851 2499,3995 1298,3995"/>
+			</zone>
+        </surface>
+		<surface xml:id="facs_2" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_02" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_2_region_1501486678579_17" points="1271,323 2577,323 2577,885 1271,885">
+				<zone rendition="Line" xml:id="facs_2_r1001" points="1290,332 2587,332 2587,505 1290,505"/>
+				<zone rendition="Line" xml:id="facs_2_r1002" points="1286,443 2510,443 2510,582 1286,582"/>
+				<zone rendition="Line" xml:id="facs_2_r1003" points="1296,545 2556,545 2556,687 1296,687"/>
+				<zone rendition="Line" xml:id="facs_2_r1004" points="1293,650 2502,650 2502,822 1293,822"/>
+				<zone rendition="Line" xml:id="facs_2_r1005" points="1289,762 2079,762 2079,914 1289,914"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_2_region_1501486683650_18" points="1294,880 2549,880 2549,1090 1294,1090">
+				<zone rendition="Line" xml:id="facs_2_r1007" points="1396,877 2540,877 2540,1013 1396,1013"/>
+				<zone rendition="Line" xml:id="facs_2_r1008" points="1297,973 2250,973 2250,1123 1297,1123"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_2_region_1501486689687_19" points="1283,1124 2588,1124 2588,1618 1283,1618">
+				<zone rendition="Line" xml:id="facs_2_r1010" points="1431,1092 2581,1092 2581,1236 1431,1236"/>
+				<zone rendition="Line" xml:id="facs_2_r1011" points="1282,1191 2584,1191 2584,1340 1282,1340"/>
+				<zone rendition="Line" xml:id="facs_2_r1012" points="1283,1295 2449,1295 2449,1436 1283,1436"/>
+				<zone rendition="Line" xml:id="facs_2_r1013" points="1289,1401 2590,1401 2590,1546 1289,1546"/>
+				<zone rendition="Line" xml:id="facs_2_r1014" points="1281,1516 2024,1516 2024,1652 1281,1652"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_2_region_1501486695444_20" points="1283,1612 2594,1612 2594,2157 1283,2157">
+				<zone rendition="Line" xml:id="facs_2_r1016" points="1327,1606 2552,1606 2552,1757 1327,1757"/>
+				<zone rendition="Line" xml:id="facs_2_r1017" points="1288,1731 2512,1731 2512,1870 1288,1870"/>
+				<zone rendition="Line" xml:id="facs_2_r1018" points="1284,1821 2564,1821 2564,1958 1284,1958"/>
+				<zone rendition="Line" xml:id="facs_2_r1019" points="1284,1907 2597,1907 2597,2097 1284,2097"/>
+				<zone rendition="Line" xml:id="facs_2_r1020" points="1291,2056 2595,2056 2595,2191 1291,2191"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_2_region_1501486699001_21" points="1464,2157 2316,2157 2316,2271 1464,2271">
+				<zone rendition="Line" xml:id="facs_2_r1023" points="1456,2148 2307,2148 2307,2285 1456,2285"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_2_region_1501486704742_22" points="1277,2271 2583,2271 2583,2799 1277,2799">
+				<zone rendition="Line" xml:id="facs_2_r1025" points="1285,2198 2593,2198 2593,2392 1285,2392"/>
+				<zone rendition="Line" xml:id="facs_2_r1026" points="1288,2365 2592,2365 2592,2506 1288,2506"/>
+				<zone rendition="Line" xml:id="facs_2_r1027" points="1297,2453 2564,2453 2564,2603 1297,2603"/>
+				<zone rendition="Line" xml:id="facs_2_r1028" points="1286,2561 2548,2561 2548,2711 1286,2711"/>
+				<zone rendition="Line" xml:id="facs_2_r1029" points="1298,2689 2494,2689 2494,2810 1298,2810"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_2_region_1501486711154_23" points="1277,2799 2594,2799 2594,3332 1277,3332">
+				<zone rendition="Line" xml:id="facs_2_r1031" points="1386,2787 2567,2787 2567,2919 1386,2919"/>
+				<zone rendition="Line" xml:id="facs_2_r1032" points="1291,2905 2569,2905 2569,3047 1291,3047"/>
+				<zone rendition="Line" xml:id="facs_2_r1033" points="1297,3016 2521,3016 2521,3139 1297,3139"/>
+				<zone rendition="Line" xml:id="facs_2_r1034" points="1284,3109 2595,3109 2595,3260 1284,3260"/>
+				<zone rendition="Line" xml:id="facs_2_line_1501486779236_25" points="1289,3231 1753,3231 1753,3349 1289,3349"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_2_region_1501486720795_24" points="1277,3332 2577,3332 2577,3985 1277,3985">
+				<zone rendition="Line" xml:id="facs_2_r1037" points="1408,3288 2586,3288 2586,3468 1408,3468"/>
+				<zone rendition="Line" xml:id="facs_2_r1038" points="1282,3425 2541,3425 2541,3561 1282,3561"/>
+				<zone rendition="Line" xml:id="facs_2_r1039" points="1293,3515 2489,3515 2489,3657 1293,3657"/>
+				<zone rendition="Line" xml:id="facs_2_r1040" points="1297,3631 2585,3631 2585,3783 1297,3783"/>
+				<zone rendition="Line" xml:id="facs_2_r1041" points="1287,3747 2574,3747 2574,3880 1287,3880"/>
+				<zone rendition="Line" xml:id="facs_2_r1042" points="1276,3847 2551,3847 2551,3996 1276,3996"/>
+			</zone>
+        </surface>
+		<surface xml:id="facs_3" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_03" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_3_region_1501487200810_26" points="1271,317 2600,317 2600,658 1271,658">
+				<zone rendition="Line" xml:id="facs_3_r1001" points="1308,305 2573,305 2573,467 1308,467"/>
+				<zone rendition="Line" xml:id="facs_3_r1003" points="1294,434 2510,434 2510,564 1294,564"/>
+				<zone rendition="Line" xml:id="facs_3_line_1501487297475_32" points="1311,520 1809,520 1809,673 1311,673"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_3_region_1501487212697_27" points="1271,652 2568,652 2568,977 1271,977">
+				<zone rendition="Line" xml:id="facs_3_r1005" points="1319,634 2552,634 2552,778 1319,778"/>
+				<zone rendition="Line" xml:id="facs_3_r1006" points="1279,739 2570,739 2570,901 1279,901"/>
+				<zone rendition="Line" xml:id="facs_3_r1007" points="1277,845 2547,845 2547,995 1277,995"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_3_region_1501487219062_28" points="1273,987 2568,987 2568,1508 1273,1508">
+				<zone rendition="Line" xml:id="facs_3_r1009" points="1335,972 2555,972 2555,1099 1335,1099"/>
+				<zone rendition="Line" xml:id="facs_3_r1010" points="1278,1084 2560,1084 2560,1204 1278,1204"/>
+				<zone rendition="Line" xml:id="facs_3_r1011" points="1278,1181 2565,1181 2565,1322 1278,1322"/>
+				<zone rendition="Line" xml:id="facs_3_r1012" points="1268,1285 2532,1285 2532,1429 1268,1429"/>
+				<zone rendition="Line" xml:id="facs_3_r1013" points="1263,1397 2064,1397 2064,1527 1263,1527"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_3_region_1501487228219_29" points="1267,1508 2582,1508 2582,1718 1267,1718">
+				<zone rendition="Line" xml:id="facs_3_r1015" points="1256,1503 2486,1503 2486,1637 1256,1637"/>
+				<zone rendition="Line" xml:id="facs_3_r1016" points="1283,1615 2549,1615 2549,1732 1283,1732"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_3_region_1501487232899_30" points="1265,1719 2539,1719 2539,1921 1265,1921">
+				<zone rendition="Line" xml:id="facs_3_line_1501487310625_33" points="1474,1724 2534,1724 2534,1841 1474,1841"/>
+				<zone rendition="Line" xml:id="facs_3_line_1501487314650_34" points="1271,1831 2124,1831 2124,1950 1271,1950"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_3_region_1501487248827_31" points="1265,1919 2563,1919 2563,3966 1265,3966">
+				<zone rendition="Line" xml:id="facs_3_r1022" points="1298,1923 2500,1923 2500,2065 1298,2065"/>
+				<zone rendition="Line" xml:id="facs_3_r1023" points="1290,2033 2483,2033 2483,2187 1290,2187"/>
+				<zone rendition="Line" xml:id="facs_3_r1024" points="1280,2139 2550,2139 2550,2275 1280,2275"/>
+				<zone rendition="Line" xml:id="facs_3_r1025" points="1297,2234 2555,2234 2555,2390 1297,2390"/>
+				<zone rendition="Line" xml:id="facs_3_r1026" points="1265,2350 2554,2350 2554,2489 1265,2489"/>
+				<zone rendition="Line" xml:id="facs_3_r1027" points="1281,2456 2495,2456 2495,2613 1281,2613"/>
+				<zone rendition="Line" xml:id="facs_3_r1028" points="1263,2546 2513,2546 2513,2699 1263,2699"/>
+				<zone rendition="Line" xml:id="facs_3_r1029" points="1266,2669 2525,2669 2525,2796 1266,2796"/>
+				<zone rendition="Line" xml:id="facs_3_r1030" points="1278,2768 2554,2768 2554,2926 1278,2926"/>
+				<zone rendition="Line" xml:id="facs_3_r1031" points="1255,2882 2513,2882 2513,3012 1255,3012"/>
+				<zone rendition="Line" xml:id="facs_3_r1032" points="1275,2993 2545,2993 2545,3131 1275,3131"/>
+				<zone rendition="Line" xml:id="facs_3_r1033" points="1269,3089 2540,3089 2540,3235 1269,3235"/>
+				<zone rendition="Line" xml:id="facs_3_r1034" points="1258,3201 2514,3201 2514,3338 1258,3338"/>
+				<zone rendition="Line" xml:id="facs_3_r1035" points="1255,3308 2538,3308 2538,3451 1255,3451"/>
+				<zone rendition="Line" xml:id="facs_3_r1036" points="1270,3399 2544,3399 2544,3556 1270,3556"/>
+				<zone rendition="Line" xml:id="facs_3_r1037" points="1258,3517 2550,3517 2550,3660 1258,3660"/>
+				<zone rendition="Line" xml:id="facs_3_r1038" points="1264,3623 2490,3623 2490,3766 1264,3766"/>
+				<zone rendition="Line" xml:id="facs_3_r1039" points="1257,3722 2518,3722 2518,3877 1257,3877"/>
+				<zone rendition="Line" xml:id="facs_3_r1040" points="1258,3830 2490,3830 2490,3977 1258,3977"/>
+			</zone>
+        </surface>
+		<surface xml:id="facs_4" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_04" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_4_region_1501488989515_35" points="1305,311 2595,311 2595,1389 1305,1389">
+				<zone rendition="Line" xml:id="facs_4_r1001" points="1328,304 2570,304 2570,457 1328,457"/>
+				<zone rendition="Line" xml:id="facs_4_r1002" points="1306,424 2597,424 2597,559 1306,559"/>
+				<zone rendition="Line" xml:id="facs_4_r1003" points="1311,539 2604,539 2604,670 1311,670"/>
+				<zone rendition="Line" xml:id="facs_4_r1004" points="1313,641 2576,641 2576,779 1313,779"/>
+				<zone rendition="Line" xml:id="facs_4_r1005" points="1314,746 2543,746 2543,876 1314,876"/>
+				<zone rendition="Line" xml:id="facs_4_r1006" points="1320,868 2604,868 2604,993 1320,993"/>
+				<zone rendition="Line" xml:id="facs_4_r1007" points="1309,968 2604,968 2604,1087 1309,1087"/>
+				<zone rendition="Line" xml:id="facs_4_r1008" points="1316,1074 2576,1074 2576,1209 1316,1209"/>
+				<zone rendition="Line" xml:id="facs_4_r1009" points="1304,1183 2574,1183 2574,1320 1304,1320"/>
+				<zone rendition="Line" xml:id="facs_4_r1010" points="1305,1275 2010,1275 2010,1414 1305,1414"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_4_region_1501488993618_36" points="1299,1386 2604,1386 2604,1608 1299,1608">
+				<zone rendition="Line" xml:id="facs_4_r1012" points="1419,1391 2586,1391 2586,1536 1419,1536"/>
+				<zone rendition="Line" xml:id="facs_4_r1013" points="1317,1521 1933,1521 1933,1625 1317,1625"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_4_region_1501489007658_37" points="1291,1607 2597,1607 2597,3527 1291,3527">
+				<zone rendition="Line" xml:id="facs_4_r1015" points="1384,1603 2604,1603 2604,1733 1384,1733"/>
+				<zone rendition="Line" xml:id="facs_4_r1016" points="1301,1707 2575,1707 2575,1839 1301,1839"/>
+				<zone rendition="Line" xml:id="facs_4_r1017" points="1320,1829 2566,1829 2566,1947 1320,1947"/>
+				<zone rendition="Line" xml:id="facs_4_r1018" points="1322,1919 2607,1919 2607,2049 1322,2049"/>
+				<zone rendition="Line" xml:id="facs_4_r1019" points="1315,2028 2606,2028 2606,2152 1315,2152"/>
+				<zone rendition="Line" xml:id="facs_4_r1020" points="1302,2140 2607,2140 2607,2261 1302,2261"/>
+				<zone rendition="Line" xml:id="facs_4_r1021" points="1306,2235 2606,2235 2606,2378 1306,2378"/>
+				<zone rendition="Line" xml:id="facs_4_r1022" points="1308,2337 2606,2337 2606,2478 1308,2478"/>
+				<zone rendition="Line" xml:id="facs_4_r1023" points="1286,2439 2604,2439 2604,2586 1286,2586"/>
+				<zone rendition="Line" xml:id="facs_4_r1024" points="1318,2560 2553,2560 2553,2710 1318,2710"/>
+				<zone rendition="Line" xml:id="facs_4_r1025" points="1316,2653 2606,2653 2606,2807 1316,2807"/>
+				<zone rendition="Line" xml:id="facs_4_r1026" points="1315,2782 2535,2782 2535,2900 1315,2900"/>
+				<zone rendition="Line" xml:id="facs_4_r1027" points="1294,2873 2569,2873 2569,2998 1294,2998"/>
+				<zone rendition="Line" xml:id="facs_4_r1028" points="1323,2987 2575,2987 2575,3115 1323,3115"/>
+				<zone rendition="Line" xml:id="facs_4_r1029" points="1320,3081 2579,3081 2579,3225 1320,3225"/>
+				<zone rendition="Line" xml:id="facs_4_r1030" points="1310,3200 2597,3200 2597,3323 1310,3323"/>
+				<zone rendition="Line" xml:id="facs_4_r1031" points="1316,3287 2552,3287 2552,3438 1316,3438"/>
+				<zone rendition="Line" xml:id="facs_4_r1032" points="1301,3393 2599,3393 2599,3538 1301,3538"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_4_region_1501489019748_38" points="1294,3520 2579,3520 2579,3945 1294,3945">
+				<zone rendition="Line" xml:id="facs_4_r1034" points="1460,3494 2513,3494 2513,3639 1460,3639"/>
+				<zone rendition="Line" xml:id="facs_4_r1035" points="1308,3618 2563,3618 2563,3760 1308,3760"/>
+				<zone rendition="Line" xml:id="facs_4_r1036" points="1312,3720 2584,3720 2584,3847 1312,3847"/>
+				<zone rendition="Line" xml:id="facs_4_r1037" points="1307,3828 2551,3828 2551,3977 1307,3977"/>
+			</zone>
+        </surface>
+		<surface xml:id="facs_5" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_05" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_5_region_1501496483916_1" points="1299,301 2596,301 2596,1196 1299,1196">
+				<zone rendition="Line" xml:id="facs_5_r1001" points="1326,296 2570,296 2570,469 1326,469"/>
+				<zone rendition="Line" xml:id="facs_5_r1002" points="1316,424 2407,424 2407,592 1316,592"/>
+				<zone rendition="Line" xml:id="facs_5_r1003" points="1349,522 2545,522 2545,665 1349,665"/>
+				<zone rendition="Line" xml:id="facs_5_r1004" points="1297,633 2600,633 2600,777 1297,777"/>
+				<zone rendition="Line" xml:id="facs_5_r1005" points="1301,753 2568,753 2568,881 1301,881"/>
+				<zone rendition="Line" xml:id="facs_5_r1006" points="1321,858 2586,858 2586,985 1321,985"/>
+				<zone rendition="Line" xml:id="facs_5_r1007" points="1310,966 2596,966 2596,1090 1310,1090"/>
+				<zone rendition="Line" xml:id="facs_5_r1008" points="1291,1071 2589,1071 2589,1207 1291,1207"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_5_region_1501496494742_2" points="1279,1176 2584,1176 2584,1715 1279,1715">
+				<zone rendition="Line" xml:id="facs_5_r1010" points="1439,1155 2557,1155 2557,1299 1439,1299"/>
+				<zone rendition="Line" xml:id="facs_5_r1011" points="1309,1276 2584,1276 2584,1428 1309,1428"/>
+				<zone rendition="Line" xml:id="facs_5_r1012" points="1305,1382 2558,1382 2558,1525 1305,1525"/>
+				<zone rendition="Line" xml:id="facs_5_r1013" points="1290,1494 2549,1494 2549,1633 1290,1633"/>
+				<zone rendition="Line" xml:id="facs_5_r1014" points="1269,1600 2277,1600 2277,1735 1269,1735"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_5_region_1501496511435_3" points="1245,1701 2564,1701 2564,3100 1245,3100">
+				<zone rendition="Line" xml:id="facs_5_r1016" points="1329,1692 2554,1692 2554,1825 1329,1825"/>
+				<zone rendition="Line" xml:id="facs_5_r1017" points="1272,1803 2569,1803 2569,1951 1272,1951"/>
+				<zone rendition="Line" xml:id="facs_5_r1018" points="1290,1917 2509,1917 2509,2057 1290,2057"/>
+				<zone rendition="Line" xml:id="facs_5_r1019" points="1300,2006 2534,2006 2534,2167 1300,2167"/>
+				<zone rendition="Line" xml:id="facs_5_r1020" points="1286,2134 2549,2134 2549,2276 1286,2276"/>
+				<zone rendition="Line" xml:id="facs_5_r1021" points="1278,2244 2503,2244 2503,2375 1278,2375"/>
+				<zone rendition="Line" xml:id="facs_5_r1022" points="1256,2332 2559,2332 2559,2484 1256,2484"/>
+				<zone rendition="Line" xml:id="facs_5_r1023" points="1275,2457 2502,2457 2502,2593 1275,2593"/>
+				<zone rendition="Line" xml:id="facs_5_r1024" points="1288,2551 2557,2551 2557,2712 1288,2712"/>
+				<zone rendition="Line" xml:id="facs_5_r1025" points="1256,2676 2546,2676 2546,2802 1256,2802"/>
+				<zone rendition="Line" xml:id="facs_5_r1026" points="1277,2781 2563,2781 2563,2902 1277,2902"/>
+				<zone rendition="Line" xml:id="facs_5_r1027" points="1272,2884 2526,2884 2526,3011 1272,3011"/>
+				<zone rendition="Line" xml:id="facs_5_r1028" points="1271,2997 1909,2997 1909,3116 1271,3116"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_5_region_1501496521154_4" points="1247,3094 2552,3094 2552,3959 1247,3959">
+				<zone rendition="Line" xml:id="facs_5_r1030" points="1422,3067 2555,3067 2555,3232 1422,3232"/>
+				<zone rendition="Line" xml:id="facs_5_r1031" points="1269,3198 2524,3198 2524,3333 1269,3333"/>
+				<zone rendition="Line" xml:id="facs_5_r1032" points="1281,3294 2510,3294 2510,3463 1281,3463"/>
+				<zone rendition="Line" xml:id="facs_5_r1033" points="1264,3412 2478,3412 2478,3556 1264,3556"/>
+				<zone rendition="Line" xml:id="facs_5_r1034" points="1259,3522 2492,3522 2492,3664 1259,3664"/>
+				<zone rendition="Line" xml:id="facs_5_r1035" points="1256,3618 2504,3618 2504,3758 1256,3758"/>
+				<zone rendition="Line" xml:id="facs_5_r1036" points="1258,3715 2479,3715 2479,3864 1258,3864"/>
+				<zone rendition="Line" xml:id="facs_5_r1037" points="1254,3810 2563,3810 2563,3984 1254,3984"/>
+			</zone>
+        </surface>
+		<surface xml:id="facs_6" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_06" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_6_region_1501497036480_5" points="1233,290 2588,290 2588,3311 1233,3311">
+				<zone rendition="Line" xml:id="facs_6_r1001" points="1293,293 2552,293 2552,436 1293,436"/>
+				<zone rendition="Line" xml:id="facs_6_r1002" points="1304,430 2586,430 2586,560 1304,560"/>
+				<zone rendition="Line" xml:id="facs_6_r1003" points="1304,540 2556,540 2556,667 1304,667"/>
+				<zone rendition="Line" xml:id="facs_6_r1004" points="1300,652 2493,652 2493,773 1300,773"/>
+				<zone rendition="Line" xml:id="facs_6_r1005" points="1302,730 2470,730 2470,876 1302,876"/>
+				<zone rendition="Line" xml:id="facs_6_r1006" points="1303,851 2524,851 2524,974 1303,974"/>
+				<zone rendition="Line" xml:id="facs_6_r1007" points="1281,945 2565,945 2565,1080 1281,1080"/>
+				<zone rendition="Line" xml:id="facs_6_r1008" points="1291,1062 2530,1062 2530,1197 1291,1197"/>
+				<zone rendition="Line" xml:id="facs_6_r1009" points="1292,1161 2575,1161 2575,1302 1292,1302"/>
+				<zone rendition="Line" xml:id="facs_6_r1010" points="1304,1266 2569,1266 2569,1406 1304,1406"/>
+				<zone rendition="Line" xml:id="facs_6_r1011" points="1299,1389 2534,1389 2534,1512 1299,1512"/>
+				<zone rendition="Line" xml:id="facs_6_r1012" points="1317,1477 2597,1477 2597,1619 1317,1619"/>
+				<zone rendition="Line" xml:id="facs_6_r1013" points="1270,1584 2545,1584 2545,1731 1270,1731"/>
+				<zone rendition="Line" xml:id="facs_6_r1014" points="1264,1705 2576,1705 2576,1847 1264,1847"/>
+				<zone rendition="Line" xml:id="facs_6_r1015" points="1280,1821 2545,1821 2545,1955 1280,1955"/>
+				<zone rendition="Line" xml:id="facs_6_r1016" points="1299,1909 2596,1909 2596,2043 1299,2043"/>
+				<zone rendition="Line" xml:id="facs_6_r1017" points="1295,2002 2485,2002 2485,2139 1295,2139"/>
+				<zone rendition="Line" xml:id="facs_6_r1018" points="1283,2120 2588,2120 2588,2252 1283,2252"/>
+				<zone rendition="Line" xml:id="facs_6_r1019" points="1288,2231 2571,2231 2571,2367 1288,2367"/>
+				<zone rendition="Line" xml:id="facs_6_r1020" points="1293,2350 2584,2350 2584,2468 1293,2468"/>
+				<zone rendition="Line" xml:id="facs_6_r1021" points="1293,2448 2546,2448 2546,2573 1293,2573"/>
+				<zone rendition="Line" xml:id="facs_6_r1022" points="1288,2540 2575,2540 2575,2675 1288,2675"/>
+				<zone rendition="Line" xml:id="facs_6_r1023" points="1289,2659 2588,2659 2588,2794 1289,2794"/>
+				<zone rendition="Line" xml:id="facs_6_r1024" points="1299,2765 2585,2765 2585,2891 1299,2891"/>
+				<zone rendition="Line" xml:id="facs_6_r1025" points="1295,2876 2578,2876 2578,3006 1295,3006"/>
+				<zone rendition="Line" xml:id="facs_6_r1026" points="1304,2975 2512,2975 2512,3115 1304,3115"/>
+				<zone rendition="Line" xml:id="facs_6_r1027" points="1306,3085 2582,3085 2582,3219 1306,3219"/>
+				<zone rendition="Line" xml:id="facs_6_r1028" points="1308,3195 2559,3195 2559,3316 1308,3316"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_6_region_1501497048492_6" points="1262,3294 2606,3294 2606,3955 1262,3955">
+				<zone rendition="Line" xml:id="facs_6_r1030" points="1309,3294 2556,3294 2556,3431 1309,3431"/>
+				<zone rendition="Line" xml:id="facs_6_r1031" points="1297,3399 2589,3399 2589,3526 1297,3526"/>
+				<zone rendition="Line" xml:id="facs_6_r1032" points="1284,3505 2545,3505 2545,3636 1284,3636"/>
+				<zone rendition="Line" xml:id="facs_6_r1033" points="1303,3617 2587,3617 2587,3739 1303,3739"/>
+				<zone rendition="Line" xml:id="facs_6_r1034" points="1301,3715 2539,3715 2539,3844 1301,3844"/>
+				<zone rendition="Line" xml:id="facs_6_r1035" points="1293,3807 2562,3807 2562,3957 1293,3957"/>
+			</zone>
+        </surface>
+		<surface xml:id="facs_7" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_07" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_7_region_1501511130984_1" points="1266,295 1811,295 1811,403 1266,403">
+				<zone rendition="Line" xml:id="facs_7_r1002" points="1278,236 1789,236 1789,430 1278,430"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_7_region_1501511136372_2" points="1260,397 2588,397 2588,1385 1260,1385">
+				<zone rendition="Line" xml:id="facs_7_r1004" points="1312,390 2545,390 2545,546 1312,546"/>
+				<zone rendition="Line" xml:id="facs_7_r1005" points="1279,513 2570,513 2570,637 1279,637"/>
+				<zone rendition="Line" xml:id="facs_7_r1006" points="1267,623 2555,623 2555,766 1267,766"/>
+				<zone rendition="Line" xml:id="facs_7_r1007" points="1280,725 2553,725 2553,853 1280,853"/>
+				<zone rendition="Line" xml:id="facs_7_r1008" points="1268,847 2564,847 2564,967 1268,967"/>
+				<zone rendition="Line" xml:id="facs_7_r1009" points="1260,952 2538,952 2538,1074 1260,1074"/>
+				<zone rendition="Line" xml:id="facs_7_r1010" points="1251,1035 2582,1035 2582,1187 1251,1187"/>
+				<zone rendition="Line" xml:id="facs_7_r1011" points="1264,1152 2574,1152 2574,1287 1264,1287"/>
+				<zone rendition="Line" xml:id="facs_7_r1012" points="1280,1273 2553,1273 2553,1387 1280,1387"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_7_region_1501511148395_3" points="1220,1385 2560,1385 2560,3934 1220,3934">
+				<zone rendition="Line" xml:id="facs_7_r1014" points="1416,1358 2557,1358 2557,1499 1416,1499"/>
+				<zone rendition="Line" xml:id="facs_7_r1015" points="1279,1450 2497,1450 2497,1600 1279,1600"/>
+				<zone rendition="Line" xml:id="facs_7_r1016" points="1263,1578 2562,1578 2562,1710 1263,1710"/>
+				<zone rendition="Line" xml:id="facs_7_r1017" points="1265,1697 2491,1697 2491,1819 1265,1819"/>
+				<zone rendition="Line" xml:id="facs_7_r1018" points="1234,1799 2541,1799 2541,1926 1234,1926"/>
+				<zone rendition="Line" xml:id="facs_7_r1019" points="1266,1895 2565,1895 2565,2036 1266,2036"/>
+				<zone rendition="Line" xml:id="facs_7_r1020" points="1262,2002 2494,2002 2494,2141 1262,2141"/>
+				<zone rendition="Line" xml:id="facs_7_r1021" points="1248,2096 2545,2096 2545,2245 1248,2245"/>
+				<zone rendition="Line" xml:id="facs_7_r1022" points="1263,2234 2552,2234 2552,2357 1263,2357"/>
+				<zone rendition="Line" xml:id="facs_7_r1023" points="1275,2330 2520,2330 2520,2465 1275,2465"/>
+				<zone rendition="Line" xml:id="facs_7_r1024" points="1266,2441 2501,2441 2501,2563 1266,2563"/>
+				<zone rendition="Line" xml:id="facs_7_r1025" points="1268,2521 2520,2521 2520,2658 1268,2658"/>
+				<zone rendition="Line" xml:id="facs_7_r1026" points="1242,2649 2545,2649 2545,2781 1242,2781"/>
+				<zone rendition="Line" xml:id="facs_7_r1027" points="1263,2761 2538,2761 2538,2901 1263,2901"/>
+				<zone rendition="Line" xml:id="facs_7_r1028" points="1265,2868 2538,2868 2538,2983 1265,2983"/>
+				<zone rendition="Line" xml:id="facs_7_r1029" points="1248,2967 2504,2967 2504,3094 1248,3094"/>
+				<zone rendition="Line" xml:id="facs_7_r1030" points="1266,3063 2532,3063 2532,3200 1266,3200"/>
+				<zone rendition="Line" xml:id="facs_7_r1031" points="1244,3187 2549,3187 2549,3328 1244,3328"/>
+				<zone rendition="Line" xml:id="facs_7_r1032" points="1253,3285 2542,3285 2542,3420 1253,3420"/>
+				<zone rendition="Line" xml:id="facs_7_r1033" points="1251,3374 2524,3374 2524,3534 1251,3534"/>
+				<zone rendition="Line" xml:id="facs_7_r1034" points="1264,3486 2474,3486 2474,3644 1264,3644"/>
+				<zone rendition="Line" xml:id="facs_7_r1035" points="1283,3602 2509,3602 2509,3736 1283,3736"/>
+				<zone rendition="Line" xml:id="facs_7_r1036" points="1254,3702 2527,3702 2527,3842 1254,3842"/>
+				<zone rendition="Line" xml:id="facs_7_r1037" points="1247,3830 2489,3830 2489,3948 1247,3948"/>
+			</zone>
+        </surface>
+		<surface xml:id="facs_8" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_08" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_8_region_1501511630523_4" points="1254,261 2588,261 2588,3928 1254,3928">
+				<zone rendition="Line" xml:id="facs_8_r1001" points="1280,276 2523,276 2523,420 1280,420"/>
+				<zone rendition="Line" xml:id="facs_8_r1002" points="1297,397 2576,397 2576,527 1297,527"/>
+				<zone rendition="Line" xml:id="facs_8_r1003" points="1279,507 2597,507 2597,650 1279,650"/>
+				<zone rendition="Line" xml:id="facs_8_r1004" points="1290,605 2580,605 2580,720 1290,720"/>
+				<zone rendition="Line" xml:id="facs_8_r1005" points="1288,690 2559,690 2559,844 1288,844"/>
+				<zone rendition="Line" xml:id="facs_8_r1006" points="1295,806 2523,806 2523,953 1295,953"/>
+				<zone rendition="Line" xml:id="facs_8_r1007" points="1293,928 2587,928 2587,1042 1293,1042"/>
+				<zone rendition="Line" xml:id="facs_8_r1008" points="1291,1027 2501,1027 2501,1159 1291,1159"/>
+				<zone rendition="Line" xml:id="facs_8_r1009" points="1272,1134 2590,1134 2590,1278 1272,1278"/>
+				<zone rendition="Line" xml:id="facs_8_r1010" points="1278,1245 2596,1245 2596,1397 1278,1397"/>
+				<zone rendition="Line" xml:id="facs_8_r1011" points="1299,1344 2532,1344 2532,1494 1299,1494"/>
+				<zone rendition="Line" xml:id="facs_8_r1012" points="1273,1435 2533,1435 2533,1601 1273,1601"/>
+				<zone rendition="Line" xml:id="facs_8_r1013" points="1277,1571 2506,1571 2506,1704 1277,1704"/>
+				<zone rendition="Line" xml:id="facs_8_r1014" points="1276,1660 2568,1660 2568,1802 1276,1802"/>
+				<zone rendition="Line" xml:id="facs_8_r1015" points="1279,1775 2566,1775 2566,1915 1279,1915"/>
+				<zone rendition="Line" xml:id="facs_8_r1016" points="1292,1880 2567,1880 2567,2016 1292,2016"/>
+				<zone rendition="Line" xml:id="facs_8_r1017" points="1282,1984 2558,1984 2558,2130 1282,2130"/>
+				<zone rendition="Line" xml:id="facs_8_r1018" points="1292,2067 2588,2067 2588,2272 1292,2272"/>
+				<zone rendition="Line" xml:id="facs_8_r1019" points="1276,2213 2583,2213 2583,2361 1276,2361"/>
+				<zone rendition="Line" xml:id="facs_8_r1020" points="1287,2336 2581,2336 2581,2455 1287,2455"/>
+				<zone rendition="Line" xml:id="facs_8_r1021" points="1284,2422 2596,2422 2596,2567 1284,2567"/>
+				<zone rendition="Line" xml:id="facs_8_r1022" points="1274,2534 2590,2534 2590,2698 1274,2698"/>
+				<zone rendition="Line" xml:id="facs_8_r1023" points="1294,2628 2558,2628 2558,2770 1294,2770"/>
+				<zone rendition="Line" xml:id="facs_8_r1024" points="1286,2744 2579,2744 2579,2884 1286,2884"/>
+				<zone rendition="Line" xml:id="facs_8_r1025" points="1265,2846 2562,2846 2562,2969 1265,2969"/>
+				<zone rendition="Line" xml:id="facs_8_r1026" points="1259,2945 2577,2945 2577,3085 1259,3085"/>
+				<zone rendition="Line" xml:id="facs_8_r1027" points="1277,3055 2595,3055 2595,3206 1277,3206"/>
+				<zone rendition="Line" xml:id="facs_8_r1028" points="1278,3178 2572,3178 2572,3307 1278,3307"/>
+				<zone rendition="Line" xml:id="facs_8_r1029" points="1283,3271 2552,3271 2552,3403 1283,3403"/>
+				<zone rendition="Line" xml:id="facs_8_r1030" points="1265,3364 2575,3364 2575,3504 1265,3504"/>
+				<zone rendition="Line" xml:id="facs_8_r1031" points="1285,3480 2578,3480 2578,3624 1285,3624"/>
+				<zone rendition="Line" xml:id="facs_8_r1032" points="1351,3586 2556,3586 2556,3719 1351,3719"/>
+				<zone rendition="Line" xml:id="facs_8_r1033" points="1282,3700 2598,3700 2598,3833 1282,3833"/>
+				<zone rendition="Line" xml:id="facs_8_r1034" points="1290,3786 2579,3786 2579,3952 1290,3952"/>
+			</zone>
+        </surface>
+		<surface xml:id="facs_9" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_09" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_9_region_1501512388653_5" points="1254,227 2594,227 2594,880 1254,880">
+				<zone rendition="Line" xml:id="facs_9_r1001" points="1288,213 2598,213 2598,366 1288,366"/>
+				<zone rendition="Line" xml:id="facs_9_r1002" points="1290,352 2592,352 2592,505 1290,505"/>
+				<zone rendition="Line" xml:id="facs_9_r1003" points="1269,450 2580,450 2580,585 1269,585"/>
+				<zone rendition="Line" xml:id="facs_9_r1004" points="1272,552 2584,552 2584,691 1272,691"/>
+				<zone rendition="Line" xml:id="facs_9_r1005" points="1277,679 2572,679 2572,796 1277,796"/>
+				<zone rendition="Line" xml:id="facs_9_r1006" points="1281,771 2443,771 2443,893 1281,893"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_9_region_1501512395672_6" points="1249,874 2588,874 2588,1527 1249,1527">
+				<zone rendition="Line" xml:id="facs_9_r1008" points="1391,862 2572,862 2572,1014 1391,1014"/>
+				<zone rendition="Line" xml:id="facs_9_r1009" points="1283,989 2590,989 2590,1115 1283,1115"/>
+				<zone rendition="Line" xml:id="facs_9_r1010" points="1253,1094 2575,1094 2575,1229 1253,1229"/>
+				<zone rendition="Line" xml:id="facs_9_r1011" points="1280,1205 2566,1205 2566,1341 1280,1341"/>
+				<zone rendition="Line" xml:id="facs_9_r1012" points="1283,1325 2592,1325 2592,1436 1283,1436"/>
+				<zone rendition="Line" xml:id="facs_9_r1013" points="1275,1424 1999,1424 1999,1546 1275,1546"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_9_region_1501512404360_7" points="1254,1527 2594,1527 2594,3985 1254,3985">
+				<zone rendition="Line" xml:id="facs_9_r1015" points="1361,1498 2567,1498 2567,1657 1361,1657"/>
+				<zone rendition="Line" xml:id="facs_9_r1016" points="1289,1609 2539,1609 2539,1760 1289,1760"/>
+				<zone rendition="Line" xml:id="facs_9_r1017" points="1297,1737 2595,1737 2595,1864 1297,1864"/>
+				<zone rendition="Line" xml:id="facs_9_r1018" points="1293,1835 2594,1835 2594,1973 1293,1973"/>
+				<zone rendition="Line" xml:id="facs_9_r1019" points="1276,1917 2596,1917 2596,2100 1276,2100"/>
+				<zone rendition="Line" xml:id="facs_9_r1020" points="1286,2058 2588,2058 2588,2180 1286,2180"/>
+				<zone rendition="Line" xml:id="facs_9_r1021" points="1292,2146 2582,2146 2582,2292 1292,2292"/>
+				<zone rendition="Line" xml:id="facs_9_r1022" points="1290,2266 2589,2266 2589,2389 1290,2389"/>
+				<zone rendition="Line" xml:id="facs_9_r1023" points="1297,2353 2590,2353 2590,2512 1297,2512"/>
+				<zone rendition="Line" xml:id="facs_9_r1024" points="1276,2471 2586,2471 2586,2595 1276,2595"/>
+				<zone rendition="Line" xml:id="facs_9_r1025" points="1302,2579 2586,2579 2586,2736 1302,2736"/>
+				<zone rendition="Line" xml:id="facs_9_r1026" points="1297,2692 2575,2692 2575,2813 1297,2813"/>
+				<zone rendition="Line" xml:id="facs_9_r1027" points="1296,2807 2601,2807 2601,2939 1296,2939"/>
+				<zone rendition="Line" xml:id="facs_9_r1028" points="1297,2901 2576,2901 2576,3023 1297,3023"/>
+				<zone rendition="Line" xml:id="facs_9_r1029" points="1283,3008 2567,3008 2567,3161 1283,3161"/>
+				<zone rendition="Line" xml:id="facs_9_r1030" points="1292,3103 2551,3103 2551,3239 1292,3239"/>
+				<zone rendition="Line" xml:id="facs_9_r1031" points="1301,3219 2582,3219 2582,3350 1301,3350"/>
+				<zone rendition="Line" xml:id="facs_9_r1032" points="1293,3338 2597,3338 2597,3459 1293,3459"/>
+				<zone rendition="Line" xml:id="facs_9_r1033" points="1308,3425 2585,3425 2585,3570 1308,3570"/>
+				<zone rendition="Line" xml:id="facs_9_r1034" points="1295,3510 2598,3510 2598,3669 1295,3669"/>
+				<zone rendition="Line" xml:id="facs_9_r1035" points="1284,3644 2579,3644 2579,3774 1284,3774"/>
+				<zone rendition="Line" xml:id="facs_9_r1036" points="1300,3763 2551,3763 2551,3879 1300,3879"/>
+				<zone rendition="Line" xml:id="facs_9_r1037" points="1304,3855 2523,3855 2523,3992 1304,3992"/>
+			</zone>
+        </surface>
+		<surface xml:id="facs_10" ulx="0" uly="0" lrx="2622" lry="4156">
+			<graphic url="https://diarium-images.acdh-dev.oeaw.ac.at/ga/A_0018_Seite_10" width="2622px" height="4156px"/>
+			<zone rendition="TextRegion" xml:id="facs_10_region_1501513013455_8" points="1300,249 2605,249 2605,462 1300,462">
+				<zone rendition="Line" xml:id="facs_10_r1001" points="1308,239 2610,239 2610,375 1308,375"/>
+				<zone rendition="Line" xml:id="facs_10_line_1501513119250_16" points="1394,334 1719,334 1719,409 1394,409"/>
+				<zone rendition="Line" xml:id="facs_10_r1002" points="1306,348 2327,348 2327,490 1306,490"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_10_region_1501513017558_9" points="1286,458 2603,458 2603,677 1286,677">
+				<zone rendition="Line" xml:id="facs_10_r1004" points="1401,443 2594,443 2594,582 1401,582"/>
+				<zone rendition="Line" xml:id="facs_10_r1005" points="1298,584 2505,584 2505,712 1298,712"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_10_region_1501513032971_10" points="1291,680 2609,680 2609,2490 1291,2490">
+				<zone rendition="Line" xml:id="facs_10_r1007" points="1411,662 2587,662 2587,812 1411,812"/>
+				<zone rendition="Line" xml:id="facs_10_r1008" points="1297,801 2581,801 2581,931 1297,931"/>
+				<zone rendition="Line" xml:id="facs_10_r1009" points="1295,873 2607,873 2607,1032 1295,1032"/>
+				<zone rendition="Line" xml:id="facs_10_r1010" points="1299,1005 2603,1005 2603,1143 1299,1143"/>
+				<zone rendition="Line" xml:id="facs_10_r1011" points="1300,1111 2610,1111 2610,1236 1300,1236"/>
+				<zone rendition="Line" xml:id="facs_10_r1012" points="1286,1226 2602,1226 2602,1342 1286,1342"/>
+				<zone rendition="Line" xml:id="facs_10_r1013" points="1300,1295 2607,1295 2607,1470 1300,1470"/>
+				<zone rendition="Line" xml:id="facs_10_r1014" points="1302,1415 2607,1415 2607,1558 1302,1558"/>
+				<zone rendition="Line" xml:id="facs_10_r1015" points="1286,1516 2589,1516 2589,1653 1286,1653"/>
+				<zone rendition="Line" xml:id="facs_10_r1016" points="1286,1626 2580,1626 2580,1758 1286,1758"/>
+				<zone rendition="Line" xml:id="facs_10_r1017" points="1293,1723 2581,1723 2581,1876 1293,1876"/>
+				<zone rendition="Line" xml:id="facs_10_r1018" points="1295,1847 2550,1847 2550,1971 1295,1971"/>
+				<zone rendition="Line" xml:id="facs_10_r1019" points="1283,1947 2613,1947 2613,2086 1283,2086"/>
+				<zone rendition="Line" xml:id="facs_10_r1020" points="1285,2058 2614,2058 2614,2184 1285,2184"/>
+				<zone rendition="Line" xml:id="facs_10_r1021" points="1303,2165 2599,2165 2599,2298 1303,2298"/>
+				<zone rendition="Line" xml:id="facs_10_r1022" points="1281,2277 2557,2277 2557,2402 1281,2402"/>
+				<zone rendition="Line" xml:id="facs_10_r1023" points="1281,2377 1746,2377 1746,2498 1281,2498"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_10_region_1501513043345_11" points="1280,2488 2599,2488 2599,3266 1280,3266">
+				<zone rendition="Line" xml:id="facs_10_r1025" points="1417,2461 2602,2461 2602,2611 1417,2611"/>
+				<zone rendition="Line" xml:id="facs_10_r1026" points="1288,2581 2569,2581 2569,2729 1288,2729"/>
+				<zone rendition="Line" xml:id="facs_10_r1027" points="1291,2697 2541,2697 2541,2842 1291,2842"/>
+				<zone rendition="Line" xml:id="facs_10_r1028" points="1283,2801 2599,2801 2599,2950 1283,2950"/>
+				<zone rendition="Line" xml:id="facs_10_r1029" points="1287,2920 2581,2920 2581,3044 1287,3044"/>
+				<zone rendition="Line" xml:id="facs_10_r1030" points="1288,3015 2584,3015 2584,3161 1288,3161"/>
+				<zone rendition="Line" xml:id="facs_10_r1031" points="1288,3133 2603,3133 2603,3277 1288,3277"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_10_region_1501513047354_12" points="1858,3289 2497,3289 2497,3413 1858,3413">
+				<zone rendition="Line" xml:id="facs_10_r1033" points="1864,3291 2488,3291 2488,3413 1864,3413"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_10_region_1501513050349_13" points="1835,3410 2415,3410 2415,3518 1835,3518">
+				<zone rendition="Line" xml:id="facs_10_r1036" points="1855,3409 2376,3409 2376,3529 1855,3529"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_10_region_1501513054202_14" points="1835,3521 2497,3521 2497,3633 1835,3633">
+				<zone rendition="Line" xml:id="facs_10_r1038" points="1859,3530 2505,3530 2505,3675 1859,3675"/>
+			</zone>
+			<zone rendition="TextRegion" xml:id="facs_10_region_1501513058414_15" points="2005,3617 2248,3617 2248,3790 2005,3790">
+				<zone rendition="Line" xml:id="facs_10_r1040" points="1973,3517 2274,3517 2274,3806 1973,3806"/>
+			</zone>
+        </surface>
+    </facsimile>
+	<text>
+        <body>
+      <div type="page" n="1" xml:id="d1">
+                <pb n="1" facs="#facs_1" xml:id="pag1"/>
+        <div xml:id="d2">
+          <p rendition="#l" facs="#facs_1_region_1501485685972_1" xml:id="p2" xml:space="preserve">
+            <lb facs="#facs_1_r1001" xml:id="z1"/>A. <num>18</num>.</p>
+          <p rendition="#fc" facs="#facs_1_region_1501485689389_2" xml:id="p3" xml:space="preserve">
+            <lb facs="#facs_1_r1003" xml:id="z2"/>Kaiserliche Akademie der Wissenschaften.</p>
+          <p rendition="#fc" facs="#facs_1_region_1501485694100_3" xml:id="p4" xml:space="preserve">
+            <lb facs="#facs_1_line_1501485858620_13" xml:id="z3"/>Protokoll</p>
+          <p rendition="#fc" facs="#facs_1_region_1501485706736_4" xml:id="p5" xml:space="preserve">
+            <lb facs="#facs_1_r1008" xml:id="z4"/>der Gesammtsitzung am <num>23</num>. December <num>1848</num>.</p>
+          <p rendition="#?16-79-95--415-2442" facs="#facs_1_region_1501485718343_5" xml:id="p6" xml:space="preserve">
+            <lb facs="#facs_1_r1011" xml:id="z5"/>Anwesend: Der Präsident Freiherr v. Hammer-Purgstall</p>
+          <p rendition="#fc" facs="#facs_1_region_1501485725644_6" xml:id="p7" xml:space="preserve">
+            <lb facs="#facs_1_line_1501485903455_16" xml:id="z6"/>" Vice-" Baumgartner 
+            <lb facs="#facs_1_line_1501485876810_14" xml:id="z7"/>"General- Secretär v. Ettingshausen 
+            <lb facs="#facs_1_line_1501485882660_15" xml:id="z8"/>" zweite " Wolf.</p>
+          <p rendition="#fc" facs="#facs_1_region_1501485731026_7" xml:id="p8" xml:space="preserve">
+            <lb facs="#facs_1_r1017" xml:id="z9"/>Die wirklichen Mitglieder: Prechtl</p>
+          <p rendition="#r" facs="#facs_1_region_1501485742196_8" xml:id="p9" xml:space="preserve">
+            <lb facs="#facs_1_r1019" xml:id="z10"/>Arneth 
+            <lb facs="#facs_1_r1020" xml:id="z11"/><rs type="person" ref="#Chmeljoseph">Chmel</rs> 
+            <lb facs="#facs_1_r1021" xml:id="z12"/>Schrötter 
+            <lb facs="#facs_1_r1022" xml:id="z13"/>Hyrtl 
+            <lb facs="#facs_1_r1023" xml:id="z14"/>Auer 
+            <lb facs="#facs_1_r1024" xml:id="z15"/>Bergmann 
+            <lb facs="#facs_1_line_1501485841210_12" xml:id="z16"/><rs type="person" ref="#Kollárvincenz" key="Kollár, Vincenz">Kollar</rs>
+            <lb facs="#facs_1_r1025" xml:id="z17"/><rs type="person" ref="#fenzl-eduard" key="Fenzl, Eduard">Fenzl</rs>
+            <lb facs="#facs_1_r1026" xml:id="z18"/><rs type="person" ref="#pfizmaier-august" key="Pfizmaier, August">Pfizmaier</rs>
+            <lb facs="#facs_1_line_1501485835172_11" xml:id="z19"/><rs type="person" ref="#diemer-josef" key="Diemer, Josef">Diemer</rs>
+            <lb facs="#facs_1_r1027" xml:id="z20"/>Heckel 
+            <lb facs="#facs_1_r1028" xml:id="z21"/><rs type="person" ref="#diesing-carl-moritz" key="Diesing, Carl Moritz">Diesing</rs></p>
+          <p rendition="#fc" facs="#facs_1_region_1501485744755_9" xml:id="p10" xml:space="preserve">
+            <lb facs="#facs_1_r1030" xml:id="z22"/>Verhandlungen.</p>
+          <p rendition="#r" facs="#facs_1_region_1501485754677_10" xml:id="p11" xml:space="preserve">
+            <lb facs="#facs_1_r1032" xml:id="z23"/>I. Der Secretär macht 
+            bemerk-<lb facs="#facs_1_r1033" xml:id="z24"/>lich, daß Exemplare des gedruckten 
+            <lb facs="#facs_1_r1034" xml:id="z25"/>Verzeichnisses der Sitzungen im 
+            <lb facs="#facs_1_r1035" xml:id="z26"/>Jahre <num>1849</num> zur Vertheilung an 
+            <lb facs="#facs_1_r1036" xml:id="z27"/>die Mitglieder vorliegen.</p>
+                </div>
+            </div>
+      <div type="page" n="2" xml:id="d3">
+                <pb n="2" facs="#facs_2" xml:id="pag2"/>
+        <div xml:id="d4">
+          <p rendition="#f" facs="#facs_2_region_1501486678579_17" xml:id="p12" xml:space="preserve">
+            <lb facs="#facs_2_r1001" xml:id="z28"/>II. Von den Herren Burnouf, Fuchs 
+            <lb facs="#facs_2_r1002" xml:id="z29"/>in munchen, Gmelingin heidelberg 
+            <lb facs="#facs_2_r1003" xml:id="z30"/>sind Dankschreiben für ihre 
+            Ernen-<lb facs="#facs_2_r1004" xml:id="z31"/>nung zu correspondirenden 
+            Mit-<lb facs="#facs_2_r1005" xml:id="z32"/>gliedern eingegangen.</p>
+          <p rendition="#f" facs="#facs_2_region_1501486683650_18" xml:id="p13" xml:space="preserve">
+            <lb facs="#facs_2_r1007" xml:id="z33"/>Berzelius's Wittwer zeigt den 
+            <lb facs="#facs_2_r1008" xml:id="z34"/>Todesfall ihren Gemahls an.</p>
+          <p rendition="#f" facs="#facs_2_region_1501486689687_19" xml:id="p14" xml:space="preserve">
+            <lb facs="#facs_2_r1010" xml:id="z35"/>Es wird im Erwägung der hohen 
+            <lb facs="#facs_2_r1011" xml:id="z36"/>Verdienste des Verewigten um die 
+            <lb facs="#facs_2_r1012" xml:id="z37"/>Wissenschaft beschlossen, an die 
+            <lb facs="#facs_2_r1013" xml:id="z38"/>Frau Baronin ein Beileidschreiben 
+            <lb facs="#facs_2_r1014" xml:id="z39"/>ergehen zu lassen.</p>
+          <p rendition="#f" facs="#facs_2_region_1501486695444_20" xml:id="p15" xml:space="preserve">
+            <lb facs="#facs_2_r1016" xml:id="z40"/>III. Der Secretär ersucht um 
+            <lb facs="#facs_2_r1017" xml:id="z41"/>die Ermächtigung im Namen der 
+            <lb facs="#facs_2_r1018" xml:id="z42"/>Akademie an sämmtliche Mitglieder 
+            <lb facs="#facs_2_r1019" xml:id="z43"/>ein Ersuchschreiben um Mittheilung 
+            <lb facs="#facs_2_r1020" xml:id="z44"/>autobiographischer Notizen zu richten.</p>
+          <p rendition="#fc" facs="#facs_2_region_1501486699001_21" xml:id="p16" xml:space="preserve">
+            <lb facs="#facs_2_r1023" xml:id="z45"/>Wird zugestanden.</p>
+          <p rendition="#f" facs="#facs_2_region_1501486704742_22" xml:id="p17" xml:space="preserve">
+            <lb facs="#facs_2_r1025" xml:id="z46"/>IV. Die mathematisch-naturwissen-<lb facs="#facs_2_r1026" xml:id="z47"/>schaftliche Classe sucht durch ihren 
+            <lb facs="#facs_2_r1027" xml:id="z48"/>Secretär um nachstehende 
+            Geld-<lb facs="#facs_2_r1028" xml:id="z49"/>bewilligungen aus der Dotation 
+            <lb facs="#facs_2_r1029" xml:id="z50"/>für des Verwaltungsjahr <num>1849</num> an:</p>
+          <p rendition="#f" facs="#facs_2_region_1501486711154_23" xml:id="p18" xml:space="preserve">
+            <lb facs="#facs_2_r1031" xml:id="z51"/>a. für Hrn Martin zu weiterer 
+            <lb facs="#facs_2_r1032" xml:id="z52"/>Unterstützung seiner 
+            photographi-<lb facs="#facs_2_r1033" xml:id="z53"/>schen Arbeiten, von welchen eine 
+            <lb facs="#facs_2_r1034" xml:id="z54"/>sehr gelungene Probe vorgezeigt 
+            <lb facs="#facs_2_line_1501486779236_25" xml:id="z55"/>wird, <num>100</num> <choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice>;</p>
+          <p rendition="#f" facs="#facs_2_region_1501486720795_24" xml:id="p19" xml:space="preserve">
+            <lb facs="#facs_2_r1037" xml:id="z56"/>b. an das <choice><expan>wirkliche Mitglied</expan><abbr>w<am>.</am> M<am>.</am></abbr></choice> <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <rs type="person" ref="#diesing-carl-moritz" key="Diesing, Carl Moritz">Diesing</rs> als 
+            <lb facs="#facs_2_r1038" xml:id="z57"/>Honorar für die ersten Abtheilung 
+            <lb facs="#facs_2_r1039" xml:id="z58"/>seines auf Kosten der Akademie 
+            <lb facs="#facs_2_r1040" xml:id="z59"/>in Dank zu legenden und von 
+            der-<lb facs="#facs_2_r1041" xml:id="z60"/>selben herauszugebenden Werkes:<lb facs="#facs_2_r1042" xml:id="z61"/>"System der Helminthen", <num>1500</num> <choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice>;</p>
+                </div>
+            </div>
+      <div type="page" n="3" xml:id="d5">
+                <pb n="3" facs="#facs_3" xml:id="pag3"/>
+        <div xml:id="d6">
+          <p rendition="#f" facs="#facs_3_region_1501487200810_26" xml:id="p20" xml:space="preserve">
+            <lb facs="#facs_3_r1001" xml:id="z62"/>c. zum Ankauf des Pöppig'schen 
+            Her-<lb facs="#facs_3_r1003" xml:id="z63"/>bars zum Gebrauch des w. M. Hrn<lb facs="#facs_3_line_1501487297475_32" xml:id="z64"/>Fenzl, <num>1500</num> <choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice>;</p>
+          <p rendition="#f" facs="#facs_3_region_1501487212697_27" xml:id="p21" xml:space="preserve">
+            <lb facs="#facs_3_r1005" xml:id="z65"/>d. für Hrn v. Morlot zur 
+            Ausfüh-<lb facs="#facs_3_r1006" xml:id="z66"/>rung eines Apparates und Anstellung 
+            <lb facs="#facs_3_r1007" xml:id="z67"/>von Versuchen über Dolomitbildung, <num>300</num> <choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice>;</p>
+          <p rendition="#f" facs="#facs_3_region_1501487219062_28" xml:id="p22" xml:space="preserve">
+            <lb facs="#facs_3_r1009" xml:id="z68"/>e. zum Ankaufe von Material für 
+            <lb facs="#facs_3_r1010" xml:id="z69"/>anatomische Untersuchungen des w. M.<lb facs="#facs_3_r1011" xml:id="z70"/><expan>Prof<choice><am>.</am><ex>essor</ex></choice></expan> Hyrtl, <num>500</num> <choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice>, dann für 
+            Be-<lb facs="#facs_3_r1012" xml:id="z71"/>zahlung eines Zeichners während des 
+            <lb facs="#facs_3_r1013" xml:id="z72"/>Jahrs, monatlich <num>20</num> <choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice>;</p>
+          <p rendition="#f" facs="#facs_3_region_1501487228219_29" xml:id="p23" xml:space="preserve">
+            <lb facs="#facs_3_r1015" xml:id="z73"/>f. zur Unterstützung einer 
+            <lb facs="#facs_3_r1016" xml:id="z74"/>chemischen Arbeit der Hrn Patera, <num>100</num> <choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice></p>
+          <p rendition="#f" facs="#facs_3_region_1501487232899_30" xml:id="p24" xml:space="preserve">
+            <lb facs="#facs_3_line_1501487310625_33" xml:id="z75"/>Sämmtliche Ansuchen werden 
+            <lb facs="#facs_3_line_1501487314650_34" xml:id="z76"/>einstimmig zugestanden.</p>
+          <p rendition="#f" facs="#facs_3_region_1501487248827_31" xml:id="p25" xml:space="preserve">
+            <lb facs="#facs_3_r1022" xml:id="z77"/>V. Bezüglich des Ansuchens, die 
+            <lb facs="#facs_3_r1023" xml:id="z78"/>Unterstützung für Hrn Patera 
+            <lb facs="#facs_3_r1024" xml:id="z79"/>betreffend, macht der Secretär die 
+            <lb facs="#facs_3_r1025" xml:id="z80"/>Bemerkung, daß die 
+            mathematisch-<lb facs="#facs_3_r1026" xml:id="z81"/>naturwissenschaftliche Classe dieses 
+            <lb facs="#facs_3_r1027" xml:id="z82"/>Ansuchen auf Anregung des Hrn<lb facs="#facs_3_r1028" xml:id="z83"/>Bergrath haidinger gestellt 
+            <lb facs="#facs_3_r1029" xml:id="z84"/>habe, daß jedoch aus dem 
+            dieß-<lb facs="#facs_3_r1030" xml:id="z85"/>fälligen Vorträge des Hrn 
+            Berg-<lb facs="#facs_3_r1031" xml:id="z86"/>rathes entnommen worden sey,<lb facs="#facs_3_r1032" xml:id="z87"/>daß die Vorlegung von Arbeiten,<lb facs="#facs_3_r1033" xml:id="z88"/>durch welche die Würdigkeit des 
+            <lb facs="#facs_3_r1034" xml:id="z89"/>Hrn Patera zu einer 
+            Berücksichti-<lb facs="#facs_3_r1035" xml:id="z90"/>gung von Seite der Akademie 
+            be-<lb facs="#facs_3_r1036" xml:id="z91"/>thätiget wird, zuerst in der 
+            Gesell-<lb facs="#facs_3_r1037" xml:id="z92"/>schaft der Freunde der 
+            Naturwissen-<lb facs="#facs_3_r1038" xml:id="z93"/>schaften stattgefunden habe. Dem 
+            <lb facs="#facs_3_r1039" xml:id="z94"/>gemäß hat sich der Wunsch kund 
+            <lb facs="#facs_3_r1040" xml:id="z95"/>gegeben, daß Arbeiten, welche die</p>
+                </div>
+            </div>
+      <div type="page" n="4" xml:id="d7">
+                <pb n="4" facs="#facs_4" xml:id="pag4"/>
+        <div xml:id="d8">
+          <p rendition="#f" facs="#facs_4_region_1501488989515_35" xml:id="p26" xml:space="preserve">
+            <lb facs="#facs_4_r1001" xml:id="z96"/>Akademie unterstätzen soll, ihr 
+            zu-<lb facs="#facs_4_r1002" xml:id="z97"/>erst vorgelegt werden; es dürfte daher 
+            <lb facs="#facs_4_r1003" xml:id="z98"/>zur Beseitigung aller 
+            Mißverständ-<lb facs="#facs_4_r1004" xml:id="z99"/>nisse für die Folge zweckmäßig seyn,<lb facs="#facs_4_r1005" xml:id="z100"/>wenn die Akademie den Grundsatz 
+            <lb facs="#facs_4_r1006" xml:id="z101"/>aussprechen wollte, daß sie nur 
+            <lb facs="#facs_4_r1007" xml:id="z102"/>jene Arbeiten zu veröffentlichen 
+            <lb facs="#facs_4_r1008" xml:id="z103"/>und mit Unterstützungen zu 
+            bethei-<lb facs="#facs_4_r1009" xml:id="z104"/>len gesonnen sey, die ihre zuerst 
+            <lb facs="#facs_4_r1010" xml:id="z105"/>vorgelegt werden.</p>
+          <p rendition="#f" facs="#facs_4_region_1501488993618_36" xml:id="p27" xml:space="preserve">
+            <lb facs="#facs_4_r1012" xml:id="z106"/>Dieser Grundsatz wird 
+            einstim-<lb facs="#facs_4_r1013" xml:id="z107"/>mig anerkannt.</p>
+          <p rendition="#f" facs="#facs_4_region_1501489007658_37" xml:id="p28" xml:space="preserve">
+            <lb facs="#facs_4_r1015" xml:id="z108"/>Es entsteht weiter das 
+            Verlan-<lb facs="#facs_4_r1016" xml:id="z109"/>gen, daß derjenige, welcher von der 
+            <lb facs="#facs_4_r1017" xml:id="z110"/>Akademie eine Unterstützung 
+            emp-<lb facs="#facs_4_r1018" xml:id="z111"/>fängt, auch gehalten sey, der 
+            Aka-<lb facs="#facs_4_r1019" xml:id="z112"/>demie zuerst die Ergebisse der 
+            damit-<lb facs="#facs_4_r1020" xml:id="z113"/>vollführten Arbeit vorzulegen,<lb facs="#facs_4_r1021" xml:id="z114"/>woran sich die Frage knüpft, ob diese 
+            <lb facs="#facs_4_r1022" xml:id="z115"/>Bedingung dem Hrn Patera in der 
+            <lb facs="#facs_4_r1023" xml:id="z116"/>Zuschrift, worin ihm die Ertheilung 
+            <lb facs="#facs_4_r1024" xml:id="z117"/>der oben bezeichneten 
+            Unterstüt-<lb facs="#facs_4_r1025" xml:id="z118"/>zung kundgegeben wird, ausdrücklich 
+            <lb facs="#facs_4_r1026" xml:id="z119"/>zu stellen sey, wobei es dem 
+            Gene-<lb facs="#facs_4_r1027" xml:id="z120"/>ral-Secretär überlassen bliebe,<lb facs="#facs_4_r1028" xml:id="z121"/>das Schreiben dergestalt abzufassen,<lb facs="#facs_4_r1029" xml:id="z122"/>daß es Hrn Patera nicht verletzend 
+            <lb facs="#facs_4_r1030" xml:id="z123"/>erscheint, oder ob jede Hinweisung 
+            <lb facs="#facs_4_r1031" xml:id="z124"/>auf diese Bedingung im 
+            vorlie-<lb facs="#facs_4_r1032" xml:id="z125"/>genden Falle noch wegzubleiben habe.</p>
+          <p rendition="#f" facs="#facs_4_region_1501489019748_38" xml:id="p29" xml:space="preserve">
+            <lb facs="#facs_4_r1034" xml:id="z126"/>Die Akademie entscheidet 
+            <lb facs="#facs_4_r1035" xml:id="z127"/>einhellig, es sey in dem 
+            Schrei-<lb facs="#facs_4_r1036" xml:id="z128"/>ben an Hrn Patera darauf 
+            hinzu-<lb facs="#facs_4_r1037" xml:id="z129"/>weisen, daß die Akademie</p>
+                </div>
+            </div>
+      <div type="page" n="5" xml:id="d9">
+                <pb n="5" facs="#facs_5" xml:id="pag5"/>
+        <div xml:id="d10">
+          <p rendition="#f" facs="#facs_5_region_1501496483916_1" xml:id="p30" xml:space="preserve">
+            <lb facs="#facs_5_r1001" xml:id="z130"/>der unmittelbaren Mittheilung 
+            <lb facs="#facs_5_r1002" xml:id="z131"/>der Resultats entgegen sehe.<lb facs="#facs_5_r1003" xml:id="z132"/>VI. Der General-Secretär 
+            <lb facs="#facs_5_r1004" xml:id="z133"/>ersucht zur Revision seiner 
+            Geld-<lb facs="#facs_5_r1005" xml:id="z134"/>verrechnungen, für die zweite 
+            <lb facs="#facs_5_r1006" xml:id="z135"/>Hälfte das abgelaufenen 
+            Ver-<lb facs="#facs_5_r1007" xml:id="z136"/>waltungsjahres, zwei Censoren,<lb facs="#facs_5_r1008" xml:id="z137"/>von jeder Classe Einen, zuernennen.</p>
+          <p rendition="#f" facs="#facs_5_region_1501496494742_2" xml:id="p31" xml:space="preserve">
+            <lb facs="#facs_5_r1010" xml:id="z138"/>Die Herren <rs type="person" ref="#Kollárvincenz" key="Kollár, Vincenz">Kollar</rs> und 
+            <lb facs="#facs_5_r1011" xml:id="z139"/><rs type="person" ref="#Bergmannjoseph" key="Bergmann, von, Joseph">Bergmann</rs> werden angegangen,<lb facs="#facs_5_r1012" xml:id="z140"/>diesem Geschäfte sich zu 
+            unter-<lb facs="#facs_5_r1013" xml:id="z141"/>ziehen, wozu dieselben ihre 
+            Be-<lb facs="#facs_5_r1014" xml:id="z142"/>reitwilligkeit erklären.</p>
+          <p rendition="#f" facs="#facs_5_region_1501496511435_3" xml:id="p32" xml:space="preserve">
+            <lb facs="#facs_5_r1016" xml:id="z143"/>VII. Die vier Beamten des 
+            <lb facs="#facs_5_r1017" xml:id="z144"/>Universal-Cameral-Zahlamtes,<lb facs="#facs_5_r1018" xml:id="z145"/>welche die Cassegeschäfte der 
+            <lb facs="#facs_5_r1019" xml:id="z146"/>Akademie besorgen, ersuchen 
+            <lb facs="#facs_5_r1020" xml:id="z147"/>um Ertheilung einer 
+            Remune-<lb facs="#facs_5_r1021" xml:id="z148"/>ration für des 
+            Verwaltungs-<lb facs="#facs_5_r1022" xml:id="z149"/>jahr <num>1848</num>, und bringen dazu eine 
+            <lb facs="#facs_5_r1023" xml:id="z150"/>Gesammtsumme von <num>500</num> <choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice> in 
+            <lb facs="#facs_5_r1024" xml:id="z151"/>Antrag, mit dem Beisatze, daß 
+            <lb facs="#facs_5_r1025" xml:id="z152"/>sie sich auch der künftighin 
+            ver-<lb facs="#facs_5_r1026" xml:id="z153"/>mehrten Geschäften mit diesem 
+            <lb facs="#facs_5_r1027" xml:id="z154"/>Remunerationsbetrage 
+            be-<lb facs="#facs_5_r1028" xml:id="z155"/>gnügen wollen.</p>
+          <p rendition="#f" facs="#facs_5_region_1501496521154_4" xml:id="p33" xml:space="preserve">
+            <lb facs="#facs_5_r1030" xml:id="z156"/>Der Secretär liest die Stelle 
+            <lb facs="#facs_5_r1031" xml:id="z157"/>aus dem Erlasse S<hi rend="super">r</hi>. kaiserlichen 
+            <lb facs="#facs_5_r1032" xml:id="z158"/>Hoheit des Herrn Erzherzog 
+            <lb facs="#facs_5_r1033" xml:id="z159"/>Curators vom <num>9</num>. Jänner l. J.<lb facs="#facs_5_r1034" xml:id="z160"/>worin auf Ertheilung von 
+            Re-<lb facs="#facs_5_r1035" xml:id="z161"/>munerationen an die 
+            Casse-<lb facs="#facs_5_r1036" xml:id="z162"/>beamten hingewiesen wird,<lb facs="#facs_5_r1037" xml:id="z163"/>und entwickelt ausführlich</p>
+                </div>
+            </div>
+      <div type="page" n="6" xml:id="d11">
+                <pb n="6" facs="#facs_6" xml:id="pag6"/>
+        <div xml:id="d12">
+          <p rendition="#f" facs="#facs_6_region_1501497036480_5" xml:id="p34" xml:space="preserve">
+            <lb facs="#facs_6_r1001" xml:id="z164"/>einwenden, daß die Akademie bereits 
+            <lb facs="#facs_6_r1002" xml:id="z165"/>an das Universal-Cameral-Zahlamt 
+            <lb facs="#facs_6_r1003" xml:id="z166"/>gewiesen sey und sich an diese 
+            Ver-<lb facs="#facs_6_r1004" xml:id="z167"/>fügung zu halten habe, ferner 
+            <lb facs="#facs_6_r1005" xml:id="z168"/>bemerkt <expan>H<ex>er</ex>r</expan> Regierungsrath 
+            <lb facs="#facs_6_r1006" xml:id="z169"/>Auer, daß man dann vielleicht 
+            <lb facs="#facs_6_r1007" xml:id="z170"/>einer Remuneration an die 
+            Be-<lb facs="#facs_6_r1008" xml:id="z171"/>amten des Zahlamtes erst nicht 
+            <lb facs="#facs_6_r1009" xml:id="z172"/>entgehen würde, weil die gesammte 
+            <lb facs="#facs_6_r1010" xml:id="z173"/>Dotation nicht auf einmal, sondern 
+            <lb facs="#facs_6_r1011" xml:id="z174"/>nur nach Bedarf in geringeren 
+            <lb facs="#facs_6_r1012" xml:id="z175"/>Beträgen vom Unversal-Cam-<lb facs="#facs_6_r1013" xml:id="z176"/>ral-Zahlamte an die Casse des 
+            <lb facs="#facs_6_r1014" xml:id="z177"/>Institutes verabfolgt werden dürfte.<lb facs="#facs_6_r1015" xml:id="z178"/>Schlüßlich vereinget man sich dahin,<lb facs="#facs_6_r1016" xml:id="z179"/>die Ertheilung der Remuneration 
+            <lb facs="#facs_6_r1017" xml:id="z180"/>an die Beamten des Universal-<lb facs="#facs_6_r1018" xml:id="z181"/>Cameral-Zahlamtes, da die Geschäfte 
+            <lb facs="#facs_6_r1019" xml:id="z182"/>sich nicht gleich bleiben und auch das 
+            <lb facs="#facs_6_r1020" xml:id="z183"/>Personal einem Wechsel 
+            unter-<lb facs="#facs_6_r1021" xml:id="z184"/>worfen ist, nicht nach einer 
+            fort-<lb facs="#facs_6_r1022" xml:id="z185"/>während giltigen Normen zu 
+            bestim-<lb facs="#facs_6_r1023" xml:id="z186"/>men, sondern von Jahr zu Jahre 
+            abge-<lb facs="#facs_6_r1024" xml:id="z187"/>sondert zu beschließen, für die bis 
+            <lb facs="#facs_6_r1025" xml:id="z188"/>zum Ende des Verwaltungsjahres 
+            <lb facs="#facs_6_r1026" xml:id="z189"/><num>1848</num> vorgefallenen Geschäfte,<lb facs="#facs_6_r1027" xml:id="z190"/>deren Anfang thatsächlich 
+            gerin-<lb facs="#facs_6_r1028" xml:id="z191"/>ger war, aber <num>300</num> <choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice> zu bewilligen.</p>
+          <p rendition="#f" facs="#facs_6_region_1501497048492_6" xml:id="p35" xml:space="preserve">
+            <lb facs="#facs_6_r1030" xml:id="z192"/>VIII. Nunmehr war der Bericht 
+            <lb facs="#facs_6_r1031" xml:id="z193"/>des Secretärs über die 
+            Verhandlun-<lb facs="#facs_6_r1032" xml:id="z194"/>gen der, vermöge Beschlußes der 
+            <lb facs="#facs_6_r1033" xml:id="z195"/>Akademie vom <num>11</num>. Septenber 
+            verstärk-<lb facs="#facs_6_r1034" xml:id="z196"/>ten Revisions-Commission für 
+            Sta-<lb facs="#facs_6_r1035" xml:id="z197"/>tuten und Geschäftsordnung an der</p>
+                </div>
+            </div>
+      <div type="page" n="7" xml:id="d13">
+                <pb n="7" facs="#facs_7" xml:id="pag7"/>
+        <div xml:id="d14">
+          <p rendition="#l" facs="#facs_7_region_1501511130984_1" xml:id="p36" xml:space="preserve">
+            <lb facs="#facs_7_r1002" xml:id="z198"/>Tagesordnung.</p>
+          <p rendition="#f" facs="#facs_7_region_1501511136372_2" xml:id="p37" xml:space="preserve">
+            <lb facs="#facs_7_r1004" xml:id="z199"/>Der <expan>H<ex>er</ex>r</expan> Präsident erklärte, daß die in 
+            <lb facs="#facs_7_r1005" xml:id="z200"/>der ohne sein Vorwissen 
+            veranstalte-<lb facs="#facs_7_r1006" xml:id="z201"/>ten Sitzung am <num>11</num>. September 
+            ge-<lb facs="#facs_7_r1007" xml:id="z202"/>faßten Beschlüße ihm fremd seyen,<lb facs="#facs_7_r1008" xml:id="z203"/>und er es sonach für angemessener 
+            <lb facs="#facs_7_r1009" xml:id="z204"/>erachte, die Sitzung jetzt zu 
+            ver-<lb facs="#facs_7_r1010" xml:id="z205"/>lassen und die Leitung der 
+            Verhandlun-<lb facs="#facs_7_r1011" xml:id="z206"/>gen an den Hrn Vice-Präsidenten, der 
+            <lb facs="#facs_7_r1012" xml:id="z207"/>damals den Vorsitz führte, abzutreten.</p>
+          <p rendition="#f" facs="#facs_7_region_1501511148395_3" xml:id="p38" xml:space="preserve">
+            <lb facs="#facs_7_r1014" xml:id="z208"/>Der Secretär berichtet wie folgt:<lb facs="#facs_7_r1015" xml:id="z209"/>Obgleich die Commission nach dem 
+            Be-<lb facs="#facs_7_r1016" xml:id="z210"/>schluße der Akademie von <num>25</num>. November 
+            <lb facs="#facs_7_r1017" xml:id="z211"/>nunmehr bloß Maßregeln, welche 
+            <lb facs="#facs_7_r1018" xml:id="z212"/>eine Vervollkommnung der 
+            Geschäfts-<lb facs="#facs_7_r1019" xml:id="z213"/>ordnung betreffen, hätte vornehmen 
+            <lb facs="#facs_7_r1020" xml:id="z214"/>sollen, so haben sich doch in der 
+            <lb facs="#facs_7_r1021" xml:id="z215"/>Zusammentretung am <num>2</num>. December 
+            <lb facs="#facs_7_r1022" xml:id="z216"/>gewichtige Gründe herausgestellt,<lb facs="#facs_7_r1023" xml:id="z217"/>die Reformangelegenheit der 
+            Sta-<lb facs="#facs_7_r1024" xml:id="z218"/>tuten nicht ganz fallen zu lassen.<lb facs="#facs_7_r1025" xml:id="z219"/>Die Commission meinte von der 
+            be-<lb facs="#facs_7_r1026" xml:id="z220"/>reits begonnenen Arbeit nicht abgehen 
+            <lb facs="#facs_7_r1027" xml:id="z221"/>zu können, ohne die Akademie dem 
+            <lb facs="#facs_7_r1028" xml:id="z222"/>allgemeinen Tadel bloß zu stellen.<lb facs="#facs_7_r1029" xml:id="z223"/>Früher habe nen Reformen für 
+            <lb facs="#facs_7_r1030" xml:id="z224"/>dringend erkannt, daher könne man 
+            <lb facs="#facs_7_r1031" xml:id="z225"/>jetzt nicht das Gegentheil annehmen,<lb facs="#facs_7_r1032" xml:id="z226"/>gerade jetzt müsse man Reformen,<lb facs="#facs_7_r1033" xml:id="z227"/>eben, weil sie wirklich nöthig sind, in 
+            <lb facs="#facs_7_r1034" xml:id="z228"/>Antrag bringen, sonst wird die 
+            <lb facs="#facs_7_r1035" xml:id="z229"/>Akademie der Vorwurf treffen 
+            <lb facs="#facs_7_r1036" xml:id="z230"/>sie habe sich nur so lange thätig 
+            zei-<lb facs="#facs_7_r1037" xml:id="z231"/>gen wollen, als sie Angriffe von</p>
+                </div>
+            </div>
+      <div type="page" n="8" xml:id="d15">
+                <pb n="8" facs="#facs_8" xml:id="pag8"/>
+        <div xml:id="d16">
+          <p rendition="#f" facs="#facs_8_region_1501511630523_4" xml:id="p39" xml:space="preserve">
+            <lb facs="#facs_8_r1001" xml:id="z232"/>Seite der demokratischen Partei zu 
+            <lb facs="#facs_8_r1002" xml:id="z233"/>besorgen hatte. Auch sey es ganz gegen 
+            <lb facs="#facs_8_r1003" xml:id="z234"/>parlamentarische Regeln, eine 
+            Com-<lb facs="#facs_8_r1004" xml:id="z235"/>mission zu ernennen, und sie dann, ohne 
+            <lb facs="#facs_8_r1005" xml:id="z236"/>ihren Bericht gehört zu haben, wieder 
+            <lb facs="#facs_8_r1006" xml:id="z237"/>ihrer Arbeit zu entheben. 
+            Demge-<lb facs="#facs_8_r1007" xml:id="z238"/>mäß hat die Commission ihre Revision der 
+            <lb facs="#facs_8_r1008" xml:id="z239"/>Statuten wieder aufgenommen und zu 
+            <lb facs="#facs_8_r1009" xml:id="z240"/>Ende geführt. Sie erkannte es aber für 
+            <lb facs="#facs_8_r1010" xml:id="z241"/>passender auf die urspüngliche Form 
+            <lb facs="#facs_8_r1011" xml:id="z242"/>des Antrage des Hrn Bergrath 
+            Hai-<lb facs="#facs_8_r1012" xml:id="z243"/>dinger zurückzukehren, wornach S<hi rend="super">r</hi>
+            <lb facs="#facs_8_r1013" xml:id="z244"/>Majestät nicht neue Statuten zur 
+            <lb facs="#facs_8_r1014" xml:id="z245"/>Sanction vorzulegen waren, sondern 
+            <lb facs="#facs_8_r1015" xml:id="z246"/>es sich nur darum handelte, um 
+            Ab-<lb facs="#facs_8_r1016" xml:id="z247"/>änderungen gewisser Puncte der 
+            Sta-<lb facs="#facs_8_r1017" xml:id="z248"/>tuten anzusuchen. Bei der zweiten 
+            Zu-<lb facs="#facs_8_r1018" xml:id="z249"/>sammentretung am <num>9</num>. December, als die 
+            <lb facs="#facs_8_r1019" xml:id="z250"/>Besprechung der in den Bereich der 
+            Geschäfts-<lb facs="#facs_8_r1020" xml:id="z251"/>ordnung fallenden Anträge an die Reihe kam,<lb facs="#facs_8_r1021" xml:id="z252"/>stellte sich in der Commission die Ansicht fest,<lb facs="#facs_8_r1022" xml:id="z253"/>daß es durchaus nicht dringend sey, jetzt auf 
+            <lb facs="#facs_8_r1023" xml:id="z254"/>diesen Gegenstand einzugehen, sondern 
+            <lb facs="#facs_8_r1024" xml:id="z255"/>derselbe füglich einer späteren 
+            Gelegen-<lb facs="#facs_8_r1025" xml:id="z256"/>heit überlassen werden könne, da von der 
+            <lb facs="#facs_8_r1026" xml:id="z257"/>Beziehung der auswärtigen Mitglieder,<lb facs="#facs_8_r1027" xml:id="z258"/>wozu erst die Feierliche Sitzung im Mai 
+            <lb facs="#facs_8_r1028" xml:id="z259"/>Gelegenheit bietet, keine neuen 
+            Geschäfts-<lb facs="#facs_8_r1029" xml:id="z260"/>normen, wie sie hier gewünscht worden 
+            <lb facs="#facs_8_r1030" xml:id="z261"/>sind, als ein zweckmäßigerer 
+            Wahlmo-<lb facs="#facs_8_r1031" xml:id="z262"/>dus u. dgl. in Ausübung zu bringen sind.<lb facs="#facs_8_r1032" xml:id="z263"/>Als der Secretär zum Vortrage der 
+            <lb facs="#facs_8_r1033" xml:id="z264"/>für Puncte der Statuten von der Commission 
+            <lb facs="#facs_8_r1034" xml:id="z265"/>beantragten Abänderungen schreiten wollte,</p>
+                </div>
+            </div>
+      <div type="page" n="9" xml:id="d17">
+                <pb n="9" facs="#facs_9" xml:id="pag9"/>
+        <div xml:id="d18">
+          <p rendition="#f" facs="#facs_9_region_1501512388653_5" xml:id="p40" xml:space="preserve">
+            <lb facs="#facs_9_r1001" xml:id="z266"/>beantragte <expan>H<ex>er</ex>r</expan> <expan>Prof<choice><am>.</am><ex>essor</ex></choice></expan> <hi>Schrötter</hi> aus dem Grunde, weil 
+            <lb facs="#facs_9_r1002" xml:id="z267"/>die Urheber der wichtigisten Vorschläge, nämlich 
+            <lb facs="#facs_9_r1003" xml:id="z268"/><expan>H<ex>er</ex>r</expan> Bergrath haidinger wegen Krankheit und 
+            <lb facs="#facs_9_r1004" xml:id="z269"/>Baron v. Münch wegen Geschäften nicht 
+            zuge-<lb facs="#facs_9_r1005" xml:id="z270"/>gen seyen, die Verhandlung über diesen 
+            Gegen-<lb facs="#facs_9_r1006" xml:id="z271"/>stand der nächsten Sitzung vorzubehalten.</p>
+          <p rendition="#f" facs="#facs_9_region_1501512395672_6" xml:id="p41" xml:space="preserve">
+            <lb facs="#facs_9_r1008" xml:id="z272"/>Dieser Vorschlag fand allgemeine Zustimmung 
+            <lb facs="#facs_9_r1009" xml:id="z273"/>wobei der <expan>H<ex>er</ex>r</expan> Vice-Präsident noch den Wunsch 
+            aus-<lb facs="#facs_9_r1010" xml:id="z274"/>sprach, daß die beiden Hrn Mitglieder von 
+            Se-<lb facs="#facs_9_r1011" xml:id="z275"/>cretär darauf aunfmerksaun gemacht werden 
+            <lb facs="#facs_9_r1012" xml:id="z276"/>mögen, wie sehr ihre Gegenwart bei der nächsten 
+            <lb facs="#facs_9_r1013" xml:id="z277"/>Sitzung erwünschlich sey.</p>
+          <p rendition="#f" facs="#facs_9_region_1501512404360_7" xml:id="p42" xml:space="preserve">
+            <lb facs="#facs_9_r1015" xml:id="z278"/>Der Secretär brachte nun den von der 
+            <lb facs="#facs_9_r1016" xml:id="z279"/>Commission beschlossenen Antrag vor, die 
+            <lb facs="#facs_9_r1017" xml:id="z280"/>Angelegenheit wegen Unterordung der 
+            <lb facs="#facs_9_r1018" xml:id="z281"/>Hofsammlungen unter Leitung der Akademie durch 
+            <lb facs="#facs_9_r1019" xml:id="z282"/>eine Eingabe an der Ministerrath neuerdings 
+            <lb facs="#facs_9_r1020" xml:id="z283"/>in Gang zu bringen. In dieser Eingabe sollte 
+            <lb facs="#facs_9_r1021" xml:id="z284"/>vorzüglich der Ministerrath darauf 
+            auf-<lb facs="#facs_9_r1022" xml:id="z285"/>merksam gemacht werden, daß die 
+            Aka-<lb facs="#facs_9_r1023" xml:id="z286"/>demie das Eigenthumsrecht dieser 
+            Samm-<lb facs="#facs_9_r1024" xml:id="z287"/>lungen ganz außer Augen lassen, sondern 
+            <lb facs="#facs_9_r1025" xml:id="z288"/>bloß die Verwaltung derselben entspreche,<lb facs="#facs_9_r1026" xml:id="z289"/>ferner sollte zur Beseitigung eines mit 
+            <lb facs="#facs_9_r1027" xml:id="z290"/>Grund zu besorgenden Anstands 
+            hervor-<lb facs="#facs_9_r1028" xml:id="z291"/>gehoben werden, daß die Akademie 
+            ledig-<lb facs="#facs_9_r1029" xml:id="z292"/>lich der wissenschaftlichen Theil des Haus- Hof-<lb facs="#facs_9_r1030" xml:id="z293"/>und Staats-Archivs in Obhuth zu nehmen 
+            <lb facs="#facs_9_r1031" xml:id="z294"/>wünsche, und sich keine Einsicht in den 
+            offi-<lb facs="#facs_9_r1032" xml:id="z295"/>ziellen, noch geheim zu haltenden, anzumaßen,<lb facs="#facs_9_r1033" xml:id="z296"/>die Absicht habe. Auch sollte in der Eingabe 
+            <lb facs="#facs_9_r1034" xml:id="z297"/>der Unterschied zwischen der Akademie als 
+            An-<lb facs="#facs_9_r1035" xml:id="z298"/>stalt zur Erweiterung der Wissenschaft,<lb facs="#facs_9_r1036" xml:id="z299"/>und den Unterrichtsanstalten, recht in 
+            <lb facs="#facs_9_r1037" xml:id="z300"/>das Licht gestellt und darnach auch die</p>
+                </div>
+            </div>
+      <div type="page" n="10" xml:id="d19">
+                <pb n="10" facs="#facs_10" xml:id="pag10"/>
+        <div xml:id="d20">
+          <p rendition="#f" facs="#facs_10_region_1501513013455_8" xml:id="p43" xml:space="preserve">
+            <lb facs="#facs_10_r1001" xml:id="z301"/>Verschiedenheit der den beiden Zwecke dienen-<lb facs="#facs_10_line_1501513119250_16" xml:id="z302"/>Sammlungen 
+            <lb facs="#facs_10_r1002" xml:id="z303"/>den <hi>Anstalten</hi> dargelegt werden.</p>
+          <p rendition="#f" facs="#facs_10_region_1501513017558_9" xml:id="p44" xml:space="preserve">
+            <lb facs="#facs_10_r1004" xml:id="z304"/><expan>H<ex>er</ex>r</expan> Dr. Fenzl sey von der Commission mit der 
+            <lb facs="#facs_10_r1005" xml:id="z305"/>Abfassung dieser Eingabe betraut worden.</p>
+          <p rendition="#f" facs="#facs_10_region_1501513032971_10" xml:id="p45" xml:space="preserve">
+            <lb facs="#facs_10_r1007" xml:id="z306"/>Nachdem <expan>H<ex>er</ex>r</expan> Custos Fenzl seinen 
+            Auf-<lb facs="#facs_10_r1008" xml:id="z307"/>satz vorgelesen hatte, äußerte sich 
+            allge-<lb facs="#facs_10_r1009" xml:id="z308"/>mein die Besorgniß, daß eine längere, wenn 
+            <lb facs="#facs_10_r1010" xml:id="z309"/>auch vortrefflich geschriebene Eingabe, leicht 
+            <lb facs="#facs_10_r1011" xml:id="z310"/>das Schicksal erfahren könnte, von den so 
+            <lb facs="#facs_10_r1012" xml:id="z311"/>sehr beschäftigten Ministern, ungelesen 
+            <lb facs="#facs_10_r1013" xml:id="z312"/>bei Seite gelegt zu werden, auch wäre nicht 
+            <lb facs="#facs_10_r1014" xml:id="z313"/>das so verbrauchte Mittel der Abordnung 
+            <lb facs="#facs_10_r1015" xml:id="z314"/>einer Deputation, zur Übergabe eines 
+            <lb facs="#facs_10_r1016" xml:id="z315"/>solchen Gesuche zu ergreifen, mit weit 
+            <lb facs="#facs_10_r1017" xml:id="z316"/>größerem Erfolge würde der <expan>H<ex>er</ex>r</expan> Vice-<lb facs="#facs_10_r1018" xml:id="z317"/>Präsident mit Beziehung auf die frühere 
+            <lb facs="#facs_10_r1019" xml:id="z318"/>Eingabe, sich bei dem Hrn Minister-Präsidenten 
+            <lb facs="#facs_10_r1020" xml:id="z319"/>und dessen Geneigtheit für das Anliegen der 
+            <lb facs="#facs_10_r1021" xml:id="z320"/>Akademie mündlich bewerken, wobei er bloß 
+            <lb facs="#facs_10_r1022" xml:id="z321"/>ein kurz gefaßten Promemoria zu 
+            über-<lb facs="#facs_10_r1023" xml:id="z322"/>reichen hätte.</p>
+          <p rendition="#f" facs="#facs_10_region_1501513043345_11" xml:id="p46" xml:space="preserve">
+            <lb facs="#facs_10_r1025" xml:id="z323"/>Da der <expan>H<ex>er</ex>r</expan> Vice-Präsident diesem 
+            Ansin-<lb facs="#facs_10_r1026" xml:id="z324"/>nen der Akademie zu entsprechen sich 
+            be-<lb facs="#facs_10_r1027" xml:id="z325"/>reit erklärte, auch <expan>H<ex>er</ex>r</expan> Dr. Fenzl die 
+            <lb facs="#facs_10_r1028" xml:id="z326"/>Herstellung des nöthigen kurzen 
+            Aufsat-<lb facs="#facs_10_r1029" xml:id="z327"/>zes übernahm, so wurde die 
+            Angele-<lb facs="#facs_10_r1030" xml:id="z328"/>genheit den beiden Herren überlassen 
+            <lb facs="#facs_10_r1031" xml:id="z329"/>und hiemit die Sitzung geschlossen.</p>
+          <p rendition="#?43-48-92--578-1217" facs="#facs_10_region_1501513047354_12" xml:id="p47" xml:space="preserve">
+            <lb facs="#facs_10_r1033" xml:id="z330"/>Hammer-Purgstall</p>
+          <p rendition="#?42-44-85--555-1135" facs="#facs_10_region_1501513050349_13" xml:id="p48" xml:space="preserve">
+            <lb facs="#facs_10_r1036" xml:id="z331"/>ABaumgartner</p>
+          <p rendition="#?42-50-92--555-1217" facs="#facs_10_region_1501513054202_14" xml:id="p49" xml:space="preserve">
+            <lb facs="#facs_10_r1038" xml:id="z332"/>AvEttingshausen</p>
+          <p rendition="#r" facs="#facs_10_region_1501513058414_15" xml:id="p50" xml:space="preserve">
+            <lb facs="#facs_10_r1040" xml:id="z333"/>FWolf</p>
+                </div>
+            </div>
+        </body>
+    <back><listPerson><person xml:id="diemer-josef">
+<persName>
+<surname>Diemer</surname>
+<forename>Josef</forename>
+</persName>
+<birth when="1807-03-16">16.03.1807<place key="place__12407">
+<placeName>Stainz</placeName>
+<location>
+<geo>46.89027 15.24863</geo>
+</location>
+</place>
+</birth>
+<death when="1869-06-03">03.06.1869<place key="place__10950">
+<placeName>Wien</placeName>
+<placeName subtype="alternative name" type="alt" xml:lang="eng">Vienna</placeName>
+<location>
+<geo>48.20849 16.37208</geo>
+</location>
+</place>
+</death>
+<occupation code="#3672" scheme="#apis_vocabularies/professiontype/">Germanist</occupation>
+<idno subtype="GND" type="URL">https://d-nb.info/gnd/116101873</idno>
+<idno type="paas">1529</idno>
+<listEvent><event type="mentioned"><p>erwähnt in <title>A_0005</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0017.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0018</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0019</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0019.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0020</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0020.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0021</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0021.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0022</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0022.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0023</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0023.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0024</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0024.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0027</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0027.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0028</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0028.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0030</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0031</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0031.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0032</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0032.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0033</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0033.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0035.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0038</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0038.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0039</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0039.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0040</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0040.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0051.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0053</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0053.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0054</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0054.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0056</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0056.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0077.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0079</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0079.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0083</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0087</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0087.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0088</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0088.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0089</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0089.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0095</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0095.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0100</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0100t.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0102.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0109</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0109.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0113</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0113.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0126</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0126.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0127</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0127.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0131</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0131.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0137</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0137.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0148</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0148.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0006</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0009</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0010</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0010.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0017.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0018</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0020</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0020.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0024</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0024.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0027</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0027.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0028</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0028.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0029</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0030</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0031</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0031.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0032</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0032.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0033</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0033.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0034</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0034.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0035.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0036</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0037</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0037.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0038</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0038.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0039</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0039.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0041</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0042</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0042.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0043</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0043.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0046</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0046.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0047</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0047.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0048</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0048.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0049</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0049.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0050</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0050.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0051.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0053</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0053.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0056</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0056.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0057</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0057.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0058</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0059</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0059.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0060</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0060.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0061</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0061.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0063</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0063.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0064</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0064.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0065</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0066</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0066.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0067</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0067.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0068</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0068.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0077.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0078</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0078.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0080</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0080.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0084</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0084.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0091</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0091.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0092</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0092.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0097</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0097.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0098</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0098.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0100</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0100.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0101</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0101.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0102.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0103</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0104</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0104.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0105</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0105.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0106</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0106.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0107</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0107.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0110</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0110.xml"/></linkGrp></event></listEvent></person>
+<person xml:id="pfizmaier-august">
+<persName>
+<surname>Pfizmaier</surname>
+<addName>Dr. med.</addName>
+<forename>August</forename>
+</persName>
+<birth when="1808-03-16">16.03.1808<place key="place__12437">
+<placeName>Karlsbad</placeName>
+<placeName subtype="alternative name" type="alt" xml:lang="eng">Karlovy Vary</placeName>
+<location>
+<geo>50.23271 12.87117</geo>
+</location>
+</place>
+</birth>
+<death when="1887-05-18">18.05.1887</death>
+<occupation code="#3640" scheme="#apis_vocabularies/professiontype/">Orientalist</occupation>
+<occupation code="#3647" scheme="#apis_vocabularies/professiontype/">Sinologe</occupation>
+<occupation code="#3698" scheme="#apis_vocabularies/professiontype/">Linguist</occupation>
+<occupation code="#3786" scheme="#apis_vocabularies/professiontype/">Japanologe</occupation>
+<idno subtype="GND" type="URL">https://d-nb.info/gnd/11881835X</idno>
+<idno type="paas">4964</idno>
+<listEvent><event type="mentioned"><p>erwähnt in <title>A_0005</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0007</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0007.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0008</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0008.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0009</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0010</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0010.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0014</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0014.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0015</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0015.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0016</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0017.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0018</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0020</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0020.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0023</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0023.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0027</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0027.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0028</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0028.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0029</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0030</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0033</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0033.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0035.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0036</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0038</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0038.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0039</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0039.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0040</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0040.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0041</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0051.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0053</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0053.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0054</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0054.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0056</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0056.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0077.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0079</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0079.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0083</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0087</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0087.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0088</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0088.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0089</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0089.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0095</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0095.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0100</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0100t.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0102.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0109</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0109.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0113</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0113.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0126</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0126.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0127</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0127.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0128</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0128.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0131</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0131.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0137</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0137.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0148</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0148.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0009</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0010</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0010.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0014</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0014.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0015</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0015.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0016</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0017.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0018</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0019</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0019.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0020</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0020.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0021</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0021.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0022</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0022.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0023</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0023.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0024</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0024.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0027</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0027.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0028</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0028.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0029</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0030</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0031</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0031.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0032</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0032.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0033</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0033.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0034</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0034.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0035.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0036</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0037</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0037.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0038</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0038.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0039</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0039.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0041</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0043</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0043.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0046</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0046.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0047</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0047.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0048</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0048.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0049</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0049.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0050</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0050.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0051.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0053</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0053.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0056</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0056.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0057</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0057.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0059</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0059.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0060</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0060.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0061</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0061.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0063</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0063.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0064</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0064.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0065</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0066</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0066.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0067</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0067.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0068</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0068.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0071</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0072</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0077.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0080</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0080.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0084</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0084.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0091</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0091.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0092</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0092.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0097</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0097.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0098</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0098.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0100</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0100.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0101</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0101.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0102.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0103</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0104</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0104.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0105</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0105.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0106</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0106.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0107</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0107.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0110</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0110.xml"/></linkGrp></event></listEvent></person>
+<person xml:id="fenzl-eduard">
+<persName>
+<surname>Fenzl</surname>
+<addName>Dr. phil.</addName>
+<addName>Dr. med.</addName>
+<forename>Eduard</forename>
+</persName>
+<birth when="1808-02-16">16.02.1808<place key="place__10992">
+<placeName>Krummnussbaum</placeName>
+<location>
+<geo>48.2 15.15</geo>
+</location>
+</place>
+</birth>
+<death when="1879-09-29">29.09.1879<place key="place__10950">
+<placeName>Wien</placeName>
+<placeName subtype="alternative name" type="alt" xml:lang="eng">Vienna</placeName>
+<location>
+<geo>48.20849 16.37208</geo>
+</location>
+</place>
+</death>
+<occupation code="#3669" scheme="#apis_vocabularies/professiontype/">Botaniker</occupation>
+<idno subtype="GND" type="URL">https://d-nb.info/gnd/116464291</idno>
+<idno type="paas">1908</idno>
+<listEvent><event type="mentioned"><p>erwähnt in <title>A_0005</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0007</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0007.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0008</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0008.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0009</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0010</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0010.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0014</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0014.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0015</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0015.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0016</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0017.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0018</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0019</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0019.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0020</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0020.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0021</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0021.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0022</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0022.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0023</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0023.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0024</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0024.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0027</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0027.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0028</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0028.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0030</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0031</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0031.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0032</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0032.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0033</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0033.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0034</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0034.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0035.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0036</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0039</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0039.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0040</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0040.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0041</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0051.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0053</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0053.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0054</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0054.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0071</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0077.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0079</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0079.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0083</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0087</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0087.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0088</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0088.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0089</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0089.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0095</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0095.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0100</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0100t.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0102.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0103</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0109</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0109.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0113</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0113.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0126</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0126.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0128</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0128.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0131</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0131.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0137</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0137.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0148</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0148.xml"/></linkGrp></event></listEvent></person>
+<person xml:id="diesing-carl-moritz">
+<persName>
+<surname>Diesing</surname>
+<addName>Dr. med.</addName>
+<forename>Carl Moritz</forename>
+</persName>
+<birth when="1800-06-16">16.06.1800<place key="place__25108">
+<placeName>Krakau</placeName>
+<placeName subtype="alternative name" type="alt" xml:lang="eng">Krakow</placeName>
+<location>
+<geo>50.06143 19.93658</geo>
+</location>
+</place>
+</birth>
+<death when="1867-01-10">10.01.1867<place key="place__10950">
+<placeName>Wien</placeName>
+<placeName subtype="alternative name" type="alt" xml:lang="eng">Vienna</placeName>
+<location>
+<geo>48.20849 16.37208</geo>
+</location>
+</place>
+</death>
+<occupation code="#3628" scheme="#apis_vocabularies/professiontype/">Naturwissenschaftler</occupation>
+<occupation code="#3669" scheme="#apis_vocabularies/professiontype/">Botaniker</occupation>
+<idno subtype="GND" type="URL">https://d-nb.info/gnd/102461481</idno>
+<idno type="paas">1540</idno>
+<listEvent><event type="mentioned"><p>erwähnt in <title>A_0005</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0016</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0017.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0018</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0019</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0019.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0020</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0020.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0021</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0021.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0023</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0023.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0024</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0024.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0027</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0027.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0028</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0028.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0029</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0030</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0031</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0031.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0033</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0033.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0034</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0034.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0035.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0036</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0039</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0039.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0040</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0040.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0051.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0053</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0053.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0054</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0054.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0056</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0056.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0071</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0077.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0079</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0079.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0083</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0087</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0087.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0088</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0088.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0089</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0089.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0095</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0095.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0100</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0100t.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0102.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0103</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0109</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0109.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0113</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0113.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0126</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0126.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0127</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0127.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0128</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0128.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0131</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0131.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0137</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0137.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0148</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0148.xml"/></linkGrp></event></listEvent></person>
+</listPerson></back></text>
+</TEI>
