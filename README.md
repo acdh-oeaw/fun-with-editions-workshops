@@ -1,6 +1,10 @@
 # fun-with-editions-workshops
 collections of useful things to discuss/teach in our team
 
+## [easter-challenge show off, PART I](https://github.com/fun-with-editions/easter-cookiecutter-challenge/blob/main/README.md)
+2024-04-04
+* team staribacher and team akademie will present their work done so far
+
 ## [acdh-tei-pyutils](acdh-tei-pyutils/README.md)
 2024-03-21
 
