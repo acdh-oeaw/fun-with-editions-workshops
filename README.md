@@ -3,7 +3,7 @@ collections of useful things to discuss/teach in our team
 
 ## [easter-challenge show off, PART I](https://github.com/fun-with-editions/easter-cookiecutter-challenge/blob/main/README.md)
 2024-04-04
-* team staribacher and team [akademie](https://fun-with-editions.github.io/akademie-static/) will present their work done so far
+* team [staribacher](https://fun-with-editions.github.io/staribacher-static/) and team [akademie](https://fun-with-editions.github.io/akademie-static/) will present their work done so far
 
 ## [acdh-tei-pyutils](acdh-tei-pyutils/README.md)
 2024-03-21
