@@ -13,7 +13,6 @@ dse-static, typesense, goobi, transkribus, baserow, odd, schema
 * https://github.com/bundesverfassung-oesterreich/bv-working-data
 * https://github.com/bundesverfassung-oesterreich/bv-entities
 * https://github.com/bundesverfassung-oesterreich/bv-transkribus-import
-* https://github.com/bundesverfassung-oesterreich/bv-tei-play
 
 
 ## flugblätter
