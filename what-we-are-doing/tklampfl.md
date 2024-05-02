@@ -14,7 +14,7 @@ Webpage: [https://priscian-glosses.acdh-dev.oeaw.ac.at/](https://priscian-glosse
 
 ## Dictionary of Loanwords in Rabbinic Literature
 
-Github Repository: [https://github.com/acdh-oeaw/dlgenr](https://github.com/acdh-oeaw/dlgenr) (Dictionary of Loanwords in Midrash Gensesis Rabbah)
+Github Repository: [https://github.com/acdh-oeaw/dlgenr](https://github.com/acdh-oeaw/dlgenr) (Dictionary of Loanwords in Midrash Genesis Rabbah)
 
 Github Repository: [https://github.com/acdh-oeaw/dlirl-data](https://github.com/acdh-oeaw/dlirl-data) (Dictionary of Loanwords in Rabbinic Literature)
 
