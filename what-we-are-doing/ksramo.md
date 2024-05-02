@@ -2,7 +2,7 @@
 
 ## WIBARAB
 TEI, GeoJSON(-LD), Vue3, NoSkE
-
+* https://www.oeaw.ac.at/acdh/projects/wibarab-what-is-bedouin-type-arabic
 * https://wibarab.acdh.oeaw.ac.at/
 * https://github.com/wibarab
 * https://wibarab.acdh-ch-dev.oeaw.ac.at/
