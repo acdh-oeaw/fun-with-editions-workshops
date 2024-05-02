@@ -1,6 +1,10 @@
 # fun-with-editions-workshops
 collections of useful things to discuss/teach in our team
 
+## what else are we doing
+2024-05-02
+* everyone is invited to tell/show what projects he/she is currently working on
+
 ## [easter-challenge show off, PART I](https://github.com/fun-with-editions/easter-cookiecutter-challenge/blob/main/README.md)
 2024-04-04
 * team [staribacher](https://fun-with-editions.github.io/staribacher-static/) and team [akademie](https://fun-with-editions.github.io/akademie-static/) will present their work done so far
