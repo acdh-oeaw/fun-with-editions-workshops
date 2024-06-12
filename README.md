@@ -39,6 +39,7 @@ collections of useful things to discuss/teach in our team
 * how to enrich/denormalize via GH-Actions
 
 ## dse-static-cookiecutter
+* -> https://github.com/fun-with-editions/easter-cookiecutter-challenge
 
 ## [de-micro-editor](https://github.com/acdh-oeaw/de-micro-editor)
   
@@ -48,3 +49,9 @@ collections of useful things to discuss/teach in our team
 * how to generate ARCHE-MD
 * set up arche locally
 * ingest data
+
+
+## tabulator and typesense FAQs
+first session 2024-06-13
+* [FAQ Tabulator](./FAQs/tabulator.md)
+* [FAQ Typesense](./FAQs/typesense.md)

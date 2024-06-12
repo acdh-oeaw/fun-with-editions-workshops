@@ -12,7 +12,6 @@ django, relational database
 ## eurotort
 
 django, relational database, legacy data upconversion
-* 
 * https://eurotort.acdh-dev.oeaw.ac.at
 * https://github.com/acdh-oeaw/eurotort
 
