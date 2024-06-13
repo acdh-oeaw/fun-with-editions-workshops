@@ -13,3 +13,8 @@
 ## background color
 
 * Q: How do I change the background color of the table? Is there an easy/easier way than e.g. https://github.com/emt-project/emt-static/blob/main/html/css/tablutor-style.css
+
+
+## How to configure default sorting
+* Q: How to configure default sorting
+* A: 
