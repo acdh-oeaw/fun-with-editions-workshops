@@ -6,9 +6,9 @@
 * A: You need to set a `minWidth` to at least one column
 * Example implentation: https://dig-ed-cat.acdh.oeaw.ac.at/editions.html [code](https://github.com/acdh-oeaw/dig-ed-cat-static/blob/main/html/js/editions.js)
 
-## togle column visiblity
+## toggle column visiblity
 
-* Q: Togle Column visiblity. I need some widget listing (initially) all hidden columns, something like https://datatables.net/examples/api/show_hide.html (but nicer)
+* Q: Toggle Column visiblity. I need some widget listing (initially) all hidden columns, something like https://datatables.net/examples/api/show_hide.html (but nicer)
 
 ## background color
 
