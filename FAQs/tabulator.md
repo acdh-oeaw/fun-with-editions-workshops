@@ -17,10 +17,14 @@
 
 ## How to configure default sorting
 * Q: How to configure default sorting
-* A: Add  `initialSort: [{ column: "columnToSortBy", dir: "desc" }]` to the Tabulator config. You can add several columns to sort by, here's an example from the documentation: `var table = new Tabulator("#example-table", {
+* A: Add  `initialSort: [{ column: "columnToSortBy", dir: "desc" }]` to the Tabulator config. You can add several columns to sort by, here's an example from the documentation:
+```
+ var table = new Tabulator("#example-table", {
     initialSort:[
         {column:"age", dir:"asc"}, //sort by this first
         {column:"height", dir:"desc"}, //then sort by this second
     ]
-});` This would lead to a list that starts with the tallest person and for persons with the same height, they will be sorted by their age, i.e. the "first" and "second" from the documentation is a bit misleading. 
-The default sorting is string, so if your column contains another datatype, you need to add the sorter to the column config, e.g. `sorter: "number"` for numbers
+});
+```
+This would lead to a list that starts with the tallest person and for persons with the same height, they will be sorted by their age. (i.e. the "first" and "second" from the documentation can be a bit misleading)
+Also, the default sorting is string, so if your column contains another datatype, you need to add define an appropriate sorter for the column (=add to the column config), e.g. `sorter: "number"` for numbers. There are different [built-in sorters](https://tabulator.info/docs/6.2/sort#func-builtin) or you can define a custom sorting function.
