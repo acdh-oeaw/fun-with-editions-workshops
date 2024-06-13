@@ -13,7 +13,7 @@
 ## background color
 
 * Q: How do I change the background color of the table? Is there an easy/easier way than e.g. https://github.com/emt-project/emt-static/blob/main/html/css/tablutor-style.css
-
+* A: One way to solve the problem would be to change the standard tabulator CSS if you provide it together with the other page data (without CDN). Make sure to name the files in a way that makes it clear they have been modified.
 
 ## How to configure default sorting
 * Q: How to configure default sorting
