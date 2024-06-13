@@ -17,4 +17,4 @@
 
 ## How to configure default sorting
 * Q: How to configure default sorting
-* A: 
+* A: Add  `initialSort: [{ column: "columnToSortBy", dir: "desc" }]` to the Tabulator config. The default sorting is string, so if your column is something else, you need to add the sorter to the column config, e.g. `sorter: "number"` for numbers
