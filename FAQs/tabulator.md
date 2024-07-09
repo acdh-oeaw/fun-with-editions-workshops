@@ -9,6 +9,8 @@
 ## toggle column visiblity
 
 * Q: Toggle Column visiblity. I need some widget listing (initially) all hidden columns, something like https://datatables.net/examples/api/show_hide.html (but nicer)
+* A: See [Tabulator documentation](https://tabulator.info/examples/6.2#menu) (this shows all columns, not just the hidden ones)
+* Example implementation: https://grocerist.github.io/grocerist-app/documents.html [code](https://github.com/grocerist/grocerist-app/blob/e2728b15afa8c806b5475bb901d4f2a43e4731b8/html/js/documents.js#L6)
 
 ## background color
 
