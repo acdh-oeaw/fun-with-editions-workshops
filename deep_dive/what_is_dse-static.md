@@ -99,6 +99,7 @@ implements dynamic tables (sort/filter)
 
 ### Fernando (+ Michaela)
 * https://fun-with-editions.github.io/staribacher-static/
+* https://ofmgraz.github.io/ofm-static/
 
 ### Martin Anton
 * https://schnitzler-briefe.acdh.oeaw.ac.at/ (mit Laura)
