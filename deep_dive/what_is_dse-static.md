@@ -11,15 +11,14 @@ DSE-Static-Cookiecutter is a **command line tool**, implemented with the [Python
 ## what is DSE-Static
 
 DSE-Static is a **static site generator for TEI/XML** encoded documents
-* TEI/XML documents are converted via XSLT into HTML Documents, conversion/build process run via ANT (Java) and Saxon (Java)
-* HTML Documents can than be served via simple web server
-* Build process congifured to run via Github Actions and to publish HTML (and TEI/XML) documents via GitHub Pages
-
+* TEI/XML documents are converted via XSLT into HTML documents, conversion/build process runs via ANT (Java) and Saxon (Java)
+* HTML documents can than be served via simple web server (no application server/databse needed)
+* Build process runs via Github Actions, the resulting HTML (and TEI/XML) documents are published via GitHub Pages.
 
 ## Technology choices / Motivation
 
-* keep things simple
-* all code must run via GH-Action
+* Keep things simple
+* All code must run via GH-Action
 * Could Martin Anton use it?
 
 ### Cookiecutter
@@ -38,14 +37,19 @@ DSE-Static is a **static site generator for TEI/XML** encoded documents
 
 ### XSLT/ANT
 
-Conversion of TEI/XML files to HTML via XSLT is the de facto standard approach in the DH-Community.
-Though you find also some projects using mainly XQuery and (some) using JavaScript ([CETEIcean](https://github.com/TEIC/CETEIcean))
+* Conversion of TEI/XML documents to HTML via XSLT is the de facto standard approach in the DH-Community.
+* DH-People (not developers) are familiar with XPath, XSLT, and Oxygen.
+* Oxygen also supports/executes ANT (`build.xml` files)
+----
+* Though you find also some projects using mainly XQuery (still in the X-Family) 
+* Also some using JavaScript ([CETEIcean](https://github.com/TEIC/CETEIcean))
 
 #### Dependencies
 * Java
 * Saxon [install script provided by dse-static-cookiecutter]
 * ANT
-* [or use it from Oxygen-XML-Editor]
+
+=> all included in Oxygen-XML-Editor
 
 ### GitHub
 
@@ -101,8 +105,10 @@ implements dynamic tables (sort/filter)
 * ...
 
 ### Laura
-* https://pollaczek.acdh.oeaw.ac.at/ (mit Martin Anton)
+* https://pollaczek.acdh.oeaw.ac.at/ (mit Martin Anton?)
 * https://sappho-digital.com/
+
+---
 
 ### Richard Hörmann
 * [https://tillich-briefe.acdh.oeaw.ac.at/](https://github.com/TillichCorrespondence/tillich-briefe-static)
