@@ -91,6 +91,9 @@ implements dynamic tables (sort/filter)
 * https://freud.acdh-dev.oeaw.ac.at/ (crappy data)
 * https://bruckner-kopisten.acdh.oeaw.ac.at/
 
+### Fritz
+* https://b-vg.acdh.oeaw.ac.at/
+
 ### Kinga (+ Thomas)
 * https://akademieprotokolle.acdh.oeaw.ac.at/
 
