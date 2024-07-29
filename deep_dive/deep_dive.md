@@ -24,4 +24,4 @@ DSE-Static is a static site generator for TEI/XML encoded documents
 * injects project specific elements like project-title, GitHub-Repo names, deployment-url...
 * choose set up options (internatialisation; separation of code/data)
 
-[cookiecutter_cli.png](deep_dive/img/cookiecutter_cli.png)
+![cookiecutter_cli.png](deep_dive/img/cookiecutter_cli.png)
