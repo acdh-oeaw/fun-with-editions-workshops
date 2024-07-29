@@ -5,9 +5,9 @@ or how can the "Digital Edition" and "Frontend" Groups work together even better
 ## Agenda
 
 * [what is DSE-Static-Coociecutter](what_is_dse-static.md)
-* [how to develop a digital edition web-app with dse-static-cookiecutter](what_is_dse-static.md)
+* [how to develop a digital edition web-app with dse-static-cookiecutter](development_with-dse-static.md)
 * adding Astro to the dse-static-cookiecutter tech stack, by Daniel Elsner
-* fields of tighter cooperation between DSE and Frontend Group
+* [fields of tighter cooperation between DSE and Frontend Group](fields_of_cooperation.md)
 
 
 
