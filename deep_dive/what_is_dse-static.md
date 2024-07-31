@@ -124,3 +124,6 @@ implements dynamic tables (sort/filter)
 * https://brahms-online.oeaw.ac.at/
 * https://bruckner-kopisten.acdh.oeaw.ac.at/
 * schubert-online
+---
+# Stephan Kurz
+* https://maechtekongresse.acdh.oeaw.ac.at/index.html
