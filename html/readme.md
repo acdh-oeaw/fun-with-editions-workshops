@@ -10,6 +10,7 @@
 
 ## GH-Workflows workshop
 * announced via mail
+* 2024-10-17; 11:00-13:00; Seminarraum 2
 
 > [!IMPORTANT]  
 > We are going to have an extra session on this topic soon(is); ideally with someone from the frontend group. My idea would be that someone from the frontend group reviews one or several of our applications in regards of correct useage of HTML tags and accessiblity; candidates to review: staribacher, emt, ofm-graz
