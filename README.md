@@ -1,7 +1,7 @@
 # fun-with-editions-workshops
 collections of useful things to discuss/teach in our team
 
-## sommer is over :(
+## summer is over :(
 2024-09-26
 * [agenda](html/readme.md)
 
