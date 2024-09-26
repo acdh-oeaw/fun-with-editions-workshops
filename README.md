@@ -1,6 +1,10 @@
 # fun-with-editions-workshops
 collections of useful things to discuss/teach in our team
 
+## sommer is over :(
+2024-09-26
+* [agenda](html/readme.md)
+
 ## what else are we doing
 2024-05-02
 * everyone is invited to tell/show what projects he/she is currently working on
