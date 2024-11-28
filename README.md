@@ -1,6 +1,13 @@
 # fun-with-editions-workshops
 collections of useful things to discuss/teach in our team
 
+## a11y wrap up
+2024-11-28
+* [agenda](a11y/README.md)
+
+## Accessibility (a11y) by @stefanprobst
+2024-11-14
+
 ## summer is over :(
 2024-09-26
 * [agenda](html/readme.md)
