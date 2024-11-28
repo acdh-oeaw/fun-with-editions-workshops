@@ -7,6 +7,7 @@
 
 ### ARIA
 * [ARIA (Accessible Rich Internet Applications)](https://www.w3.org/TR/using-aria/)
+* [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
 * [Don't use ARIA](https://www.w3.org/TR/using-aria/#firstrule)
 
 ### WCAG
