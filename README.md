@@ -1,6 +1,11 @@
 # fun-with-editions-workshops
 collections of useful things to discuss/teach in our team
 
+## happy-new-year
+2025-01-09
+* update of person/project baserow tables
+* what do we want to do this year... 
+
 ## a11y wrap up
 2024-11-28
 * [agenda](a11y/README.md)
