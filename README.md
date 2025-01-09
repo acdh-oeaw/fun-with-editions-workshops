@@ -3,7 +3,7 @@ collections of useful things to discuss/teach in our team
 
 ## happy-new-year
 2025-01-09
-* update of person/project baserow tables
+* update of [person](https://baserow.acdh-dev.oeaw.ac.at/database/484/table/2723/10401)/[project](https://baserow.acdh-dev.oeaw.ac.at/database/484/table/2724/10402) baserow tables
 * what do we want to do this year... 
 
 ## a11y wrap up
