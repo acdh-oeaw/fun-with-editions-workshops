@@ -1,6 +1,14 @@
 # fun-with-editions-workshops
 collections of useful things to discuss/teach in our team
 
+## rdf
+
+## skos
+
+## latex
+
+## cidoc
+
 ## happy-new-year
 2025-01-09
 * update of [person](https://baserow.acdh-dev.oeaw.ac.at/database/484/table/2723/10401)/[project](https://baserow.acdh-dev.oeaw.ac.at/database/484/table/2724/10402) baserow tables
