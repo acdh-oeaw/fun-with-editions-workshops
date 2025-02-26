@@ -1,0 +1,32 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://example.org/thesaurus#InformationstraegerScheme>
+  a skos:ConceptScheme ;
+  skos:prefLabel "Informationsträger"@de, "Information Carrier"@en ;
+  skos:hasTopConcept <http://example.org/thesaurus#Informationstraeger> .
+
+<http://example.org/thesaurus#Informationstraeger>
+  a skos:Concept ;
+  skos:prefLabel "Informationsträger"@de, "Information Carrier"@en ;
+  skos:inScheme <http://example.org/thesaurus#InformationstraegerScheme> ;
+  skos:topConceptOf <http://example.org/thesaurus#InformationstraegerScheme> ;
+  skos:note "Ein Medium oder Objekt, das zur Speicherung und Übertragung von Informationen verwendet wird."@de, "A medium or object used for storing and transmitting information."@en ;
+  skos:closeMatch <http://www.wikidata.org/entity/Q178527> . # interesting choice chatgpt :)
+
+<http://example.org/thesaurus#Buch>
+  a skos:Concept ;
+  skos:prefLabel "Buch"@de, "Book"@en ;
+  skos:broader <http://example.org/thesaurus#Informationstraeger> ;
+  skos:inScheme <http://example.org/thesaurus#InformationstraegerScheme> ;
+  skos:note "Ein gebundenes oder gedrucktes Werk mit Inhalt."@de, "A bound or printed work containing content."@en ;
+  skos:closeMatch <http://www.wikidata.org/entity/Q571> .
+
+<http://example.org/thesaurus#Manuskript>
+  a skos:Concept ;
+  skos:prefLabel "Manuskript"@de, "Manuscript"@en ;
+  skos:broader <http://example.org/thesaurus#Buch> ;
+  skos:inScheme <http://example.org/thesaurus#InformationstraegerScheme> ;
+  skos:note "Ein handgeschriebenes oder maschinengeschriebenes Dokument."@de, "A handwritten or typewritten document."@en ;
+  skos:closeMatch <http://www.wikidata.org/entity/Q87167> .
+
+#  created with chatgpt; have a look at the closeMatch for Informationsträger
