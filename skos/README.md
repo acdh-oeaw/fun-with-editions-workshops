@@ -34,7 +34,7 @@ https://www.w3.org/TR/skos-primer/
 ## how can I create it
 * with any editor
 * script it
-* some GUI/Web-Editor like 
+* some GUI/Web-Editor like [vocabseditor](https://vocabseditor.acdh.oeaw.ac.at/)
 
 
 ## what can I do with it / why should I use it
@@ -51,9 +51,9 @@ https://hdl.handle.net/21.11115/0000-000F-6A81-8
 
 ## do I have a use case in my project?
 
-https://grocerist.acdh.oeaw.ac.at/categories.html
-https://amp.acdh.oeaw.ac.at/amp-index-events.html (type/subtype)
-https://b-vg.acdh.oeaw.ac.at/toc.html (Dokumenttyp, Materialart)
+* https://grocerist.acdh.oeaw.ac.at/categories.html
+* https://amp.acdh.oeaw.ac.at/amp-index-events.html (type/subtype)
+* https://b-vg.acdh.oeaw.ac.at/toc.html (Dokumenttyp, Materialart)
 
 
 ## can I do the same in TEI
