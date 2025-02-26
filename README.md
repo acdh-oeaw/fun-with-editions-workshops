@@ -3,6 +3,9 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
+### [SKOS](skos/README.md)
+2025-02-27
+
 ### [LaTeX](latex/README.md)
 2025-02-13
 * @tklampfl presents LaTeX
