@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Example TEI Document with SKOS Thesaurus</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Test document</p>
+         </sourceDesc>
+      </fileDesc>
+      <xenoData>
+         <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:ConceptScheme rdf:about="http://example.org/thesaurus#InformationstraegerScheme">
+        <skos:prefLabel xml:lang="de">Informationsträger</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">Information Carrier</skos:prefLabel>
+        <skos:hasTopConcept rdf:resource="http://example.org/thesaurus#Informationstraeger"/>
+    </skos:ConceptScheme>
+
+    <skos:Concept rdf:about="http://example.org/thesaurus#Informationstraeger">
+        <skos:prefLabel xml:lang="de">Informationsträger</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">Information Carrier</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://example.org/thesaurus#InformationstraegerScheme"/>
+        <skos:topConceptOf rdf:resource="http://example.org/thesaurus#InformationstraegerScheme"/>
+        <skos:note xml:lang="de">Ein Medium oder Objekt, das zur Speicherung und Übertragung von Informationen verwendet wird.</skos:note>
+        <skos:note xml:lang="en">A medium or object used for storing and transmitting information.</skos:note>
+        <skos:closeMatch rdf:resource="http://www.wikidata.org/entity/Q178527"/>
+    </skos:Concept>
+
+    <skos:Concept rdf:about="http://example.org/thesaurus#Buch">
+        <skos:prefLabel xml:lang="de">Buch</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">Book</skos:prefLabel>
+        <skos:broader rdf:resource="http://example.org/thesaurus#Informationstraeger"/>
+        <skos:inScheme rdf:resource="http://example.org/thesaurus#InformationstraegerScheme"/>
+        <skos:note xml:lang="de">Ein gebundenes oder gedrucktes Werk mit Inhalt.</skos:note>
+        <skos:note xml:lang="en">A bound or printed work containing content.</skos:note>
+        <skos:closeMatch rdf:resource="http://www.wikidata.org/entity/Q571"/>
+    </skos:Concept>
+
+    <skos:Concept rdf:about="http://example.org/thesaurus#Manuskript">
+        <skos:prefLabel xml:lang="de">Manuskript</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">Manuscript</skos:prefLabel>
+        <skos:broader rdf:resource="http://example.org/thesaurus#Buch"/>
+        <skos:inScheme rdf:resource="http://example.org/thesaurus#InformationstraegerScheme"/>
+        <skos:note xml:lang="de">Ein handgeschriebenes oder maschinengeschriebenes Dokument.</skos:note>
+        <skos:note xml:lang="en">A handwritten or typewritten document.</skos:note>
+        <skos:closeMatch rdf:resource="http://www.wikidata.org/entity/Q87167"/>
+    </skos:Concept>
+
+</rdf:RDF>
+
+<!-- created with chatgpt; have a look at the closeMatch for Informationsträger -->
+      </xenoData>
+   </teiHeader>
+   <text>
+      <body>
+         <p>This document refers to <term ref="http://example.org/thesaurus#Manuskript">manuscripts</term>.</p>
+      </body>
+   </text>
+</TEI>

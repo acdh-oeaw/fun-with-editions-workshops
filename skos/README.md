@@ -38,7 +38,15 @@ https://www.w3.org/TR/skos-primer/
 
 
 ## what can I do with it / why should I use it
+
+### play/visualize
 https://skos-play.sparna.fr/play/
+
+### publish
+https://vocabs.acdh.oeaw.ac.at/en/
+
+### archiv
+https://hdl.handle.net/21.11115/0000-000F-6A81-8
 
 
 ## do I have a use case in my project?
@@ -50,4 +58,8 @@ https://b-vg.acdh.oeaw.ac.at/toc.html (Dokumenttyp, Materialart)
 
 ## can I do the same in TEI
 
+### use native TEI elements
 https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-classDecl.html
+
+### include SKOS RDF/XML via xenoData
+see [tei-skos](tei-skos.xml)
