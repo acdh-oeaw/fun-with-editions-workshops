@@ -3,6 +3,9 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
+### [Catalogue of Digital Editions](dig-ed-cat/README.md)
+2025-03-13
+
 ### [SKOS](skos/README.md)
 2025-02-27
 
