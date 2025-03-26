@@ -3,7 +3,7 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
-### [Python Packaging]
+### [Python Packaging](python-packaging/README.md) and [OAI-PMH]
 2025-03-27
 
 ### [Catalogue of Digital Editions](dig-ed-cat/README.md)
