@@ -8,14 +8,14 @@ reuse code, my code in other projects; code from other people in my projects; ..
 * https://packaging.python.org/en/latest/overview/
 
 ### Python source distribution ([sdist](https://packaging.python.org/en/latest/glossary/#term-Distribution-Package)):
-* "Multiple Python files, it’s usually organized into a directory structure"
-* packed into [`sdists`](); a zip of your code directory
+* "Multiple Python files, it's usually organized into a directory structure"
+* packed into `sdists` a zip of your code directory
 * good enough if you don't rely on any non-python code (lxml needs [libxml2](https://gitlab.gnome.org/GNOME/libxml2) which is written in C)
 
 ### Python binary distributions ([Wheel](https://packaging.python.org/en/latest/glossary/#term-Wheel))
 
 * Wheels are a pre-built distribution format
-* prefered by [pip](https://github.com/pypa/pip); pip: "is the package installer for Python"
+* preferred by [pip](https://github.com/pypa/pip); pip: "is the package installer for Python"
 * pip will try to build a wheel from a sdist locally and cache it
 
 
@@ -23,15 +23,15 @@ reuse code, my code in other projects; code from other people in my projects; ..
 
 see e.g. https://github.com/csae8092/csae-pyutils
 
-### set up correct collection structure
+### Set up correct collection structure
 * some root directory; usually where you run `git init`
-* in the root directy you should have a README, LICENSE, (the usual git-things)
-* in the root directory you have **another_directory**  which should be named like you python-package
+* in the root directory you should have a README, LICENSE, (the usual git-things)
+* in the root directory you have **another_directory** which should be named like your Python package
   * in this **another_directory** you'll need at least one `__init__.py` file.
-  * this `__init__.py` file can be empty, or hold the main functions/classes of you python pacakge
+  * this `__init__.py` file can be empty, or hold the main functions/classes of your Python package
   * this **another_directory** can also hold other directory and/or `.py` files
-* in the root direcotry you'll need to have a **`pyproject.toml`** file
-* in older package you'll find a **`setup.py`** file instead. [Is setup.py deprecated?](https://packaging.python.org/en/latest/discussions/setup-py-deprecated/#setup-py-deprecated)
+* in the root directory you'll need to have a **`pyproject.toml`** file
+* in older packages you'll find a **`setup.py`** file instead. [Is setup.py deprecated?](https://packaging.python.org/en/latest/discussions/setup-py-deprecated/#setup-py-deprecated)
 
 ### pyproject.toml
 
@@ -133,7 +133,7 @@ was bevore uv, from the same community
 > [!TIP]  
 > If you want to use one of those tools I'd go for `uv` as other people in the institute are using as well [e.g](https://github.com/acdh-oeaw/apis-instance-cookiecutter/commit/5fadae45f2a2a53881ab920f7207bcb0bf7ce611)
 
-## not to embarssing example project
+## Not too embarrassing example project
 
 [pylobid](https://github.com/csae8092/pylobid)
 
