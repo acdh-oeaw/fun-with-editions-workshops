@@ -132,3 +132,12 @@ was bevore uv, from the same community
 
 > [!TIP]  
 > If you want to use one of those tools I'd go for `uv` as other people in the institute are using as well [e.g](https://github.com/acdh-oeaw/apis-instance-cookiecutter/commit/5fadae45f2a2a53881ab920f7207bcb0bf7ce611)
+
+### not to embarssing example project
+
+[pylobid](https://github.com/csae8092/pylobid)
+
+* pyproject.toml
+* tests
+* documentation
+* everything runs via gh-workflows
