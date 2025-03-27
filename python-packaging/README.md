@@ -97,5 +97,38 @@ requires-python = ">=3.9"
 > -- <cite>[Python-Packaging](https://packaging.python.org/en/latest/tutorials/packaging-projects/#including-other-files)</cite>
 
 
+### Building the package
+
+run the command required by you build tool from the directory where the `pyproject.toml` file is located, e.g. 
+```shell
+python -m build
+```
+
+## Publishing a Python Package via pypi
+
+[Pypi](https://pypi.org/) is the **Python Package Index**
+
+* you'll need a user
+* create a token (https://pypi.org/manage/account/) (Problem: how to set token scope to my project if my project does not exist yet)
+* use e.g. [Twine](https://pypi.org/project/twine/) "a utility for publishing Python packages on PyPI." `twine upload dist/*`
+
+
 ## Tools
-Zum Thema "Toolkonjunktur": https://wagtail.org/blog/uv-overtakes-poetry/
+
+there are tools for managing python projects, e.g. creating folder structure, pyproject.toml, License, Readme
+
+### [uv](https://docs.astral.sh/uv/)
+new kid in town; written in rust -> fast
+
+### [poetry](https://python-poetry.org/)
+was the new kid in town until uv arrived; see https://wagtail.org/blog/uv-overtakes-poetry/
+
+### [hatch](https://hatch.pypa.io/latest/)
+provides the build backend hatchling
+
+### [rye](https://rye.astral.sh/)
+was bevore uv, from the same community
+> If you're getting started with Rye, consider uv, the successor project from the same maintainers.
+
+> [!TIP]  
+> If you want to use one of those tools I'd go for `uv` as other people in the institute are using as well [e.g](https://github.com/acdh-oeaw/apis-instance-cookiecutter/commit/5fadae45f2a2a53881ab920f7207bcb0bf7ce611)
