@@ -47,7 +47,7 @@ minimal working example:
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 ```
-### [Metadata](https://packaging.python.org/en/latest/tutorials/packaging-projects/#configuring-metadata)
+#### [Metadata](https://packaging.python.org/en/latest/tutorials/packaging-projects/#configuring-metadata)
 
 Basics things like **name of the package(!)**, Authors (plus emails), License, Reamde, ...
 
@@ -75,7 +75,7 @@ Issues = "https://github.com/pypa/sampleproject/issues"
 > [!WARNING]  
 > The structure of the toml file differs, depending on your build backend
 
-#### Dependencies
+##### Dependencies
 Python packages your code needs to run, usually what we write done in our `requirements.txt`
 ```toml
 dependencies = [
@@ -86,18 +86,18 @@ dependencies = [
 ```
 Check the documentation for you build backend on how to pin versions of your dependencies though they should follow https://packaging.python.org/en/latest/specifications/version-specifiers/#id5
 
-#### Python version
+##### Python version
 You can pin the Python version your code needs
 ```toml
 requires-python = ">=3.9"
 ```
 
-### Including other files
+#### Including other files
 > If you want to include additional files, see the documentation for your build backend.
 > -- <cite>[Python-Packaging](https://packaging.python.org/en/latest/tutorials/packaging-projects/#including-other-files)</cite>
 
 
-### Building the package
+## Building the package
 
 run the command required by you build tool from the directory where the `pyproject.toml` file is located, e.g. 
 ```shell
