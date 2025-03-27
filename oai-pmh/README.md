@@ -31,14 +31,14 @@ two components:
 
 ### [oai-pmh-static](https://github.com/acdh-oeaw/dse-static-cookiecutter/tree/main/%7B%7Bcookiecutter.directory_name%7D%7D/oai-pmh)
 
-Python code used to generate parts of the expected OAI-PMH response on build time and stores them as static XML files. The output of those XML files, read the metadata provided by each edition-project, can be customized.
+Python code used to generate parts of the expected OAI-PMH response on build time and stores them as static XML files. The output of those XML files, which read the metadata provided by each edition project, can be customized.
 
 ### [dse-static-oai-pmh](https://github.com/acdh-oeaw/dse-static-oai-pmh)
 
-A FastApi server which
-* listens for OAI-PMH conform requets (GET and POST)
-* fetches the requested information from the individuall digital-editions
-* modifies the static respones from the digital-editions
+A [FastApi](https://fastapi.tiangolo.com/) server which:
+* listens for OAI-PMH conform requests (GET and POST)
+* fetches the requested information from the individual digital editions
+* modifies the static responses from the digital editions
 * serves them to the client in OAI-PMH conform way
 
 new entries can be registered in [this config file](https://github.com/acdh-oeaw/dse-static-oai-pmh/blob/main/app/config.py)
