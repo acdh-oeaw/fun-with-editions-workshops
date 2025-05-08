@@ -3,6 +3,9 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
+### [PFP](pfp/README.md)
+2025-05-08
+
 ### [Python Packaging](python-packaging/README.md) and [OAI-PMH](oai-pmh/README.md)
 2025-03-27
 
