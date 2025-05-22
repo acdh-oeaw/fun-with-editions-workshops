@@ -13,6 +13,8 @@ collections of useful things to discuss/teach in our team
 
 ### FAIR Principles (for data driven web applications)
 
+### Fritz' super synoptic viewer (https://github.com/cfhaak/priester_werner)
+
 ## Sessions
 
 ### [PFP](pfp/README.md)
