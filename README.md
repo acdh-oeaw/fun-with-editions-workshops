@@ -17,6 +17,9 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
+### What we want to do next
+2025-05-22
+
 ### [PFP](pfp/README.md)
 2025-05-08
 
