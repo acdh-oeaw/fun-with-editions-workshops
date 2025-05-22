@@ -1,6 +1,15 @@
 # fun-with-editions-workshops
 collections of useful things to discuss/teach in our team
 
+## Topics
+
+### Verschränkung von editorischer Dokumentation mit/im ODD
+
+### Schematron
+
+### https://open-webui.acdh-dev.oeaw.ac.at/
+
+
 ## Sessions
 
 ### [PFP](pfp/README.md)
@@ -47,17 +56,6 @@ collections of useful things to discuss/teach in our team
 ### [acdh-tei-pyutils](acdh-tei-pyutils/README.md)
 2024-03-21
 
-### Oxygen I
-* work with projects
-* create transformation scenarios
-* bulk validation
-* xsl-view
-
-### Oxygen II
-* frameworks
-* schema/odd
-* TEI-Completer
-
 ### [Typesense](typesense/typesense.md)
 2024-03-14
 * what is it
@@ -86,14 +84,6 @@ collections of useful things to discuss/teach in our team
 * ingest data
 
 ### tabulator and typesense FAQs
-first session 2024-06-13
+2024-06-13
 * [FAQ Tabulator](./FAQs/tabulator.md)
 * [FAQ Typesense](./FAQs/typesense.md)
-
-
-## potential topics
-
-* rdf
-* skos
-* latex
-* cido
