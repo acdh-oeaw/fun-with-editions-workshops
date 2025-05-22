@@ -9,6 +9,9 @@ collections of useful things to discuss/teach in our team
 
 ### https://open-webui.acdh-dev.oeaw.ac.at/
 
+### (DHRI) Strategy
+
+### FAIR Principles (for data driven web applications)
 
 ## Sessions
 
