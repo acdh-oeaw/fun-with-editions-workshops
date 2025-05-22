@@ -3,9 +3,12 @@ collections of useful things to discuss/teach in our team
 
 ## Topics
 
+### Github Actions/Workflows
+
 ### Verschränkung von editorischer Dokumentation mit/im ODD
 
 ### Schematron
+Thomas
 
 ### https://open-webui.acdh-dev.oeaw.ac.at/
 
