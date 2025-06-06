@@ -3,12 +3,7 @@ collections of useful things to discuss/teach in our team
 
 ## Topics
 
-### Github Actions/Workflows
-
 ### Verschränkung von editorischer Dokumentation mit/im ODD
-
-### Schematron
-Thomas
 
 ### https://open-webui.acdh-dev.oeaw.ac.at/
 
@@ -19,6 +14,12 @@ Thomas
 ### Fritz' super synoptic viewer (https://github.com/cfhaak/priester_werner)
 
 ## Sessions
+
+### Github Actions/Workflows
+2025-06-12
+
+### [Schematron](schematron/schematron-einfuehrung.pdf) by @tklampfl
+2025-06-05 
 
 ### What we want to do next
 2025-05-22
