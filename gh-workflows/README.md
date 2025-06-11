@@ -29,4 +29,15 @@ see [here](https://docs.github.com/en/actions/writing-workflows/choosing-when-yo
 
 
 #### [Jobs](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions#jobs)
+> A **job** is a **set of steps** in a workflow that is executed on the same **runner**.
+
+##### [Steps](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions#jobs)
+>  Each step is either a **shell script** that will be executed, **or an action** that will be run. Steps are executed in order and are dependent on each other. Since each step is executed on the same runner, you can share data from one step to another. 
+
+##### [Actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions#jobs)
+An action is a custom application for the GitHub Actions platform that performs a complex but frequently repeated task. Use an action to help reduce the amount of repetitive code that you write in your workflow files.
+
+#### [Runner](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions#runners)
+> A runner is a server that runs your workflows when they're triggered. Each runner can run a single job at a time. 
+
 
