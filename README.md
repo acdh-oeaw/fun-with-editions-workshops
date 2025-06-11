@@ -15,7 +15,7 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
-### Github Actions/Workflows
+### [Github Actions/Workflows](gh-workflows/README.md)
 2025-06-12
 
 ### [Schematron](schematron/schematron-einfuehrung.pdf) by @tklampfl
