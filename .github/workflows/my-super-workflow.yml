@@ -21,7 +21,7 @@ jobs:
         - name: very hush hush
           run: echo "${MY_SECRET_MESSAGE}"
         - name: nicht geheim
-          run: echo "${NO_SECRET_VAR}"
+          run: echo "${NO_SECRET_VARIABLE}"
     goodbye:
       runs-on: ubuntu-latest
       steps:
