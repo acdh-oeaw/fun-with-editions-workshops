@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-    MY_MESSAGE: "Hallo World"
+    MY_MESSAGE: "World"
 
 jobs:
     helloWorld:
@@ -13,4 +13,4 @@ jobs:
             - name: say hello
               run: echo "Hello ${MY_MESSAGE}"
             - name: say goodbye
-              run: echo "Byby ${MY_MESSAGE}"
+              run: echo "Bye bye ${MY_MESSAGE}"
