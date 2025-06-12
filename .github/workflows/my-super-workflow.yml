@@ -37,8 +37,8 @@ jobs:
     withaction:
       runs-on: ubuntu-latest
       steps:
-        - name: Check out source repository
-          run: actions/checkout@v4
+        - name: Perform Checkout
+          uses: actions/checkout@v4
         - name: ls
           run: ls
         - name: pwd
