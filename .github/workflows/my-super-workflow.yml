@@ -1,19 +1,26 @@
 name: Hello World
 
+# here we define the events which trigger the action
 on:
   workflow_dispatch:
 
+# here we can define environment variables as well as sensitive things like e.g. db-passwords
 env:
     MY_MESSAGE: "World"
     MY_SECRET_MESSAGE:  ${{secrets.MY_SECRET_MESSAGE}}
 
 jobs:
+    # the name/key of the job
     helloWorld:
+        # the base image of the virtual machine to use
         runs-on: ubuntu-latest
         steps:
             - name: say hello
               run: echo "Hello ${MY_MESSAGE}"
-            - name: say goodbye
-              run: echo "Bye bye ${MY_MESSAGE}"
             - name: very hush hush
               run: echo "${MY_SECRET_MESSAGE}"
+    goodbye:
+        runs-on: ubuntu-latest
+        steps:
+            - name: say goodbye
+              run: echo "Bye bye ${MY_MESSAGE}"
