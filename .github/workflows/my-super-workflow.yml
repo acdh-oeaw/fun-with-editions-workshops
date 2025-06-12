@@ -8,6 +8,7 @@ on:
 env:
     MY_MESSAGE: "World"
     MY_SECRET_MESSAGE:  ${{secrets.MY_SECRET_MESSAGE}}
+    NO_SECRET_VARIABLE: ${{ vars.NO_SECRET_VAR }}
 
 jobs:
     # the name/key of the job
@@ -19,6 +20,8 @@ jobs:
           run: echo "Hello ${MY_MESSAGE}"
         - name: very hush hush
           run: echo "${MY_SECRET_MESSAGE}"
+        - name: nicht geheim
+          run: echo "${NO_SECRET_VAR}"
     goodbye:
       runs-on: ubuntu-latest
       steps:
