@@ -5,6 +5,7 @@ on:
 
 env:
     MY_MESSAGE: "World"
+    MY_SECRET_MESSAGE:  ${{secrets.MY_SECRET_MESSAGE}}
 
 jobs:
     helloWorld:
@@ -14,3 +15,5 @@ jobs:
               run: echo "Hello ${MY_MESSAGE}"
             - name: say goodbye
               run: echo "Bye bye ${MY_MESSAGE}"
+            - name: very hush hush
+              run: echo "${MY_SECRET_MESSAGE}"
