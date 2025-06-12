@@ -12,15 +12,31 @@ env:
 jobs:
     # the name/key of the job
     helloWorld:
-        # the base image of the virtual machine to use
-        runs-on: ubuntu-latest
-        steps:
-            - name: say hello
-              run: echo "Hello ${MY_MESSAGE}"
-            - name: very hush hush
-              run: echo "${MY_SECRET_MESSAGE}"
+      # the base image of the virtual machine to use
+      runs-on: ubuntu-latest
+      steps:
+        - name: say hello
+          run: echo "Hello ${MY_MESSAGE}"
+        - name: very hush hush
+          run: echo "${MY_SECRET_MESSAGE}"
     goodbye:
-        runs-on: ubuntu-latest
-        steps:
-            - name: say goodbye
-              run: echo "Bye bye ${MY_MESSAGE}"
+      runs-on: ubuntu-latest
+      steps:
+        - name: say goodbye
+          run: echo "Bye bye ${MY_MESSAGE}"
+    lookaround:
+      runs-on: ubuntu-latest
+      steps:
+        - name: ls
+          run: ls
+        - name: pwd
+          run: pwd
+    withaction:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Check out source repository
+          run: actions/checkout@v4
+        - name: ls
+          run: ls
+        - name: pwd
+          run: pwd
