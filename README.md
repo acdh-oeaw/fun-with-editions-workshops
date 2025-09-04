@@ -15,6 +15,15 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
+### Sommer is gone
+2025-09-04
+
+* anderer Termin?
+* Tool Gallery 2025-10-22 10:30-12:00 und 12:30-14:00;
+* https://corpus-search.acdh.oeaw.ac.at
+* Thema für nächstes Mal
+* sonstiges?
+
 ### [Github Actions/Workflows](gh-workflows/README.md)
 2025-06-12
 
