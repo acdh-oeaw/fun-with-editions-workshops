@@ -22,6 +22,7 @@ collections of useful things to discuss/teach in our team
 * Tool Gallery 2025-10-22 10:30-12:00 und 12:30-14:00;
 * https://corpus-search.acdh.oeaw.ac.at [z.B.](https://corpus-search.acdh.oeaw.ac.at/crystal/#concordance?corpname=schnitzlerbriefe&tab=advanced&queryselector=cql&cql=%5Blemma%3D%22gr%C3%BC%C3%9Fen%22%5D&showresults=1)
 * Thema für nächstes Mal
+  *  adho dh-tech code review 
 * sonstiges?
 
 ### [Github Actions/Workflows](gh-workflows/README.md)
