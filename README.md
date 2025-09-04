@@ -24,6 +24,8 @@ collections of useful things to discuss/teach in our team
 * Thema für nächstes Mal
   *  adho dh-tech code review
   *  how to use ai services
+  *  https://wienerschnitzler.org feedback
+  *  generelle website/features von anderen projekten anschauen, (positiv) kommentieren
 * sonstiges?
 
 ### [Github Actions/Workflows](gh-workflows/README.md)
