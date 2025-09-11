@@ -3,17 +3,26 @@ collections of useful things to discuss/teach in our team
 
 ## Topics
 
-### Verschränkung von editorischer Dokumentation mit/im ODD
-
-### https://open-webui.acdh-dev.oeaw.ac.at/
-
-### (DHRI) Strategy
-
-### FAIR Principles (for data driven web applications)
-
-### Fritz' super synoptic viewer (https://github.com/cfhaak/priester_werner)
-
+* Verschränkung von editorischer Dokumentation mit/im ODD
+*  https://open-webui.acdh-dev.oeaw.ac.at/
+* (DHRI) Strategy
+* Fritz' super synoptic viewer (https://github.com/cfhaak/priester_werner)
+* review my app
+* adho dh-tech code review
+* 
 ## Sessions
+
+### Roast my app
+* what does https://wienerschnitzler.org/ good
+* what does it even better
+
+### how we use ai services
+2025-09-11
+* Martin & Claude & VS Code
+* Peter & CoPilot
+* https://chat.mistral.ai/chat
+* https://www.swiss-ai.org/apertus
+* https://www.speechmatics.com/ (for Audio)
 
 ### Sommer is gone
 2025-09-04
