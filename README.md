@@ -13,8 +13,13 @@ collections of useful things to discuss/teach in our team
 ## Sessions
 
 ### Roast my app
+2025-10-02
 * what does https://wienerschnitzler.org/ good
 * what does it even better
+* was köknnen wir vom API-Workshop mitnehmen
+
+### [APIs for Text-Based Editions, online (25.09.2025)](https://networks.h-net.org/group/announcements/20123612/apis-text-based-editions)
+2025-09-25
 
 ### how we use ai services
 2025-09-11
