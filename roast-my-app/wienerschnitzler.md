@@ -37,3 +37,4 @@ https://wienerschnitzler.org
 * Links öffnen neue Tabs: Accessibility
 * Favicon falscher Schnitzler
 * Werte der Tabellen oben
+* Link im Tagebuch nicht ersichtlich -> Bewegung im Kreis
