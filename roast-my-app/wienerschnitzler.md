@@ -38,3 +38,4 @@ https://wienerschnitzler.org
 * Favicon falscher Schnitzler
 * Werte der Tabellen oben
 * Link im Tagebuch nicht ersichtlich -> Bewegung im Kreis
+* Aria-Link für Schnitzler-Chronik
