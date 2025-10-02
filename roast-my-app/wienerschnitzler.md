@@ -8,7 +8,7 @@ https://wienerschnitzler.org
 * accessibe.com
 * experte.com
 #### index.html
-* heading levels h1 -> h4; use something like `<h2 class="fs-4">` to get the same look but proper hiararchy
+* DONE heading levels h1 -> h4; use something like `<h2 class="fs-4">` to get the same look but proper hiararchy
 
 #### [place detail view](https://wienerschnitzler.org/pmb190698.html)
 * (ab)use of buttons, `role="button"` for links
@@ -35,7 +35,7 @@ https://wienerschnitzler.org
 * Übersicht: Gesamtansicht für alle Jahrzehnte? Evtl. vorrechnen?
 * Zitiervorschlag prominenter
 * Links öffnen neue Tabs: Accessibility
-* Favicon falscher Schnitzler
+* DONE Favicon falscher Schnitzler 
 * Werte der Tabellen oben
 * Link im Tagebuch nicht ersichtlich -> Bewegung im Kreis
 * Aria-Link für Schnitzler-Chronik
