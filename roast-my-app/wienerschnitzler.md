@@ -43,6 +43,6 @@ https://wienerschnitzler.org
 * DONE Linkfarben
 * DONE Fussnoten in einer Zeile mit Nummer
 * DONE Farben bei gesamt html-Jahren
-* Gefilterte Jahre ausschreiben, dafür nicht im Popup
+* EINGEBAUT Gefilterte Jahre ausschreiben, dafür nicht im Popup
 * EINGEBAUT Zeitleiste verlinken
 * EINGEBAUT Zeitleiste deutsche Monatsangaben
