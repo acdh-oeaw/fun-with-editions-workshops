@@ -20,3 +20,6 @@ axedevtools
 
 ### minor minor
 * `console.log("Initialisiere Karte für Ansicht:", viewType, "→", url);` in `fuer-alle-karten.js`
+
+self link wienerschnitzler 
+button with link inside
