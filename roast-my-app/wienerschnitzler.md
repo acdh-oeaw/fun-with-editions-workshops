@@ -40,3 +40,5 @@ https://wienerschnitzler.org
 * Link im Tagebuch nicht ersichtlich -> Bewegung im Kreis
 * Aria-Link für Schnitzler-Chronik
 * Link markieren durch Hover
+* Linkfarben
+* Fussnoten in einer Zeile mit Nummer
