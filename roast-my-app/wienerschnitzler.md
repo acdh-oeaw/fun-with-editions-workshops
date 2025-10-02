@@ -35,3 +35,4 @@ https://wienerschnitzler.org
 * Übersicht: Gesamtansicht für alle Jahrzehnte? Evtl. vorrechnen?
 * Zitiervorschlag prominenter
 * Links öffnen neue Tabs: Accessibility
+* Favicon falscher Schnitzler
