@@ -36,3 +36,4 @@ https://wienerschnitzler.org
 * Zitiervorschlag prominenter
 * Links öffnen neue Tabs: Accessibility
 * Favicon falscher Schnitzler
+* Werte der Tabellen oben
