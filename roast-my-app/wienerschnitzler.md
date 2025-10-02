@@ -42,3 +42,4 @@ https://wienerschnitzler.org
 * Link markieren durch Hover
 * Linkfarben
 * Fussnoten in einer Zeile mit Nummer
+* Farben bei gesamt html-Jahren
