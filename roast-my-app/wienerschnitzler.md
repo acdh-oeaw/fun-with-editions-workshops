@@ -33,4 +33,4 @@ accessibe.com
 * Orte in Wien: Wie anzeigen?
 * Übersicht: Gesamtansicht für alle Jahrzehnte? Evtl. vorrechnen?
 * Zitiervorschlag prominenter
-* Links öffnen neue Tabs
+* Links öffnen neue Tabs: Accessibility
