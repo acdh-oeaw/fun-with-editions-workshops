@@ -4,8 +4,9 @@ https://wienerschnitzler.org
 ## Feedback Peter
 
 ### minor a11y issues
-axedevtools
-accessibe.com
+* axedevtools
+* accessibe.com
+* experte.com
 #### index.html
 * heading levels h1 -> h4; use something like `<h2 class="fs-4">` to get the same look but proper hiararchy
 
