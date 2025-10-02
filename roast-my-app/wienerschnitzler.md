@@ -26,3 +26,5 @@ axedevtools
 * Abgleich Menü und Anleitung auf index.xml
 * Screencast? Erklärungen? Gebrauchsanleitung?
 * Filter von Orten
+* Legende nicht als Filter
+* Filter Farbe Untergrenze nicht Obergrenze
