@@ -39,3 +39,4 @@ https://wienerschnitzler.org
 * Werte der Tabellen oben
 * Link im Tagebuch nicht ersichtlich -> Bewegung im Kreis
 * Aria-Link für Schnitzler-Chronik
+* Link markieren durch Hover
