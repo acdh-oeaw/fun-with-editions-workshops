@@ -31,3 +31,4 @@ axedevtools
 * Filter anzeigen
 * Orte in Wien: Wie anzeigen?
 * Übersicht: Gesamtansicht für alle Jahrzehnte? Evtl. vorrechnen?
+* Zitiervorschlag prominenter
