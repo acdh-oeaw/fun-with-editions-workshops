@@ -24,4 +24,5 @@ axedevtools
 * self link wienerschnitzler 
 * button with link inside
 * Abgleich Menü und Anleitung auf index.xml
-* Screencast? Erklärungen? Gebrauchsanleitung?  
+* Screencast? Erklärungen? Gebrauchsanleitung?
+* Filter von Orten
