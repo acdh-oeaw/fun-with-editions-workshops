@@ -28,3 +28,6 @@ axedevtools
 * Filter von Orten
 * Legende nicht als Filter
 * Filter Farbe Untergrenze nicht Obergrenze
+* Filter anzeigen
+* Orte in Wien: Wie anzeigen?
+* Übersicht: Gesamtansicht für alle Jahrzehnte? Evtl. vorrechnen?
