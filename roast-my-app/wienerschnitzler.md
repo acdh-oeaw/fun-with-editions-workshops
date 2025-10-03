@@ -21,7 +21,7 @@ https://wienerschnitzler.org
 * DONE hm....
 
 ### minor minor
-* `console.log("Initialisiere Karte für Ansicht:", viewType, "→", url);` in `fuer-alle-karten.js`
+* DONE `console.log("Initialisiere Karte für Ansicht:", viewType, "→", url);` in `fuer-alle-karten.js`
 
 * self link wienerschnitzler 
 * DONE button with link inside
