@@ -27,12 +27,12 @@ https://wienerschnitzler.org
 * DONE button with link inside
 * DONE Abgleich Menü und Anleitung auf index.xml
 * Screencast? Erklärungen? Gebrauchsanleitung?
-* Filter von Orten
+* DONE Filter von Orten
 * DONE Legende nicht als Filter
 * DONE Filter Farbe Untergrenze nicht Obergrenze
 * DONE Filter anzeigen
-* Orte in Wien: Wie anzeigen?
-* Übersicht: Gesamtansicht für alle Jahrzehnte? Evtl. vorrechnen?
+* DONE Orte in Wien: Wie anzeigen?
+* DONE Übersicht: Gesamtansicht für alle Jahrzehnte? Evtl. vorrechnen?
 * DONE Zitiervorschlag prominenter
 * DONE: Links öffnen neue Tabs: Accessibility
 * DONE Favicon falscher Schnitzler 
