@@ -12,13 +12,13 @@ https://wienerschnitzler.org
 
 #### [place detail view](https://wienerschnitzler.org/pmb190698.html)
 * DONE (ab)use of buttons, `role="button"` for links
-* bad color contrast for Schnitzler-Chronik
+* DONE bad color contrast for Schnitzler-Chronik
 
 ### navigation
 * DONE mis match between tiles on start page and headings in nav-bar
 
 ### nice to have
-* hm....
+* DONE hm....
 
 ### minor minor
 * `console.log("Initialisiere Karte für Ansicht:", viewType, "→", url);` in `fuer-alle-karten.js`
@@ -28,21 +28,21 @@ https://wienerschnitzler.org
 * DONE Abgleich Menü und Anleitung auf index.xml
 * Screencast? Erklärungen? Gebrauchsanleitung?
 * Filter von Orten
-* EINGEBAUT Legende nicht als Filter
-* EINGEBAUT Filter Farbe Untergrenze nicht Obergrenze
-* Filter anzeigen
+* DONE Legende nicht als Filter
+* DONE Filter Farbe Untergrenze nicht Obergrenze
+* DONE Filter anzeigen
 * Orte in Wien: Wie anzeigen?
 * Übersicht: Gesamtansicht für alle Jahrzehnte? Evtl. vorrechnen?
 * DONE Zitiervorschlag prominenter
-* EINGEBAUT: Links öffnen neue Tabs: Accessibility
+* DONE: Links öffnen neue Tabs: Accessibility
 * DONE Favicon falscher Schnitzler 
 * Werte der Tabellen oben
-* Link im Tagebuch nicht ersichtlich -> Bewegung im Kreis
+* DONE Link im Tagebuch nicht ersichtlich -> Bewegung im Kreis
 * DONE Aria-Link für Schnitzler-Chronik
 * DONE Link markieren durch Hover
 * DONE Linkfarben
 * DONE Fussnoten in einer Zeile mit Nummer
 * DONE Farben bei gesamt html-Jahren
-* EINGEBAUT Gefilterte Jahre ausschreiben, dafür nicht im Popup
-* EINGEBAUT Zeitleiste verlinken
-* EINGEBAUT Zeitleiste deutsche Monatsangaben
+* DONE Gefilterte Jahre ausschreiben, dafür nicht im Popup
+* DONE Zeitleiste verlinken
+* DONE Zeitleiste deutsche Monatsangaben
