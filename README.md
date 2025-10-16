@@ -12,7 +12,12 @@ collections of useful things to discuss/teach in our team
 * 
 ## Sessions
 
-### Roast my app
+### Roas my app 2
+2025-10-16
+* https://auden-in-austria-digital.github.io/aad-app-dev/
+* google search console https://search.google.com/search-console/about
+
+### Roast my app 1
 2025-10-02
 * what does https://wienerschnitzler.org/ good
 * what does it even better
