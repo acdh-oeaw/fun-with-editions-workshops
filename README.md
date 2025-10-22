@@ -9,10 +9,12 @@ collections of useful things to discuss/teach in our team
 * Fritz' super synoptic viewer (https://github.com/cfhaak/priester_werner)
 * review my app
 * adho dh-tech code review
-* 
+* Roast my app candidates
+  * Schubert (6.11 oder 20.11)
+  * ÖML-Statisch
 ## Sessions
 
-### Roas my app 2
+### Roast my app 2
 2025-10-16
 * https://auden-in-austria-digital.github.io/aad-app-dev/
 * google search console https://search.google.com/search-console/about
