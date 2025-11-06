@@ -14,6 +14,18 @@ collections of useful things to discuss/teach in our team
   * ÖML-Statisch
 ## Sessions
 
+### Make my site zotero-friendly
+2025-11-06
+
+* [Exposing Your Metadata](https://www.zotero.org/support/dev/exposing_metadata)
+* dse-static-cookiecutter implementation
+  * [`partials/zotero.xsl`](https://github.com/acdh-oeaw/dse-static-cookiecutter/blob/main/%7B%7Bcookiecutter.directory_name%7D%7D/xslt/partials/zotero.xsl)
+  * implementation [index.xsl](https://github.com/acdh-oeaw/dse-static-cookiecutter/blob/main/%7B%7Bcookiecutter.directory_name%7D%7D/xslt/index.xsl)
+  * implementation [edition-detail-view](https://github.com/acdh-oeaw/dse-static-cookiecutter/blob/main/%7B%7Bcookiecutter.directory_name%7D%7D/xslt/editions.xsl)
+* Institutstag
+* Mitarbeiter*Innen-Gespräche
+
+
 ### Roast my app 2
 2025-10-16
 * https://auden-in-austria-digital.github.io/aad-app-dev/
