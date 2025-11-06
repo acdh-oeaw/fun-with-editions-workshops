@@ -2,7 +2,7 @@
 collections of useful things to discuss/teach in our team
 
 ## Topics
-
+* Best practices documentation of code/workflows
 * Verschränkung von editorischer Dokumentation mit/im ODD
 *  https://open-webui.acdh-dev.oeaw.ac.at/
 * (DHRI) Strategy
