@@ -14,6 +14,10 @@ collections of useful things to discuss/teach in our team
   * ÖML-Statisch
 ## Sessions
 
+### client side full text search
+2025-12-11
+
+
 ### Roast my app 3
 2025-11-27
 [Tillich-Briefe](https://tillich-briefe.acdh.oeaw.ac.at)
