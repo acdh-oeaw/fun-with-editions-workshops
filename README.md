@@ -14,6 +14,11 @@ collections of useful things to discuss/teach in our team
   * ÖML-Statisch
 ## Sessions
 
+### Roast my app 3
+2025-11-27
+[Tillich-Briefe](https://tillich-briefe.acdh.oeaw.ac.at)
+* Mitarbeiter*Innen-Gespräche
+
 ### Make my site zotero-friendly
 2025-11-06
 
