@@ -12,6 +12,9 @@ collections of useful things to discuss/teach in our team
 * Roast my app candidates
   * Schubert (6.11 oder 20.11)
   * ÖML-Statisch
+* Cache-Handling by Fritz
+* Synoptic-Viewer by Fritz
+* testing, playwright
 ## Sessions
 
 ### client side full text search
