@@ -17,8 +17,8 @@ collections of useful things to discuss/teach in our team
 * testing, playwright
 ## Sessions
 
-### client side full text search
-2025-12-11
+### [client side full text search](flexsearch/README.md)
+2025-12-11 by @tklampfl
 
 
 ### Roast my app 3
