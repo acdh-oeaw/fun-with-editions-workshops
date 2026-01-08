@@ -17,9 +17,15 @@ collections of useful things to discuss/teach in our team
 * testing, playwright
 ## Sessions
 
+### Roast my app 4
+2026-01-22
+[Karl Kraus 1933: Dritte Walpurgisnacht](https://kraus1933.acdh.oeaw.ac.at/) mit Schwerpunkt auf [Topographische Umschrift](https://kraus1933.acdh.oeaw.ac.at/topographical.html)
+
+### happy new year
+2026-01-08
+
 ### [client side full text search](flexsearch/README.md)
 2025-12-11 by @tklampfl
-
 
 ### Roast my app 3
 2025-11-27
