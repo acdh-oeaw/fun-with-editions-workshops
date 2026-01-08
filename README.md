@@ -23,6 +23,9 @@ collections of useful things to discuss/teach in our team
 
 ### happy new year
 2026-01-08
+* [DHD2026](https://dhd2026.digitalhumanities.de/?page_id=548&lang=en)
+* [Digitales Edieren gestern, heute und morgen](https://zfdg.de/sonderband/7)
+* next sessions?
 
 ### [client side full text search](flexsearch/README.md)
 2025-12-11 by @tklampfl
