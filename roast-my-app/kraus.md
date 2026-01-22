@@ -50,7 +50,7 @@
 
 
 ### Responsiveness
-* Das Layout ist nicht optimal
+* Das Layout vom Footer ist nicht optimal
 <img width="583" height="371" alt="pic01" src="https://github.com/user-attachments/assets/20b0616f-0473-43a4-9f0a-77a37f518d4b" />
 
 ### Edition
