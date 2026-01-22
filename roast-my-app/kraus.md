@@ -64,3 +64,37 @@
 * Der Navigationslink auf der ersten und der letzten Seite funktioniert nicht.
   <img width="1014" height="698" alt="pic03" src="https://github.com/user-attachments/assets/16ca6e24-9ddd-4511-8b7f-2f01f4eb866e" />
 
+### a11y
+
+#### lesefassung
+https://kraus1933.acdh.oeaw.ac.at/motti.html?
+* Ensure each HTML document contains a non-empty <title> element
+* Ensure that the page, or at least one of its frames contains a level-one heading (e.g. visually-hidden)
+
+#### topographische umschrift
+https://kraus1933.acdh.oeaw.ac.at/idPb0001.html?mode=off&view=all-columns
+* Ensure every HTML document has a lang attribute
+
+### Datenzugang
+
+nicht möglich?
+* TEI/XML
+* beacon.txt?
+
+### Register
+
+* Breadcrumbs! (Top)
+  * https://kraus1933.acdh.oeaw.ac.at/register_personen.html#DWpers1005 vielleicht bei konkretem Personeneintrag breadcrumb ergänzen
+
+* persönlich: finde es schade wenn entitäten keine eigene Seite bekommen, 
+* schade dass bibliographischer Nachweis hinter Icon versteckt ist
+* gleiches Icon, unterschiedliche Funktionalität (einmal externer link, einmal ausklappen)
+* gesamtzahl der Personen/Stellen?
+* keine Möglichkeit nach Personen zu suchen
+
+
+### Navigation
+* "Zur Edition" finde ich verwirrent; besser über "Über die Edition"; zur Edition hätte ich link zu https://kraus1933.acdh.oeaw.ac.at/motti.html? erwartet
+* inkonsequent Menu und Hamburgermenu; in beiden "Über die Edition" aber nicht "Zur Edition"
+* über das Projekt auch im Footer
+
