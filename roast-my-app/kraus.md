@@ -40,8 +40,12 @@
 
 ## Feedback Fernando
 
-### Allgemeine Struktur
+### Allgemeines
+## Struktur
 * Ich finde es etwas verwirrend, dass aufgrund der Struktur der Website der Editionsapparat als Hauptinhalt und der Text selbst als Nebensache erscheint.
+  
+## Layout
+* Jede von „Annotierte Lesefassung“, „Topographische Umschrift“ und „Notizen“ hat ihre eigene Textdarstellung. Das wirkt etwas unzusammenhängend. 
 
 ### Footer
 * Die Logos wiederholen sich. Mit den Logos der Stadt Wien kann man wenig machen, aber das ACDH-Logo sollte weniger problematisch sein.
