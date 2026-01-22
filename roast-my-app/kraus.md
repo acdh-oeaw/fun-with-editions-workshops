@@ -85,8 +85,7 @@ nicht möglich?
 ### Register
 
 * Breadcrumbs! (Top)
-  * https://kraus1933.acdh.oeaw.ac.at/register_personen.html#DWpers1005 vielleicht bei konkretem Personeneintrag breadcrumb ergänzen
-
+* https://kraus1933.acdh.oeaw.ac.at/register_personen.html#DWpers1005 vielleicht bei konkretem Personeneintrag breadcrumb ergänzen
 * persönlich: finde es schade wenn entitäten keine eigene Seite bekommen, 
 * schade dass bibliographischer Nachweis hinter Icon versteckt ist
 * gleiches Icon, unterschiedliche Funktionalität (einmal externer link, einmal ausklappen)
