@@ -40,13 +40,18 @@
 
 ## Feedback Fernando
 
+### Allgemeine Struktur
+* Ich finde es etwas verwirrend, dass aufgrund der Struktur der Website der Editionsapparat als Hauptinhalt und der Text selbst als Nebensache erscheint.
+
 ### Footer
 * Die Logos wiederholen sich. Mit den Logos der Stadt Wien kann man wenig machen, aber das ACDH-Logo sollte weniger problematisch sein.
+  <img width="1804" height="780" alt="pic02" src="https://github.com/user-attachments/assets/662465ef-9111-4024-b1fb-fb31b11e89f1" />
 * Mir gefällt es, dass der große Footer nur auf der Landing-Page steht und es eine kleinere Version für die anderen gibt
+
 
 ### Responsiveness
 * Das Layout ist nicht optimal
 <img width="583" height="371" alt="pic01" src="https://github.com/user-attachments/assets/20b0616f-0473-43a4-9f0a-77a37f518d4b" />
 
 ### Edition
-* Ich habe eine Weile benötigt und mehrere "Mehr lesen" geklickt, bis ich den Button "Zum Text" gemerkt habe. Ich glaube, Grau auf Weiß ist hier keine der besten Kombis.
+* Ich glaube, Grau auf Weiß ist keine der besten Kombis für den Button "Zum Text". Er sollte mehr hervorgehoben werden
