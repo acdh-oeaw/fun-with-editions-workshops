@@ -7,15 +7,23 @@ collections of useful things to discuss/teach in our team
 *  https://open-webui.acdh-dev.oeaw.ac.at/
 * (DHRI) Strategy
 * Fritz' super synoptic viewer (https://github.com/cfhaak/priester_werner)
-* review my app
 * adho dh-tech code review
 * Roast my app candidates
   * Schubert (6.11 oder 20.11)
   * ÖML-Statisch
 * Cache-Handling by Fritz
-* testing, playwright
 * screencast, how to make one (Martin Anton)
 ## Sessions
+
+
+## uv and dhd2026
+2026-03-05
+* [uv](uv/README.md)
+* [DHd2026-Tagebuch](dhd2026/README.md)
+
+## playwright
+2026-02-19
+by Daniel Elsner https://github.com/acdh-oeaw/dse-static-playwright
 
 ### Roast my app 4
 2026-01-22
