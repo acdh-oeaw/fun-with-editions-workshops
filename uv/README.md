@@ -48,6 +48,11 @@ uv run main.py
 cat .python-version
 ```
 
+### ruff in docker/github actions
+
+gh-action https://github.com/astral-sh/setup-uv
+https://docs.astral.sh/uv/guides/integration/docker/
+
 # ruff
 linter/formatter
 
@@ -64,6 +69,8 @@ uv run rff format
 
 ## format on save with vscode
 
+add following file: 
+
 .vscode/settings.json
 ```json
 {
@@ -77,3 +84,5 @@ uv run rff format
   }
 }
 ```
+
+install https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
