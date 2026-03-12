@@ -17,9 +17,13 @@ collections of useful things to discuss/teach in our team
 
 
 ## uv and dhd2026
-2026-03-05
-* [uv](uv/README.md)
+2026-03-05 moved to 2026-0312
+* DHRI-all meeting Thursday 16.4. 09:30-14:30
+  * **“Look what cool stuff we’re doing!”** think about things maybe worth showing off
+  * **“Let’s try this!”**
+    * combining moder JS-Tooling with dse-static-cookiecutter
 * [DHd2026-Tagebuch](dhd2026/README.md)
+* [uv](uv/README.md)
 
 ## playwright
 2026-02-19

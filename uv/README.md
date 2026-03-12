@@ -2,10 +2,6 @@
 https://docs.astral.sh/uv/
 > An extremely fast Python package and project manager, written in Rust.
 
-
-show, don't tell
-https://www.geeksforgeeks.org/nlp/doc2vec-in-nlp/
-
 ## start a new project via command line 
 
 ### why?
@@ -90,3 +86,7 @@ add following file:
 ```
 
 install https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
+
+
+show, don't tell
+https://www.geeksforgeeks.org/nlp/doc2vec-in-nlp/
