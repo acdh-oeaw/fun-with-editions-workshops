@@ -15,3 +15,10 @@ https://pypi.org/project/Quid/
 * not found at DHd2026 but in [ACDH](https://gitlab.oeaw.ac.at/acdh-ch/pressmint/pressmint-ground-truth)
 * https://github.com/DCGM/pero-ocr
 * https://pero-ocr.fit.vutbr.cz/document/documents* 
+
+## DOI-Stories
+lot's of stories of people using Zenodo because they haven't found an alternative + of people having problems with the amount of data vs the number of DOIs they can get
+
+## VIAN and TIB-AV-A
+* [VIAN](https://github.com/Movie-Analytics/VIAN/releases): mostly for manual annotation of video material, only segmentation is automatic (AI)
+* [TIB-AV-A](https://service.tib.eu/tibava): AI playground for video analysis, identifying characters, locations, main color etc.
