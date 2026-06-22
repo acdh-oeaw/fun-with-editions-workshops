@@ -15,11 +15,14 @@ collections of useful things to discuss/teach in our team
 * screencast, how to make one (Martin Anton)
 ## Sessions
 
+## [From `<listEvent>` to affiliation network](event-network/fwe_event_network.md)
+2026-06-11
+
 ## [dhri-all-prep](dhri-all-prep/README.md)
 2026-04-02
 
 ## [nlp-jf-text-reuse](nlp-jf-text-reuse/README.md)
-2026-03-05 moved to 2026-0312
+2026-03-05 moved to 2026-03-12
 
 ## uv and dhd2026
 2026-03-05 moved to 2026-0312
