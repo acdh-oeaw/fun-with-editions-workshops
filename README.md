@@ -18,6 +18,10 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
+## [Raost-my-app: ÖML-Neu](roast-my-app/oeml-new.md)
+
+2026-06-22
+
 ## [From `<listEvent>` to affiliation network](event-network/fwe_event_network.md)
 
 2026-06-11
