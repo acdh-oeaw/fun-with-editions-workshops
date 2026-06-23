@@ -7,4 +7,5 @@
 - Auf großen Bildschirmen liegt der Footer in der Seitenmitte, wenn `<main>` nur wenige Inhalte enthält, z. B. bei „In Vorbereitung“.
 - Das Impressum hat ein anderes Layout.
 - Personenregister: Da Namens- und Artikel-Links meistens denselben Text haben, wirkt die Tabelle nicht sehr intuitiv. (Vielleicht könnten die Artikel in Anführungszeichen gesetzt oder anderweitig differenziert werden?)
-- zu geringer Farbkontrast bei Text in grauer Schriftfarbe
+- zu geringer Farbkontrast bei Text in grauer Schriftfarbe (axe DevTools)
+- fehlender Bild-`alt`-Text (axe DevTools)
