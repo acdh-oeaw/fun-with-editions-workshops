@@ -11,3 +11,5 @@
 - fehlender Bild-`alt`-Text (axe DevTools)
 - ich fände es super, wenn der Text, der erklärt, was für eine Website das ist (`Das oeml ist ...`), visuell zentraler wäre - er ist jetzt (wie bei der alten Seite auch) in den Peripherie-Bereich mit weiterführenden Links ausgegliedert (den ich persönlich kognitiv gleich einmal ausgeblendet habe)
 - umgekehrt `Artikel der Woche` vielleicht zu zentral (im Vergleich zum eher geringen Stellenwert dieses Features gegenüber so zentralen Features wie `Artikel A–Z` oder `Detailsuche`)? Wirkt extra-prominent durch Schattierung um Rahmen, sodass es optisch quasi 3-dimensional heraussticht gegenüber sonst flachem Design ...
+- komfortable sticky navigation sidebar in Artikel-Ansicht
+- angenehm, dass Volltext- und Artikel-Suche (getrennt in alter Seite) jetzt in einem Tool vereint sind
