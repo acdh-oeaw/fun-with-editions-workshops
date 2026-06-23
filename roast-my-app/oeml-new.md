@@ -9,3 +9,4 @@
 - Personenregister: Da Namens- und Artikel-Links meistens denselben Text haben, wirkt die Tabelle nicht sehr intuitiv. (Vielleicht könnten die Artikel in Anführungszeichen gesetzt oder anderweitig differenziert werden?)
 - zu geringer Farbkontrast bei Text in grauer Schriftfarbe (axe DevTools)
 - fehlender Bild-`alt`-Text (axe DevTools)
+- ich fände es super, wenn der Text, der erklärt, was für eine Website das ist (`Das oeml ist ...`), visuell zentraler wäre - er ist jetzt (wie bei der alten Seite auch) in den Peripherie-Bereich mit weiterführenden Links ausgegliedert (den ich persönlich kognitiv gleich einmal ausgeblendet habe)
