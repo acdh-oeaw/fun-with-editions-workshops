@@ -7,12 +7,10 @@ collections of useful things to discuss/teach in our team
 * Best practices documentation of code/workflows
 * Verschränkung von editorischer Dokumentation mit/im ODD
 * <https://open-webui.acdh-dev.oeaw.ac.at/>
-* (DHRI) Strategy
 * Fritz' super synoptic viewer (<https://github.com/cfhaak/priester_werner>)
 * adho dh-tech code review
 * Roast my app candidates
   * Schubert (6.11 oder 20.11)
-  * ÖML-Statisch
 * Cache-Handling by Fritz
 * screencast, how to make one (Martin Anton)
 
