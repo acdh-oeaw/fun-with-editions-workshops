@@ -18,6 +18,10 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
+## summer is over / [Digital Publishing ARIA Roles](https://www.w3.org/TR/dpub-aria-1.1/#roles)
+
+2026-09-10
+
 ## [Raost-my-app: ÖML-Neu](roast-my-app/oeml-new.md)
 
 2026-06-22
@@ -36,7 +40,7 @@ collections of useful things to discuss/teach in our team
 
 ## uv and dhd2026
 
-2026-03-05 moved to 2026-0312
+2026-03-05 moved to 2026-03-12
 
 * DHRI-all meeting Thursday 16.4. 09:30-14:30
   * **“Look what cool stuff we’re doing!”** think about things maybe worth showing off
