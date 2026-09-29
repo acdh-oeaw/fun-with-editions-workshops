@@ -16,27 +16,34 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
-## summer is over / [Digital Publishing ARIA Roles](https://www.w3.org/TR/dpub-aria-1.1/#roles)
+### Martin & Claude
+
+2026-10-01
+
+* using LLMs to review/proofread Schnitzler's letters
+* examples of apps built by Claude to improve the editor's quality of life
+
+### summer is over / [Digital Publishing ARIA Roles](https://www.w3.org/TR/dpub-aria-1.1/#roles)
 
 2026-09-10
 
-## [Raost-my-app: ÖML-Neu](roast-my-app/oeml-new.md)
+### [Raost-my-app: ÖML-Neu](roast-my-app/oeml-new.md)
 
 2026-06-22
 
-## [From `<listEvent>` to affiliation network](event-network/fwe_event_network.md)
+### [From `<listEvent>` to affiliation network](event-network/fwe_event_network.md)
 
 2026-06-11
 
-## [dhri-all-prep](dhri-all-prep/README.md)
+### [dhri-all-prep](dhri-all-prep/README.md)
 
 2026-04-02
 
-## [nlp-jf-text-reuse](nlp-jf-text-reuse/README.md)
+### [nlp-jf-text-reuse](nlp-jf-text-reuse/README.md)
 
 2026-03-05 moved to 2026-03-12
 
-## uv and dhd2026
+### uv and dhd2026
 
 2026-03-05 moved to 2026-03-12
 
@@ -47,7 +54,7 @@ collections of useful things to discuss/teach in our team
 * [DHd2026-Tagebuch](dhd2026/README.md)
 * [uv](uv/README.md)
 
-## playwright
+### playwright
 
 2026-02-19
 by Daniel Elsner <https://github.com/acdh-oeaw/dse-static-playwright>
