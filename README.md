@@ -16,6 +16,13 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
+## Thomas & Timo
+
+2026-10-15
+
+* Thomas shows [client-side fulltext search](https://priscian-glosses.acdh-dev.oeaw.ac.at/search.html) implementation 
+* Timo presents the [KRP-Project](https://github.com/orgs/krp-project/repositories) 
+
 ### Martin & Claude
 
 2026-10-01
